@@ -9,7 +9,7 @@ before_deploy:
 deploy:
 - provider: npm
   on:
-    branch: build-with-travis
+    branch: master
   skip_cleanup: true
   email: $NPM_EMAIL
   api_key: $NPM_TOKEN
