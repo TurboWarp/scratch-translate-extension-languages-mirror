@@ -1370,7 +1370,7 @@
       },
       {
         "code": "ml",
-        "name": "malaialam"
+        "name": "malaiàlam"
       },
       {
         "code": "mt",
@@ -6821,7 +6821,7 @@
       },
       {
         "code": "da",
-        "name": "Dansk"
+        "name": "Denmark"
       },
       {
         "code": "eo",
@@ -6829,11 +6829,15 @@
       },
       {
         "code": "et",
-        "name": "Esti"
+        "name": "Estonia"
       },
       {
         "code": "fa",
         "name": "Farsi"
+      },
+      {
+        "code": "fi",
+        "name": "Finlandia"
       },
       {
         "code": "ga",
@@ -6905,11 +6909,11 @@
       },
       {
         "code": "lv",
-        "name": "Latvi"
+        "name": "Latvia"
       },
       {
         "code": "lt",
-        "name": "Lituavi"
+        "name": "Lituania"
       },
       {
         "code": "hu",
@@ -6941,7 +6945,7 @@
       },
       {
         "code": "pl",
-        "name": "Polski"
+        "name": "Polandia"
       },
       {
         "code": "pt",
@@ -6965,19 +6969,15 @@
       },
       {
         "code": "sk",
-        "name": "Slovak"
+        "name": "Slovakia"
       },
       {
         "code": "sl",
-        "name": "Sloven"
+        "name": "Slovenia"
       },
       {
         "code": "es",
         "name": "Spanyol"
-      },
-      {
-        "code": "fi",
-        "name": "Suomi"
       },
       {
         "code": "sv",
@@ -16311,7 +16311,6 @@
     "esperantoca": "eo",
     "esperantó": "eo",
     "espéranto": "eo",
-    "esti": "et",
     "estisk": "et",
     "estnisch": "et",
     "estniska": "et",
@@ -16353,6 +16352,7 @@
     "finland": "fi",
     "finlandese": "fi",
     "finlandeză": "fi",
+    "finlandia": "fi",
     "finlandisht": "fi",
     "finlandiż": "fi",
     "finlandés": "fi",
@@ -16871,7 +16871,6 @@
     "latinčina": "la",
     "latinščina": "la",
     "latish": "lv",
-    "latvi": "lv",
     "latvia": "lv",
     "latvian": "lv",
     "latviešu": "lv",
@@ -16920,12 +16919,12 @@
     "litouws": "lt",
     "litovčina": "lt",
     "litovščina": "lt",
+    "lituania": "lt",
     "lituaniană": "lt",
     "lituanien": "lt",
     "lituaniera": "lt",
     "lituanisht": "lt",
     "lituano": "lt",
-    "lituavi": "lt",
     "lituà": "lt",
     "litva": "lt",
     "litvanca": "lt",
@@ -16974,11 +16973,11 @@
     "malaeis": "ms",
     "malaeză": "ms",
     "malai": "ms",
-    "malaialam": "ml",
     "malaidhis": "ms",
     "malaiji": "ms",
     "malaio": "ms",
     "malaisien": "ms",
+    "malaiàlam": "ml",
     "malajalaami": "ml",
     "malajalam": "ml",
     "malajalamiešu": "ml",
@@ -17157,6 +17156,7 @@
     "polaco": "pl",
     "polainnis": "pl",
     "poland": "pl",
+    "polandia": "pl",
     "polish": "pl",
     "poljski": "pl",
     "poljščina": "pl",
