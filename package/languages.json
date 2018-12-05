@@ -34,6 +34,10 @@
         "name": "Chinese (Simplified)"
       },
       {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
+      },
+      {
         "code": "hr",
         "name": "Croatian"
       },
@@ -377,6 +381,10 @@
         "name": "الصربية"
       },
       {
+        "code": "zh-tw",
+        "name": "الصينية (التقليدية)"
+      },
+      {
         "code": "zh",
         "name": "الصينية (المبسطة)"
       },
@@ -517,6 +525,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -829,6 +841,10 @@
         "name": "кітайская (спрошчаная)"
       },
       {
+        "code": "zh-tw",
+        "name": "кітайская (традыцыйная)"
+      },
+      {
         "code": "ku",
         "name": "Курдская (курманджы)"
       },
@@ -1061,6 +1077,10 @@
       {
         "code": "zh",
         "name": "китайски (опростен)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "китайски (традиционен)"
       },
       {
         "code": "ko",
@@ -1449,6 +1469,10 @@
         "name": "xinès (simplificat)"
       },
       {
+        "code": "zh-tw",
+        "name": "xinès (tradicional)"
+      },
+      {
         "code": "zu",
         "name": "zulú"
       }
@@ -1489,6 +1513,10 @@
       {
         "code": "cs",
         "name": "čeština"
+      },
+      {
+        "code": "zh-tw",
+        "name": "čínština (tradiční)"
       },
       {
         "code": "zh",
@@ -1925,6 +1953,10 @@
         "name": "Tsieceg"
       },
       {
+        "code": "zh-tw",
+        "name": "Tsieineeg (Traddodiadol)"
+      },
+      {
         "code": "zh",
         "name": "Tsieineeg (Wedi symleiddio)"
       },
@@ -2041,6 +2073,10 @@
       {
         "code": "zh",
         "name": "Kinesisk (forenklet)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Kinesisk (traditionelt)"
       },
       {
         "code": "ko",
@@ -2203,6 +2239,10 @@
       {
         "code": "bg",
         "name": "Bulgarisch"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinesisch (traditionell)"
       },
       {
         "code": "zh",
@@ -2527,6 +2567,10 @@
         "name": "Κινέζικα (Απλοποιημένα)"
       },
       {
+        "code": "zh-tw",
+        "name": "Κινέζικα (Παραδοσιακά)"
+      },
+      {
         "code": "ko",
         "name": "Κορεατικά"
       },
@@ -2695,6 +2739,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -2937,6 +2985,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -3191,6 +3243,10 @@
       {
         "code": "zh",
         "name": "chino (simplificado)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "chino (tradicional)"
       },
       {
         "code": "ko",
@@ -3595,6 +3651,10 @@
         "name": "telugu"
       },
       {
+        "code": "zh-tw",
+        "name": "traditsiooniline hiina"
+      },
+      {
         "code": "cs",
         "name": "tšehhi"
       },
@@ -3857,6 +3917,10 @@
         "name": "txinera (soildua)"
       },
       {
+        "code": "zh-tw",
+        "name": "txinera (tradizionala)"
+      },
+      {
         "code": "uk",
         "name": "ukrainera"
       },
@@ -3973,6 +4037,10 @@
       {
         "code": "zh",
         "name": "چینی (ساده‌شده)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "چینی (سنتی)"
       },
       {
         "code": "da",
@@ -4197,6 +4265,10 @@
         "name": "katalaani"
       },
       {
+        "code": "zh-tw",
+        "name": "kiina (perinteinen)"
+      },
+      {
         "code": "zh",
         "name": "kiina (yksinkert.)"
       },
@@ -4401,6 +4473,10 @@
       {
         "code": "zh",
         "name": "Chinois (simplifié)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinois (traditionnel)"
       },
       {
         "code": "ko",
@@ -4794,6 +4870,10 @@
         "name": "Sínis (Simplithe)"
       },
       {
+        "code": "zh-tw",
+        "name": "Sínis (Traidisiúnta)"
+      },
+      {
         "code": "sl",
         "name": "Slóivéinis"
       },
@@ -5040,6 +5120,10 @@
         "name": "Sèirbis"
       },
       {
+        "code": "zh-tw",
+        "name": "Sìonais (seann-nòsach)"
+      },
+      {
         "code": "zh",
         "name": "Sìonais (sìmplichte)"
       },
@@ -5128,6 +5212,10 @@
       {
         "code": "zh",
         "name": "chinés (simplificado)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "chinés (tradicional)"
       },
       {
         "code": "ko",
@@ -5480,6 +5568,10 @@
         "name": "מקדונית"
       },
       {
+        "code": "zh-tw",
+        "name": "סינית (מסורתית)"
+      },
+      {
         "code": "zh",
         "name": "סינית (פשוטה)"
       },
@@ -5640,6 +5732,10 @@
       {
         "code": "el",
         "name": "ग्रीक"
+      },
+      {
+        "code": "zh-tw",
+        "name": "चीनी (परंपरागत)"
       },
       {
         "code": "zh",
@@ -5916,6 +6012,10 @@
         "name": "kineski (pojednost.)"
       },
       {
+        "code": "zh-tw",
+        "name": "kineski (tradicionalni)"
+      },
+      {
         "code": "ko",
         "name": "korejski"
       },
@@ -6088,6 +6188,10 @@
       {
         "code": "zh",
         "name": "Chinwa (Senp)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinwa (Tradisyonèl)"
       },
       {
         "code": "da",
@@ -6398,6 +6502,10 @@
       {
         "code": "zh",
         "name": "kínai (egyszerűsített)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "kínai (hagyományos)"
       },
       {
         "code": "ko",
@@ -6722,6 +6830,10 @@
         "name": "չեխերեն"
       },
       {
+        "code": "zh-tw",
+        "name": "չինարեն (ավանդական)"
+      },
+      {
         "code": "zh",
         "name": "չինարեն (պարզեցված)"
       },
@@ -6818,6 +6930,10 @@
       {
         "code": "zh",
         "name": "China (Aks. Sederhana)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "China (Aks. Tradisional)"
       },
       {
         "code": "da",
@@ -7126,6 +7242,10 @@
         "name": "kínverska (einfölduð)"
       },
       {
+        "code": "zh-tw",
+        "name": "kínverska (hefðbundin)"
+      },
+      {
         "code": "ko",
         "name": "kóreska"
       },
@@ -7302,6 +7422,10 @@
       {
         "code": "zh",
         "name": "Cinese (semplificato)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Cinese (tradizionale)"
       },
       {
         "code": "ko",
@@ -7742,6 +7866,10 @@
         "name": "中国語(簡体)"
       },
       {
+        "code": "zh-tw",
+        "name": "中国語(繁体)"
+      },
+      {
         "code": "ja",
         "name": "日本語"
       }
@@ -7822,6 +7950,10 @@
       {
         "code": "zh",
         "name": "ಚೀನಿ (ಸರಳೀಕೃತ)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "ಚೀನಿ (ಸಾಂಪ್ರದಾಯಿಕ)"
       },
       {
         "code": "ja",
@@ -8166,6 +8298,10 @@
         "name": "중국어(간체)"
       },
       {
+        "code": "zh-tw",
+        "name": "중국어(번체)"
+      },
+      {
         "code": "cs",
         "name": "체코어"
       },
@@ -8262,6 +8398,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -8504,6 +8644,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -8816,6 +8960,10 @@
         "name": "kinų (supaprastinta)"
       },
       {
+        "code": "zh-tw",
+        "name": "kinų (tradicinė)"
+      },
+      {
         "code": "ko",
         "name": "korėjiečių"
       },
@@ -9074,6 +9222,10 @@
         "name": "kurdu"
       },
       {
+        "code": "zh-tw",
+        "name": "ķīniešu (tradicionālā)"
+      },
+      {
         "code": "zh",
         "name": "ķīniešu (vienkāršotā)"
       },
@@ -9300,6 +9452,10 @@
         "name": "кинески (поедноставен)"
       },
       {
+        "code": "zh-tw",
+        "name": "кинески (традиционален)"
+      },
+      {
         "code": "ko",
         "name": "корејски"
       },
@@ -9520,6 +9676,10 @@
       {
         "code": "cs",
         "name": "ചെക്ക്"
+      },
+      {
+        "code": "zh-tw",
+        "name": "ചൈനീസ് (പരമ്പരാഗതം)"
       },
       {
         "code": "zh",
@@ -9904,6 +10064,10 @@
         "name": "Хятад (Ердийн)"
       },
       {
+        "code": "zh-tw",
+        "name": "Хятад (Уламжлалт)"
+      },
+      {
         "code": "cs",
         "name": "Чех"
       },
@@ -9996,6 +10160,10 @@
       {
         "code": "el",
         "name": "ग्रीक"
+      },
+      {
+        "code": "zh-tw",
+        "name": "चीनी (पारंपारिक)"
       },
       {
         "code": "zh",
@@ -10202,6 +10370,10 @@
       {
         "code": "zh",
         "name": "Cina (Mudah)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Cina (Tradisional)"
       },
       {
         "code": "hr",
@@ -10412,6 +10584,10 @@
       {
         "code": "zh",
         "name": "&#266;ini&#380; (Semplifikat)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "&#266;ini&#380; (Tradizzjonali)"
       },
       {
         "code": "sq",
@@ -10720,6 +10896,10 @@
         "name": "ဇူးလူး"
       },
       {
+        "code": "zh-tw",
+        "name": "တရုတ် (ရိုးရာ)"
+      },
+      {
         "code": "zh",
         "name": "တရုတ် (အလွယ်)"
       },
@@ -10994,6 +11174,10 @@
         "name": "kinesisk (forenklet)"
       },
       {
+        "code": "zh-tw",
+        "name": "kinesisk (tradisjonell)"
+      },
+      {
         "code": "ko",
         "name": "koreansk"
       },
@@ -11162,6 +11346,10 @@
       {
         "code": "ca",
         "name": "Catalaans"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinees (traditioneel)"
       },
       {
         "code": "zh",
@@ -11410,6 +11598,10 @@
         "name": "Chinese (Simplified)"
       },
       {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
+      },
+      {
         "code": "hr",
         "name": "Croatian"
       },
@@ -11646,6 +11838,10 @@
       {
         "code": "bg",
         "name": "bułgarski"
+      },
+      {
+        "code": "zh-tw",
+        "name": "chiński (tradycyjny)"
       },
       {
         "code": "zh",
@@ -11892,6 +12088,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -12142,6 +12342,10 @@
       {
         "code": "zh",
         "name": "Chineză (Simplificată)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chineză (Tradițională)"
       },
       {
         "code": "ko",
@@ -12434,6 +12638,10 @@
         "name": "каталанский"
       },
       {
+        "code": "zh-tw",
+        "name": "китайский (традиционный)"
+      },
+      {
         "code": "zh",
         "name": "китайский (упрощенный)"
       },
@@ -12618,6 +12826,10 @@
       {
         "code": "zh",
         "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -12865,6 +13077,10 @@
       {
         "code": "cs",
         "name": "čeština"
+      },
+      {
+        "code": "zh-tw",
+        "name": "čínština (tradičná)"
       },
       {
         "code": "zh",
@@ -13181,6 +13397,10 @@
         "name": "kitajščina (poenostavljena)"
       },
       {
+        "code": "zh-tw",
+        "name": "kitajščina (tradicionalna)"
+      },
+      {
         "code": "ko",
         "name": "korejščina"
       },
@@ -13423,6 +13643,10 @@
         "name": "Kinezisht (E thjeshtuar)"
       },
       {
+        "code": "zh-tw",
+        "name": "Kinezisht (Tradicionale)"
+      },
+      {
         "code": "ko",
         "name": "Koreanisht"
       },
@@ -13647,6 +13871,10 @@
       {
         "code": "zh",
         "name": "кинески (поједностављени)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "кинески (традиционални)"
       },
       {
         "code": "ko",
@@ -13895,6 +14123,10 @@
         "name": "kinesiska (förenklad)"
       },
       {
+        "code": "zh-tw",
+        "name": "kinesiska (traditionell)"
+      },
+      {
         "code": "ko",
         "name": "koreanska"
       },
@@ -14117,6 +14349,10 @@
         "name": "చైనీస్ (సరళమైన)"
       },
       {
+        "code": "zh-tw",
+        "name": "చైనీస్ (సామ్ప్రదాయమైన)"
+      },
+      {
         "code": "ja",
         "name": "జపనీస్"
       },
@@ -14309,6 +14545,10 @@
       {
         "code": "hr",
         "name": "ภาษาโครเอเชีย"
+      },
+      {
+        "code": "zh-tw",
+        "name": "ภาษาจีน (ดั้งเดิม)"
       },
       {
         "code": "zh",
@@ -14555,6 +14795,10 @@
       {
         "code": "zh",
         "name": "Çince (Basitleştirilmiş)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Çince (Geleneksel)"
       },
       {
         "code": "da",
@@ -14865,6 +15109,10 @@
       {
         "code": "zh",
         "name": "китайська (спрощена)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "китайська (традиційна)"
       },
       {
         "code": "ko",
@@ -15213,6 +15461,10 @@
         "name": "Vyetnam"
       },
       {
+        "code": "zh-tw",
+        "name": "Xitoy (an’anaviy)"
+      },
+      {
         "code": "zh",
         "name": "Xitoy (soddalashgan)"
       },
@@ -15461,6 +15713,10 @@
       {
         "code": "zh",
         "name": "Tiếng Trung (Giản Thể)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Tiếng Trung (Phồn thể)"
       },
       {
         "code": "uk",
@@ -15726,8 +15982,504 @@
         "name": "越南语"
       },
       {
+        "code": "zh-tw",
+        "name": "中文(繁体)"
+      },
+      {
         "code": "zh",
         "name": "中文(简体)"
+      }
+    ],
+    "zh-cn": [
+      {
+        "code": "sq",
+        "name": "阿尔巴尼亚语"
+      },
+      {
+        "code": "ar",
+        "name": "阿拉伯语"
+      },
+      {
+        "code": "ga",
+        "name": "爱尔兰语"
+      },
+      {
+        "code": "et",
+        "name": "爱沙尼亚语"
+      },
+      {
+        "code": "eu",
+        "name": "巴斯克语"
+      },
+      {
+        "code": "be",
+        "name": "白俄罗斯语"
+      },
+      {
+        "code": "bg",
+        "name": "保加利亚语"
+      },
+      {
+        "code": "is",
+        "name": "冰岛语"
+      },
+      {
+        "code": "pl",
+        "name": "波兰语"
+      },
+      {
+        "code": "fa",
+        "name": "波斯语"
+      },
+      {
+        "code": "da",
+        "name": "丹麦语"
+      },
+      {
+        "code": "de",
+        "name": "德语"
+      },
+      {
+        "code": "ru",
+        "name": "俄语"
+      },
+      {
+        "code": "fr",
+        "name": "法语"
+      },
+      {
+        "code": "fi",
+        "name": "芬兰语"
+      },
+      {
+        "code": "ht",
+        "name": "海地克里奥尔语"
+      },
+      {
+        "code": "ko",
+        "name": "韩语"
+      },
+      {
+        "code": "nl",
+        "name": "荷兰语"
+      },
+      {
+        "code": "gl",
+        "name": "加利西亚语"
+      },
+      {
+        "code": "ca",
+        "name": "加泰罗尼亚语"
+      },
+      {
+        "code": "cs",
+        "name": "捷克语"
+      },
+      {
+        "code": "kn",
+        "name": "卡纳达语"
+      },
+      {
+        "code": "hr",
+        "name": "克罗地亚语"
+      },
+      {
+        "code": "ku",
+        "name": "库尔德语"
+      },
+      {
+        "code": "la",
+        "name": "拉丁语"
+      },
+      {
+        "code": "lv",
+        "name": "拉脱维亚语"
+      },
+      {
+        "code": "lt",
+        "name": "立陶宛语"
+      },
+      {
+        "code": "ro",
+        "name": "罗马尼亚语"
+      },
+      {
+        "code": "mt",
+        "name": "马耳他语"
+      },
+      {
+        "code": "mr",
+        "name": "马拉地语"
+      },
+      {
+        "code": "ml",
+        "name": "马拉雅拉姆语"
+      },
+      {
+        "code": "ms",
+        "name": "马来语"
+      },
+      {
+        "code": "mk",
+        "name": "马其顿语"
+      },
+      {
+        "code": "mn",
+        "name": "蒙古语"
+      },
+      {
+        "code": "my",
+        "name": "缅甸语"
+      },
+      {
+        "code": "zu",
+        "name": "南非祖鲁语"
+      },
+      {
+        "code": "pt",
+        "name": "葡萄牙语"
+      },
+      {
+        "code": "ja",
+        "name": "日语"
+      },
+      {
+        "code": "sv",
+        "name": "瑞典语"
+      },
+      {
+        "code": "sr",
+        "name": "塞尔维亚语"
+      },
+      {
+        "code": "eo",
+        "name": "世界语"
+      },
+      {
+        "code": "sk",
+        "name": "斯洛伐克语"
+      },
+      {
+        "code": "sl",
+        "name": "斯洛文尼亚语"
+      },
+      {
+        "code": "gd",
+        "name": "苏格兰盖尔语"
+      },
+      {
+        "code": "te",
+        "name": "泰卢固语"
+      },
+      {
+        "code": "th",
+        "name": "泰语"
+      },
+      {
+        "code": "tr",
+        "name": "土耳其语"
+      },
+      {
+        "code": "cy",
+        "name": "威尔士语"
+      },
+      {
+        "code": "uk",
+        "name": "乌克兰语"
+      },
+      {
+        "code": "uz",
+        "name": "乌兹别克语"
+      },
+      {
+        "code": "es",
+        "name": "西班牙语"
+      },
+      {
+        "code": "el",
+        "name": "希腊语"
+      },
+      {
+        "code": "hu",
+        "name": "匈牙利语"
+      },
+      {
+        "code": "hy",
+        "name": "亚美尼亚语"
+      },
+      {
+        "code": "it",
+        "name": "意大利语"
+      },
+      {
+        "code": "hi",
+        "name": "印地语"
+      },
+      {
+        "code": "id",
+        "name": "印尼语"
+      },
+      {
+        "code": "en",
+        "name": "英语"
+      },
+      {
+        "code": "vi",
+        "name": "越南语"
+      },
+      {
+        "code": "zh-tw",
+        "name": "中文(繁体)"
+      },
+      {
+        "code": "zh",
+        "name": "中文(简体)"
+      }
+    ],
+    "zh-tw": [
+      {
+        "code": "tr",
+        "name": "土耳其文"
+      },
+      {
+        "code": "zh-tw",
+        "name": "中文(繁體)"
+      },
+      {
+        "code": "zh",
+        "name": "中文(簡體)"
+      },
+      {
+        "code": "da",
+        "name": "丹麥文"
+      },
+      {
+        "code": "eu",
+        "name": "巴斯克文"
+      },
+      {
+        "code": "ja",
+        "name": "日文"
+      },
+      {
+        "code": "eo",
+        "name": "世界語"
+      },
+      {
+        "code": "gl",
+        "name": "加里西亞文"
+      },
+      {
+        "code": "ca",
+        "name": "加泰羅尼亞文"
+      },
+      {
+        "code": "kn",
+        "name": "卡納達文"
+      },
+      {
+        "code": "be",
+        "name": "白俄羅斯文"
+      },
+      {
+        "code": "lt",
+        "name": "立陶宛文"
+      },
+      {
+        "code": "is",
+        "name": "冰島文"
+      },
+      {
+        "code": "hu",
+        "name": "匈牙利文"
+      },
+      {
+        "code": "id",
+        "name": "印尼文"
+      },
+      {
+        "code": "hi",
+        "name": "印度文"
+      },
+      {
+        "code": "es",
+        "name": "西班牙文"
+      },
+      {
+        "code": "hr",
+        "name": "克羅埃西亞文"
+      },
+      {
+        "code": "el",
+        "name": "希臘文"
+      },
+      {
+        "code": "hy",
+        "name": "亞美尼亞文"
+      },
+      {
+        "code": "la",
+        "name": "拉丁文"
+      },
+      {
+        "code": "lv",
+        "name": "拉脫維亞文"
+      },
+      {
+        "code": "fr",
+        "name": "法文"
+      },
+      {
+        "code": "fa",
+        "name": "波斯文"
+      },
+      {
+        "code": "pl",
+        "name": "波蘭文"
+      },
+      {
+        "code": "fi",
+        "name": "芬蘭文"
+      },
+      {
+        "code": "ar",
+        "name": "阿拉伯文"
+      },
+      {
+        "code": "sq",
+        "name": "阿爾巴尼亞文"
+      },
+      {
+        "code": "ru",
+        "name": "俄文"
+      },
+      {
+        "code": "bg",
+        "name": "保加利亞文"
+      },
+      {
+        "code": "zu",
+        "name": "南非祖魯文"
+      },
+      {
+        "code": "cy",
+        "name": "威爾斯文"
+      },
+      {
+        "code": "en",
+        "name": "英文"
+      },
+      {
+        "code": "ku",
+        "name": "庫德文"
+      },
+      {
+        "code": "th",
+        "name": "泰文"
+      },
+      {
+        "code": "te",
+        "name": "泰盧固文"
+      },
+      {
+        "code": "ht",
+        "name": "海地克里奧文"
+      },
+      {
+        "code": "uk",
+        "name": "烏克蘭文"
+      },
+      {
+        "code": "uz",
+        "name": "烏茲別克文"
+      },
+      {
+        "code": "mt",
+        "name": "馬耳他文"
+      },
+      {
+        "code": "ms",
+        "name": "馬來文"
+      },
+      {
+        "code": "mk",
+        "name": "馬其頓文"
+      },
+      {
+        "code": "mr",
+        "name": "馬拉地文"
+      },
+      {
+        "code": "ml",
+        "name": "馬拉雅拉姆文"
+      },
+      {
+        "code": "cs",
+        "name": "捷克文"
+      },
+      {
+        "code": "nl",
+        "name": "荷蘭文"
+      },
+      {
+        "code": "sk",
+        "name": "斯洛伐克文"
+      },
+      {
+        "code": "sl",
+        "name": "斯洛維尼亞文"
+      },
+      {
+        "code": "vi",
+        "name": "越南文"
+      },
+      {
+        "code": "sr",
+        "name": "塞爾維亞文"
+      },
+      {
+        "code": "et",
+        "name": "愛沙尼亞文"
+      },
+      {
+        "code": "ga",
+        "name": "愛爾蘭文"
+      },
+      {
+        "code": "sv",
+        "name": "瑞典文"
+      },
+      {
+        "code": "it",
+        "name": "義大利文"
+      },
+      {
+        "code": "pt",
+        "name": "葡萄牙文"
+      },
+      {
+        "code": "mn",
+        "name": "蒙古文"
+      },
+      {
+        "code": "de",
+        "name": "德文"
+      },
+      {
+        "code": "my",
+        "name": "緬甸文"
+      },
+      {
+        "code": "ko",
+        "name": "韓文"
+      },
+      {
+        "code": "ro",
+        "name": "羅馬尼亞文"
+      },
+      {
+        "code": "gd",
+        "name": "蘇格蘭的蓋爾文"
       }
     ],
     "zu": [
@@ -15766,6 +16518,10 @@
       {
         "code": "zh",
         "name": "isi-Chinese (Simplified)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "isi-Chinese (Traditional)"
       },
       {
         "code": "hr",
@@ -15975,6 +16731,7 @@
   },
   "nameMap": {
     "&#266;ini&#380; (semplifikat)": "zh",
+    "&#266;ini&#380; (tradizzjonali)": "zh-tw",
     "airių": "ga",
     "airmeinis": "hy",
     "airméinis": "hy",
@@ -16192,20 +16949,32 @@
     "checo": "cs",
     "chex": "cs",
     "china (aks. sederhana)": "zh",
+    "china (aks. tradisional)": "zh-tw",
+    "chinees (traditioneel)": "zh-tw",
     "chinees (vereenvoudigd)": "zh",
     "chinese (simplified)": "zh",
+    "chinese (traditional)": "zh-tw",
+    "chinesisch (traditionell)": "zh-tw",
     "chinesisch (vereinfacht)": "zh",
     "chineză (simplificată)": "zh",
+    "chineză (tradițională)": "zh-tw",
     "chino (simplificado)": "zh",
+    "chino (tradicional)": "zh-tw",
     "chinois (simplifié)": "zh",
+    "chinois (traditionnel)": "zh-tw",
     "chinwa (senp)": "zh",
+    "chinwa (tradisyonèl)": "zh-tw",
     "chinés (simplificado)": "zh",
+    "chinés (tradicional)": "zh-tw",
+    "chiński (tradycyjny)": "zh-tw",
     "chiński (uproszczony)": "zh",
     "chorvatština": "hr",
     "chorvátčina": "hr",
     "chorwacki": "hr",
     "cina (mudah)": "zh",
+    "cina (tradisional)": "zh-tw",
     "cinese (semplificato)": "zh",
+    "cinese (tradizionale)": "zh-tw",
     "coirdis (curmainsis)": "ku",
     "coirèanais": "ko",
     "coreano": "ko",
@@ -16620,6 +17389,7 @@
     "isi-burmese": "my",
     "isi-catalan": "ca",
     "isi-chinese (simplified)": "zh",
+    "isi-chinese (traditional)": "zh-tw",
     "isi-croatian": "hr",
     "isi-czech": "cs",
     "isi-danish": "da",
@@ -16777,13 +17547,21 @@
     "katalánština": "ca",
     "katalónska": "ca",
     "katalāņu": "ca",
+    "kiina (perinteinen)": "zh-tw",
     "kiina (yksinkert.)": "zh",
     "kinesisk (forenklet)": "zh",
+    "kinesisk (tradisjonell)": "zh-tw",
+    "kinesisk (traditionelt)": "zh-tw",
     "kinesiska (förenklad)": "zh",
+    "kinesiska (traditionell)": "zh-tw",
     "kineski (pojednost.)": "zh",
+    "kineski (tradicionalni)": "zh-tw",
     "kinezisht (e thjeshtuar)": "zh",
+    "kinezisht (tradicionale)": "zh-tw",
     "kinų (supaprastinta)": "zh",
+    "kinų (tradicinė)": "zh-tw",
     "kitajščina (poenostavljena)": "zh",
+    "kitajščina (tradicionalna)": "zh-tw",
     "koerdisch": "ku",
     "korea": "ko",
     "koreaans": "ko",
@@ -16847,7 +17625,9 @@
     "kwoasyen": "hr",
     "kymri": "cy",
     "kínai (egyszerűsített)": "zh",
+    "kínai (hagyományos)": "zh-tw",
     "kínverska (einfölduð)": "zh",
+    "kínverska (hefðbundin)": "zh-tw",
     "kórejčina": "ko",
     "kóreska": "ko",
     "kúrdíska": "ku",
@@ -17413,8 +18193,10 @@
     "sænska": "sv",
     "sèb": "sr",
     "sèirbis": "sr",
+    "sìonais (seann-nòsach)": "zh-tw",
     "sìonais (sìmplichte)": "zh",
     "sínis (simplithe)": "zh",
+    "sínis (traidisiúnta)": "zh-tw",
     "súlú": "zu",
     "súlúis": "zu",
     "sırpça": "sr",
@@ -17508,6 +18290,7 @@
     "tiếng thổ nhĩ kỳ": "tr",
     "tiếng thụy điển": "sv",
     "tiếng trung (giản thể)": "zh",
+    "tiếng trung (phồn thể)": "zh-tw",
     "tiếng tây ban nha": "es",
     "tiếng ukraina": "uk",
     "tiếng uzbek": "uz",
@@ -17521,9 +18304,11 @@
     "tjeckiska": "cs",
     "tjekkisk": "cs",
     "tork": "tr",
+    "traditsiooniline hiina": "zh-tw",
     "tschechisch": "cs",
     "tsekki": "cs",
     "tsieceg": "cs",
+    "tsieineeg (traddodiadol)": "zh-tw",
     "tsieineeg (wedi symleiddio)": "zh",
     "tsjechisch": "cs",
     "tsjekkisk": "cs",
@@ -17551,6 +18336,7 @@
     "txec": "cs",
     "txekiera": "cs",
     "txinera (soildua)": "zh",
+    "txinera (tradizionala)": "zh-tw",
     "tyrkisk": "tr",
     "tyrkneska": "tr",
     "tysk": "de",
@@ -17679,6 +18465,8 @@
     "włoski": "it",
     "xaponés": "ja",
     "xinès (simplificat)": "zh",
+    "xinès (tradicional)": "zh-tw",
+    "xitoy (an’anaviy)": "zh-tw",
     "xitoy (soddalashgan)": "zh",
     "xorvat": "hr",
     "yapon": "ja",
@@ -17699,6 +18487,7 @@
     "çekisht": "cs",
     "çekçe": "cs",
     "çince (basitleştirilmiş)": "zh",
+    "çince (geleneksel)": "zh-tw",
     "észt": "et",
     "éuscaro": "eu",
     "íoslainnis": "is",
@@ -17721,12 +18510,15 @@
     "češki": "cs",
     "čeština": "cs",
     "češčina": "cs",
+    "čínština (tradičná)": "zh-tw",
+    "čínština (tradiční)": "zh-tw",
     "čínština (zjednodušená)": "zh",
     "ġappuniż": "ja",
     "ġermaniż": "de",
     "ħindi": "hi",
     "īru": "ga",
     "īslandiešu": "is",
+    "ķīniešu (tradicionālā)": "zh-tw",
     "ķīniešu (vienkāršotā)": "zh",
     "łaciński": "la",
     "łotewski": "lv",
@@ -17772,6 +18564,7 @@
     "κανάντα": "kn",
     "καταλανικά": "ca",
     "κινέζικα (απλοποιημένα)": "zh",
+    "κινέζικα (παραδοσιακά)": "zh-tw",
     "κορεατικά": "ko",
     "κουρδικά": "ku",
     "κρεόλ αϊτής": "ht",
@@ -17926,9 +18719,14 @@
     "каталонски": "ca",
     "кинески (поедноставен)": "zh",
     "кинески (поједностављени)": "zh",
+    "кинески (традиционален)": "zh-tw",
+    "кинески (традиционални)": "zh-tw",
     "китайски (опростен)": "zh",
+    "китайски (традиционен)": "zh-tw",
+    "китайский (традиционный)": "zh-tw",
     "китайский (упрощенный)": "zh",
     "китайська (спрощена)": "zh",
+    "китайська (традиційна)": "zh-tw",
     "корейски": "ko",
     "корейский": "ko",
     "корейська": "ko",
@@ -17942,6 +18740,7 @@
     "курманджи": "ku",
     "кюрдски": "ku",
     "кітайская (спрошчаная)": "zh",
+    "кітайская (традыцыйная)": "zh-tw",
     "латви": "lv",
     "латвийски": "lv",
     "латвиски": "lv",
@@ -18105,6 +18904,7 @@
     "хрватски": "hr",
     "хърватски": "hr",
     "хятад (ердийн)": "zh",
+    "хятад (уламжлалт)": "zh-tw",
     "хіндзі": "hi",
     "чеська": "cs",
     "чех": "cs",
@@ -18192,6 +18992,7 @@
     "ուզբեկերեն": "uz",
     "ուկրաիներեն": "uk",
     "չեխերեն": "cs",
+    "չինարեն (ավանդական)": "zh-tw",
     "չինարեն (պարզեցված)": "zh",
     "պարսկերեն": "fa",
     "պորտուգալերեն": "pt",
@@ -18244,6 +19045,7 @@
     "מונגולית": "mn",
     "מלטית": "mt",
     "מקדונית": "mk",
+    "סינית (מסורתית)": "zh-tw",
     "סינית (פשוטה)": "zh",
     "סלובנית": "sl",
     "סלובקית": "sk",
@@ -18308,6 +19110,7 @@
     "السلوفينية": "sl",
     "السويدية": "sv",
     "الصربية": "sr",
+    "الصينية (التقليدية)": "zh-tw",
     "الصينية (المبسطة)": "zh",
     "العربية": "ar",
     "الفارسية": "fa",
@@ -18377,6 +19180,7 @@
     "پرتغالی": "pt",
     "چک": "cs",
     "چینی (ساده‌شده)": "zh",
+    "چینی (سنتی)": "zh-tw",
     "ژاپنی": "ja",
     "کاتالان": "ca",
     "کانارا": "kn",
@@ -18416,6 +19220,8 @@
     "गॅलिशियन": "gl",
     "गैलिशियन": "gl",
     "ग्रीक": "el",
+    "चीनी (परंपरागत)": "zh-tw",
+    "चीनी (पारंपारिक)": "zh-tw",
     "चीनी (सरलीकृत)": "zh",
     "चेक": "cs",
     "जपानी": "ja",
@@ -18506,6 +19312,7 @@
     "గ్రీక్": "el",
     "చెక్": "cs",
     "చైనీస్ (సరళమైన)": "zh",
+    "చైనీస్ (సామ్ప్రదాయమైన)": "zh-tw",
     "జపనీస్": "ja",
     "జర్మన్": "de",
     "జులు": "zu",
@@ -18565,6 +19372,7 @@
     "ಗ್ಯಾಲೀಷಿಯನ್": "gl",
     "ಗ್ರೀಕ್": "el",
     "ಚೀನಿ (ಸರಳೀಕೃತ)": "zh",
+    "ಚೀನಿ (ಸಾಂಪ್ರದಾಯಿಕ)": "zh-tw",
     "ಜಪಾನಿ": "ja",
     "ಜರ್ಮನ್": "de",
     "ಜುಲು": "zu",
@@ -18626,6 +19434,7 @@
     "ഗലീഷ്യൻ": "gl",
     "ഗ്രീക്ക്": "el",
     "ചെക്ക്": "cs",
+    "ചൈനീസ് (പരമ്പരാഗതം)": "zh-tw",
     "ചൈനീസ് (ലഘൂകരിച്ചത്)": "zh",
     "ജാപ്പനീസ്‌": "ja",
     "ജർമ്മൻ": "de",
@@ -18670,6 +19479,7 @@
     "ภาษากันนาดา": "kn",
     "ภาษากาลิเชียน": "gl",
     "ภาษาคาตาลัน": "ca",
+    "ภาษาจีน (ดั้งเดิม)": "zh-tw",
     "ภาษาจีน (แบบย่อ)": "zh",
     "ภาษาซูลู": "zu",
     "ภาษาญี่ปุ่น": "ja",
@@ -18744,6 +19554,7 @@
     "ဆွီဒင်": "sv",
     "ဇူးလူး": "zu",
     "တယ်လူဂူ": "te",
+    "တရုတ် (ရိုးရာ)": "zh-tw",
     "တရုတ် (အလွယ်)": "zh",
     "တူ​ရ​ကီ": "tr",
     "ထိုင်း": "th",
@@ -18843,65 +19654,128 @@
     "リトアニア語": "lt",
     "ルーマニア語": "ro",
     "ロシア語": "ru",
+    "世界語": "eo",
     "世界语": "eo",
     "中国語(簡体)": "zh",
+    "中国語(繁体)": "zh-tw",
     "中文(简体)": "zh",
+    "中文(簡體)": "zh",
+    "中文(繁体)": "zh-tw",
+    "中文(繁體)": "zh-tw",
+    "丹麥文": "da",
     "丹麦语": "da",
     "乌克兰语": "uk",
     "乌兹别克语": "uz",
     "亚美尼亚语": "hy",
+    "亞美尼亞文": "hy",
+    "俄文": "ru",
     "俄语": "ru",
     "保加利亚语": "bg",
+    "保加利亞文": "bg",
     "克罗地亚语": "hr",
+    "克羅埃西亞文": "hr",
     "冰岛语": "is",
+    "冰島文": "is",
     "加利西亚语": "gl",
     "加泰罗尼亚语": "ca",
+    "加泰羅尼亞文": "ca",
+    "加里西亞文": "gl",
+    "匈牙利文": "hu",
     "匈牙利语": "hu",
+    "南非祖魯文": "zu",
     "南非祖鲁语": "zu",
+    "卡納達文": "kn",
     "卡纳达语": "kn",
     "印地语": "hi",
+    "印尼文": "id",
     "印尼语": "id",
+    "印度文": "hi",
+    "土耳其文": "tr",
     "土耳其语": "tr",
     "塞尔维亚语": "sr",
+    "塞爾維亞文": "sr",
     "威尔士语": "cy",
+    "威爾斯文": "cy",
+    "巴斯克文": "eu",
     "巴斯克语": "eu",
     "希腊语": "el",
+    "希臘文": "el",
     "库尔德语": "ku",
+    "庫德文": "ku",
+    "德文": "de",
     "德语": "de",
     "意大利语": "it",
+    "愛沙尼亞文": "et",
+    "愛爾蘭文": "ga",
+    "拉丁文": "la",
     "拉丁语": "la",
+    "拉脫維亞文": "lv",
     "拉脱维亚语": "lv",
+    "捷克文": "cs",
     "捷克语": "cs",
+    "斯洛伐克文": "sk",
     "斯洛伐克语": "sk",
     "斯洛文尼亚语": "sl",
+    "斯洛維尼亞文": "sl",
+    "日文": "ja",
     "日本語": "ja",
     "日语": "ja",
+    "法文": "fr",
     "法语": "fr",
     "波兰语": "pl",
+    "波斯文": "fa",
     "波斯语": "fa",
+    "波蘭文": "pl",
     "泰卢固语": "te",
+    "泰文": "th",
+    "泰盧固文": "te",
     "泰语": "th",
     "海地克里奥尔语": "ht",
+    "海地克里奧文": "ht",
+    "烏克蘭文": "uk",
+    "烏茲別克文": "uz",
     "爱尔兰语": "ga",
     "爱沙尼亚语": "et",
+    "瑞典文": "sv",
     "瑞典语": "sv",
     "白俄罗斯语": "be",
+    "白俄羅斯文": "be",
+    "立陶宛文": "lt",
     "立陶宛语": "lt",
+    "緬甸文": "my",
     "缅甸语": "my",
     "罗马尼亚语": "ro",
+    "羅馬尼亞文": "ro",
+    "義大利文": "it",
     "芬兰语": "fi",
+    "芬蘭文": "fi",
     "苏格兰盖尔语": "gd",
+    "英文": "en",
     "英語": "en",
     "英语": "en",
     "荷兰语": "nl",
+    "荷蘭文": "nl",
+    "葡萄牙文": "pt",
     "葡萄牙语": "pt",
+    "蒙古文": "mn",
     "蒙古语": "mn",
+    "蘇格蘭的蓋爾文": "gd",
+    "西班牙文": "es",
     "西班牙语": "es",
+    "越南文": "vi",
     "越南语": "vi",
     "阿尔巴尼亚语": "sq",
+    "阿拉伯文": "ar",
     "阿拉伯语": "ar",
+    "阿爾巴尼亞文": "sq",
     "韓国語": "ko",
+    "韓文": "ko",
     "韩语": "ko",
+    "馬來文": "ms",
+    "馬其頓文": "mk",
+    "馬拉地文": "mr",
+    "馬拉雅拉姆文": "ml",
+    "馬耳他文": "mt",
     "马其顿语": "mk",
     "马拉地语": "mr",
     "马拉雅拉姆语": "ml",
@@ -18951,6 +19825,7 @@
     "일본어": "ja",
     "줄루어": "zu",
     "중국어(간체)": "zh",
+    "중국어(번체)": "zh-tw",
     "체코어": "cs",
     "카탈로니아어": "ca",
     "칸나다어": "kn",
