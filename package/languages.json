@@ -12454,7 +12454,7 @@
     "իսպաներեն": "es",
     "իտալերեն": "it",
     "լատիներեն": "la",
-    "լատիշերեն": "lv",
+    "լատվիերեն": "lv",
     "լեհերեն": "pl",
     "լիտվերեն": "lt",
     "խորվաթերեն": "hr",
@@ -13496,5 +13496,1255 @@
     "nb": "no",
     "pt-br": "pt",
     "zh-cn": "zh"
+  },
+  "spokenLanguages": {
+    "am": [
+      {
+        "code": "zh-cn",
+        "name": "ቻይንኛ (ማንዳሪን)"
+      },
+      {
+        "code": "hi",
+        "name": "ሂንዲ"
+      },
+      {
+        "code": "pt-br",
+        "name": "ፖርቱጋልኛ (ብራዚላዊ)"
+      },
+      {
+        "code": "es-419",
+        "name": "ስፓኒሽ (ላቲን አሜሪካ)"
+      }
+    ],
+    "ar": [
+      {
+        "code": "zh-cn",
+        "name": "الصينية (الماندرين)"
+      },
+      {
+        "code": "hi",
+        "name": "الهندية"
+      },
+      {
+        "code": "pt-br",
+        "name": "البرتغالية (البرازيلية)"
+      },
+      {
+        "code": "es-419",
+        "name": "الإسبانية (أمريكا اللاتينية)"
+      }
+    ],
+    "az": [
+      {
+        "code": "zh-cn",
+        "name": "Çin (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portuqal (Braziliya)"
+      },
+      {
+        "code": "es-419",
+        "name": "İspan (Latın Amerikası)"
+      }
+    ],
+    "be": [
+      {
+        "code": "zh-cn",
+        "name": "Кітайская (мандарын)"
+      },
+      {
+        "code": "hi",
+        "name": "Хіндзі"
+      },
+      {
+        "code": "pt-br",
+        "name": "Партугальская (бразільскі)"
+      },
+      {
+        "code": "es-419",
+        "name": "Іспанская (лацінаамерыканская)"
+      }
+    ],
+    "bg": [
+      {
+        "code": "zh-cn",
+        "name": "Китайски (мандарин)"
+      },
+      {
+        "code": "hi",
+        "name": "хинди"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португалски (бразилски)"
+      },
+      {
+        "code": "es-419",
+        "name": "Испански (латиноамерикански)"
+      }
+    ],
+    "ca": [
+      {
+        "code": "zh-cn",
+        "name": "Xinès (mandarí)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portuguès (brasiler)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espanyol (llatinoamericà)"
+      }
+    ],
+    "cs": [
+      {
+        "code": "zh-cn",
+        "name": "Čínština (mandarinka)"
+      },
+      {
+        "code": "hi",
+        "name": "hindština"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalština (brazilská)"
+      },
+      {
+        "code": "es-419",
+        "name": "Španělština (latinskoamerická)"
+      }
+    ],
+    "cy": [
+      {
+        "code": "zh-cn",
+        "name": "Tsieineaidd (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portiwgaleg (Brasil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Sbaeneg (America Ladin)"
+      }
+    ],
+    "da": [
+      {
+        "code": "zh-cn",
+        "name": "Kinesisk (mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugisisk (brasiliansk)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spansk (latinamerikansk)"
+      }
+    ],
+    "de": [
+      {
+        "code": "zh-cn",
+        "name": "Chinesisch (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugiesisch (brasilianisch)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanisch (Lateinamerikanisch)"
+      }
+    ],
+    "el": [
+      {
+        "code": "zh-cn",
+        "name": "Κινέζικα (μανταρινικά)"
+      },
+      {
+        "code": "hi",
+        "name": "Χίντι"
+      },
+      {
+        "code": "pt-br",
+        "name": "Πορτογαλικά (Βραζιλίας)"
+      },
+      {
+        "code": "es-419",
+        "name": "Ισπανικά (Λατινικής Αμερικής)"
+      }
+    ],
+    "en": [
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Mandarin)"
+      }
+    ],
+    "eo": [
+      {
+        "code": "zh-cn",
+        "name": "Ĉina (mandarena)"
+      },
+      {
+        "code": "hi",
+        "name": "Hinda"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugala (brazila)"
+      },
+      {
+        "code": "es-419",
+        "name": "Hispana (latina)"
+      }
+    ],
+    "es": [
+      {
+        "code": "zh-cn",
+        "name": "Chino (Mandarín)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugués (brasileño)"
+      },
+      {
+        "code": "es-419",
+        "name": "Español (latinoamericano)"
+      }
+    ],
+    "es-419": [
+      {
+        "code": "zh-cn",
+        "name": "Chino (Mandarín)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugués (brasileño)"
+      },
+      {
+        "code": "es-419",
+        "name": "Español (latinoamericano)"
+      }
+    ],
+    "et": [
+      {
+        "code": "zh-cn",
+        "name": "Hiina (mandariini)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi keel"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugali (Brasiilia)"
+      },
+      {
+        "code": "es-419",
+        "name": "Hispaania keel (Ladina-Ameerika)"
+      }
+    ],
+    "eu": [
+      {
+        "code": "zh-cn",
+        "name": "Txinera (mandarina)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugesa (brasildarra)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espainiera (latinoamerikarra)"
+      }
+    ],
+    "fa": [
+      {
+        "code": "zh-cn",
+        "name": "چینی (ماندارین)"
+      },
+      {
+        "code": "hi",
+        "name": "هندی"
+      },
+      {
+        "code": "pt-br",
+        "name": "پرتغالی (برزیلی)"
+      },
+      {
+        "code": "es-419",
+        "name": "اسپانیایی (آمریکای لاتین)"
+      }
+    ],
+    "fi": [
+      {
+        "code": "zh-cn",
+        "name": "Kiina (mandariini)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugali (brasilia)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espanja (Latinalainen Amerikka)"
+      }
+    ],
+    "fr": [
+      {
+        "code": "zh-cn",
+        "name": "Mandarin (chinois)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugais (brésilien)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espagnol (latino-américain)"
+      }
+    ],
+    "ga": [
+      {
+        "code": "zh-cn",
+        "name": "Sínis (Mandairínis)"
+      },
+      {
+        "code": "hi",
+        "name": "Hiondúis"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portaingéilis (Brasaíle)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spáinnis (Meiriceá Laidineach)"
+      }
+    ],
+    "gd": [
+      {
+        "code": "zh-cn",
+        "name": "Sìneach (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Indeach"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portuguese (Brazilian)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spàinntis (Ameireagaidh Laidinn)"
+      }
+    ],
+    "gl": [
+      {
+        "code": "zh-cn",
+        "name": "Chinés (mandarín)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugués (brasileiro)"
+      },
+      {
+        "code": "es-419",
+        "name": "Español (latinoamericano)"
+      }
+    ],
+    "he": [
+      {
+        "code": "zh-cn",
+        "name": "סינית (מנדרינית)"
+      },
+      {
+        "code": "hi",
+        "name": "הינדי"
+      },
+      {
+        "code": "pt-br",
+        "name": "פורטוגזית (ברזילאית)"
+      },
+      {
+        "code": "es-419",
+        "name": "ספרדית (אמריקה הלטינית)"
+      }
+    ],
+    "hi": [
+      {
+        "code": "zh-cn",
+        "name": "चीनी (मंदारिन)"
+      },
+      {
+        "code": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "code": "pt-br",
+        "name": "पुर्तगाली (ब्राजील)"
+      },
+      {
+        "code": "es-419",
+        "name": "स्पेनिश (लैटिन अमेरिकी)"
+      }
+    ],
+    "hr": [
+      {
+        "code": "zh-cn",
+        "name": "Kineski (mandarinski)"
+      },
+      {
+        "code": "hi",
+        "name": "hindski"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalski (brazilski)"
+      },
+      {
+        "code": "es-419",
+        "name": "Španjolski (latinoamerički)"
+      }
+    ],
+    "ht": [
+      {
+        "code": "zh-cn",
+        "name": "Chinwa (Mandaren)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Pòtigè (brezilyen)"
+      },
+      {
+        "code": "es-419",
+        "name": "Panyòl (Amerik Latin)"
+      }
+    ],
+    "hu": [
+      {
+        "code": "zh-cn",
+        "name": "Kínai (mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugál (brazil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanyol (latin-amerikai)"
+      }
+    ],
+    "hy": [
+      {
+        "code": "zh-cn",
+        "name": "Չինարեն (մանդարին)"
+      },
+      {
+        "code": "hi",
+        "name": "Հինդի"
+      },
+      {
+        "code": "pt-br",
+        "name": "Պորտուգալերեն (բրազիլական)"
+      },
+      {
+        "code": "es-419",
+        "name": "Իսպաներեն (լատինաամերիկյան)"
+      }
+    ],
+    "id": [
+      {
+        "code": "zh-cn",
+        "name": "Mandarin (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugis (Brasil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanyol (Amerika Latin)"
+      }
+    ],
+    "is": [
+      {
+        "code": "zh-cn",
+        "name": "Kínverska (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindí"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portúgalska (brasilíska)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spænska (rómönsku-ameríska)"
+      }
+    ],
+    "it": [
+      {
+        "code": "zh-cn",
+        "name": "Cinese (mandarino)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portoghese (brasiliano)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spagnolo (latino-americano)"
+      }
+    ],
+    "ja": [
+      {
+        "code": "zh-cn",
+        "name": "中国語（標準語）"
+      },
+      {
+        "code": "hi",
+        "name": "ヒンディー語"
+      },
+      {
+        "code": "pt-br",
+        "name": "ポルトガル語（ブラジル）"
+      },
+      {
+        "code": "es-419",
+        "name": "スペイン語（ラテンアメリカ）"
+      }
+    ],
+    "ja-hira": [
+      {
+        "code": "zh-cn",
+        "name": "中国語（標準語）"
+      },
+      {
+        "code": "hi",
+        "name": "ヒンディー語"
+      },
+      {
+        "code": "pt-br",
+        "name": "ポルトガル語（ブラジル）"
+      },
+      {
+        "code": "es-419",
+        "name": "スペイン語（ラテンアメリカ）"
+      }
+    ],
+    "kn": [
+      {
+        "code": "zh-cn",
+        "name": "ಚೈನೀಸ್ (ಮ್ಯಾಂಡರಿನ್)"
+      },
+      {
+        "code": "hi",
+        "name": "ಹಿಂದಿ"
+      },
+      {
+        "code": "pt-br",
+        "name": "ಪೋರ್ಚುಗೀಸ್ (ಬ್ರೆಜಿಲಿಯನ್)"
+      },
+      {
+        "code": "es-419",
+        "name": "ಸ್ಪ್ಯಾನಿಷ್ (ಲ್ಯಾಟಿನ್ ಅಮೇರಿಕನ್)"
+      }
+    ],
+    "ko": [
+      {
+        "code": "zh-cn",
+        "name": "중국어 (북경어)"
+      },
+      {
+        "code": "hi",
+        "name": "힌디 어"
+      },
+      {
+        "code": "pt-br",
+        "name": "포르투갈어 (브라질)"
+      },
+      {
+        "code": "es-419",
+        "name": "스페인어 (라틴 아메리카)"
+      }
+    ],
+    "ku": [
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindî"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portekîz (Brazilian)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanish (Amerîkaya Latîn)"
+      }
+    ],
+    "la": [
+      {
+        "code": "zh-cn",
+        "name": "Seres (Latin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hibernica"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portuguese (Spanish)"
+      },
+      {
+        "code": "es-419",
+        "name": "Hispanica (Latin American)"
+      }
+    ],
+    "lt": [
+      {
+        "code": "zh-cn",
+        "name": "Kinų (mandarinų)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalų (Brazilijos)"
+      },
+      {
+        "code": "es-419",
+        "name": "Ispanų (Lotynų Amerikos)"
+      }
+    ],
+    "lv": [
+      {
+        "code": "zh-cn",
+        "name": "Ķīniešu (mandarīnu)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugāļu (Brazīlijas)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spāņu (latīņamerikāņu)"
+      }
+    ],
+    "mi": [
+      {
+        "code": "zh-cn",
+        "name": "Hainamana (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Potukua (Brazil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Pāniora (Latin American)"
+      }
+    ],
+    "mk": [
+      {
+        "code": "zh-cn",
+        "name": "Кинески (мандарински)"
+      },
+      {
+        "code": "hi",
+        "name": "Хинди"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португалски (бразилски)"
+      },
+      {
+        "code": "es-419",
+        "name": "Шпански (Латинска Америка)"
+      }
+    ],
+    "ml": [
+      {
+        "code": "zh-cn",
+        "name": "ചൈനീസ് (മന്ദാരിൻ)"
+      },
+      {
+        "code": "hi",
+        "name": "ഹിന്ദി"
+      },
+      {
+        "code": "pt-br",
+        "name": "പോർച്ചുഗീസ് (ബ്രസീൽ)"
+      },
+      {
+        "code": "es-419",
+        "name": "സ്പാനിഷ് (ലാറ്റിൻ അമേരിക്കൻ)"
+      }
+    ],
+    "mn": [
+      {
+        "code": "zh-cn",
+        "name": "Хятад хэл (Мандарин)"
+      },
+      {
+        "code": "hi",
+        "name": "Хинди хэл"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португал хэл (Бразил)"
+      },
+      {
+        "code": "es-419",
+        "name": "Испани хэл (Латин Америк)"
+      }
+    ],
+    "mr": [
+      {
+        "code": "zh-cn",
+        "name": "चीनी (मंदारिन)"
+      },
+      {
+        "code": "hi",
+        "name": "हिंदी"
+      },
+      {
+        "code": "pt-br",
+        "name": "पोर्तुगीज (ब्राझिलियन)"
+      },
+      {
+        "code": "es-419",
+        "name": "स्पॅनिश (लॅटिन अमेरिकन)"
+      }
+    ],
+    "ms": [
+      {
+        "code": "zh-cn",
+        "name": "Cina (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugis (Brazil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Sepanyol (Amerika Latin)"
+      }
+    ],
+    "mt": [
+      {
+        "code": "zh-cn",
+        "name": "Ċiniż (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Ħindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugiż (Brażiljan)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanjol (Latin-Amerikan)"
+      }
+    ],
+    "my": [
+      {
+        "code": "zh-cn",
+        "name": "တရုတ် (တရုတ်)"
+      },
+      {
+        "code": "hi",
+        "name": "ဟိန္ဒီ"
+      },
+      {
+        "code": "pt-br",
+        "name": "ပေါ်တူဂီ (ဘရာဇီး)"
+      },
+      {
+        "code": "es-419",
+        "name": "စပိန်ဘာသာစကား (လက်တင်အမေရိက)"
+      }
+    ],
+    "nb": [
+      {
+        "code": "zh-cn",
+        "name": "Kinesisk (mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugisisk (brasiliansk)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spansk (latinamerikansk)"
+      }
+    ],
+    "nl": [
+      {
+        "code": "zh-cn",
+        "name": "Chinees (Mandarijn)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugees (Braziliaans)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spaans (Latijns-Amerikaans)"
+      }
+    ],
+    "nn": [
+      {
+        "code": "zh-cn",
+        "name": "Kinesisk (mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugisisk (brasiliansk)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spansk (latinamerikansk)"
+      }
+    ],
+    "pl": [
+      {
+        "code": "zh-cn",
+        "name": "Chiński (mandaryński)"
+      },
+      {
+        "code": "hi",
+        "name": "hinduski"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalski (brazylijski)"
+      },
+      {
+        "code": "es-419",
+        "name": "Hiszpański (latynoamerykański)"
+      }
+    ],
+    "pt": [
+      {
+        "code": "zh-cn",
+        "name": "Mandarim (chinês)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Português (brasileiro)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espanhol (latino-americano)"
+      }
+    ],
+    "pt-br": [
+      {
+        "code": "zh-cn",
+        "name": "Mandarim (chinês)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Português (brasileiro)"
+      },
+      {
+        "code": "es-419",
+        "name": "Espanhol (latino-americano)"
+      }
+    ],
+    "ro": [
+      {
+        "code": "zh-cn",
+        "name": "Chineză (mandarină)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugheză (braziliană)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spaniolă (latino-americană)"
+      }
+    ],
+    "ru": [
+      {
+        "code": "zh-cn",
+        "name": "Китайский (мандарин)"
+      },
+      {
+        "code": "hi",
+        "name": "хинди"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португальский (бразильский)"
+      },
+      {
+        "code": "es-419",
+        "name": "Испанский (латиноамериканский)"
+      }
+    ],
+    "sk": [
+      {
+        "code": "zh-cn",
+        "name": "Čínština (mandarínska)"
+      },
+      {
+        "code": "hi",
+        "name": "hindčina"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalčina (brazílska)"
+      },
+      {
+        "code": "es-419",
+        "name": "Španielčina (latinskoamerická)"
+      }
+    ],
+    "sl": [
+      {
+        "code": "zh-cn",
+        "name": "Kitajščina (mandarina)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindujščina"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugalščina (brazilska)"
+      },
+      {
+        "code": "es-419",
+        "name": "Španščina (latinskoameriška)"
+      }
+    ],
+    "sq": [
+      {
+        "code": "zh-cn",
+        "name": "Kinezisht (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugeze (Braziliane)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanjisht (Amerika Latine)"
+      }
+    ],
+    "sr": [
+      {
+        "code": "zh-cn",
+        "name": "Кинески (мандарински)"
+      },
+      {
+        "code": "hi",
+        "name": "Хиндски"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португалски (бразилски)"
+      },
+      {
+        "code": "es-419",
+        "name": "Шпански (латиноамерички)"
+      }
+    ],
+    "sv": [
+      {
+        "code": "zh-cn",
+        "name": "Kinesiska (mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugisiska (brasilianska)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanska (latinamerikanska)"
+      }
+    ],
+    "te": [
+      {
+        "code": "zh-cn",
+        "name": "చైనీస్ (మాండరిన్)"
+      },
+      {
+        "code": "hi",
+        "name": "హిందీ"
+      },
+      {
+        "code": "pt-br",
+        "name": "పోర్చుగీస్ (బ్రెజిలియన్)"
+      },
+      {
+        "code": "es-419",
+        "name": "స్పానిష్ (లాటిన్ అమెరికన్)"
+      }
+    ],
+    "th": [
+      {
+        "code": "zh-cn",
+        "name": "จีน (แมนดาริน)"
+      },
+      {
+        "code": "hi",
+        "name": "ภาษาฮินดี"
+      },
+      {
+        "code": "pt-br",
+        "name": "โปรตุเกส (บราซิล)"
+      },
+      {
+        "code": "es-419",
+        "name": "สเปน (ละตินอเมริกา)"
+      }
+    ],
+    "tr": [
+      {
+        "code": "zh-cn",
+        "name": "Çin (mandalinası)"
+      },
+      {
+        "code": "hi",
+        "name": "Hintçe"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portekizce (Brezilya)"
+      },
+      {
+        "code": "es-419",
+        "name": "İspanyolca (Latin Amerika)"
+      }
+    ],
+    "uk": [
+      {
+        "code": "zh-cn",
+        "name": "Китайська (мандарин)"
+      },
+      {
+        "code": "hi",
+        "name": "Хінді"
+      },
+      {
+        "code": "pt-br",
+        "name": "Португальська (бразильська)"
+      },
+      {
+        "code": "es-419",
+        "name": "Іспанська (латиноамериканська)"
+      }
+    ],
+    "uz": [
+      {
+        "code": "zh-cn",
+        "name": "Xitoy (Mandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindcha"
+      },
+      {
+        "code": "pt-br",
+        "name": "Portugal (Braziliya)"
+      },
+      {
+        "code": "es-419",
+        "name": "Ispan (Lotin Amerikasi)"
+      }
+    ],
+    "vi": [
+      {
+        "code": "zh-cn",
+        "name": "Tiếng trung quốc"
+      },
+      {
+        "code": "hi",
+        "name": "Tiếng Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "Bồ Đào Nha (Brazil)"
+      },
+      {
+        "code": "es-419",
+        "name": "Tây Ban Nha (Mỹ Latinh)"
+      }
+    ],
+    "zh-cn": [
+      {
+        "code": "zh-cn",
+        "name": "中文"
+      },
+      {
+        "code": "hi",
+        "name": "印地语"
+      },
+      {
+        "code": "pt-br",
+        "name": "葡萄牙语（巴西）"
+      },
+      {
+        "code": "es-419",
+        "name": "西班牙语（拉丁美洲）"
+      }
+    ],
+    "zh-tw": [
+      {
+        "code": "zh-cn",
+        "name": "中文"
+      },
+      {
+        "code": "hi",
+        "name": "印地語"
+      },
+      {
+        "code": "pt-br",
+        "name": "葡萄牙語（巴西）"
+      },
+      {
+        "code": "es-419",
+        "name": "西班牙語（拉丁美洲）"
+      }
+    ],
+    "zu": [
+      {
+        "code": "zh-cn",
+        "name": "IsiShayina (isiMandarin)"
+      },
+      {
+        "code": "hi",
+        "name": "IsiHindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "IsiPutukezi (saseBrazil)"
+      },
+      {
+        "code": "es-419",
+        "name": "ISpanishi (Latin American)"
+      }
+    ]
   }
 }
