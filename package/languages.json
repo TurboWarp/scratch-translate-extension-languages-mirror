@@ -67,11 +67,11 @@
       },
       {
         "code": "zh-cn",
-        "name": "ቻይንኛ   (ቀላሉ)"
+        "name": "ቻይንኛ (ቀላሉ)"
       },
       {
         "code": "zh-tw",
-        "name": "ቻይንኛ  (ባሕላዊው)"
+        "name": "ቻይንኛ (ባሕላዊው)"
       },
       {
         "code": "cs",
@@ -108,6 +108,10 @@
       {
         "code": "en",
         "name": "እንግሊዝኛ"
+      },
+      {
+        "code": "ckb",
+        "name": "ኩርድሽኛ (ሶራኒ)"
       },
       {
         "code": "ca",
@@ -192,6 +196,14 @@
       {
         "code": "pt",
         "name": "ፖርቱጋሊኛ"
+      },
+      {
+        "code": "he",
+        "name": "ዕብራይስጥ"
+      },
+      {
+        "code": "zh-cn",
+        "name": "ቻይንኛ (ቀላሉ)"
       }
     ],
     "ar": [
@@ -210,10 +222,6 @@
       {
         "code": "et",
         "name": "الإستونية"
-      },
-      {
-        "code": "gd",
-        "name": "الاسكتلندية الغالية"
       },
       {
         "code": "de",
@@ -277,7 +285,7 @@
       },
       {
         "code": "da",
-        "name": "الدانماركية"
+        "name": "الدانمركية"
       },
       {
         "code": "ru",
@@ -289,7 +297,7 @@
       },
       {
         "code": "zu",
-        "name": "الزولوية"
+        "name": "الزولو"
       },
       {
         "code": "sk",
@@ -324,6 +332,10 @@
         "name": "العربية"
       },
       {
+        "code": "gd",
+        "name": "الغيلية الأسكتلندية"
+      },
+      {
         "code": "fa",
         "name": "الفارسية"
       },
@@ -342,6 +354,10 @@
       {
         "code": "ca",
         "name": "القطلونية"
+      },
+      {
+        "code": "ckb",
+        "name": "الكردية (السورانية)"
       },
       {
         "code": "hr",
@@ -386,6 +402,14 @@
       {
         "code": "el",
         "name": "اليونانية"
+      },
+      {
+        "code": "he",
+        "name": "العبرية"
+      },
+      {
+        "code": "zh-cn",
+        "name": "الصينية (المبسطة)"
       }
     ],
     "az": [
@@ -395,7 +419,7 @@
       },
       {
         "code": "am",
-        "name": "Amarikcə"
+        "name": "Amarik"
       },
       {
         "code": "az",
@@ -419,7 +443,7 @@
       },
       {
         "code": "zh-cn",
-        "name": "Çin (Sadələşdirilmiş)"
+        "name": "Çin dili (Sadələşdirilmiş)"
       },
       {
         "code": "da",
@@ -454,16 +478,16 @@
         "name": "Xorvat"
       },
       {
+        "code": "en",
+        "name": "Ingilis"
+      },
+      {
         "code": "es",
         "name": "Ispan"
       },
       {
         "code": "id",
         "name": "İndoneziya"
-      },
-      {
-        "code": "en",
-        "name": "İngilis"
       },
       {
         "code": "ga",
@@ -492,6 +516,10 @@
       {
         "code": "ko",
         "name": "Koreya"
+      },
+      {
+        "code": "ckb",
+        "name": "Kürd dili (Sorani)"
       },
       {
         "code": "gl",
@@ -580,6 +608,14 @@
       {
         "code": "zu",
         "name": "Zulu dili"
+      },
+      {
+        "code": "he",
+        "name": "İvrit"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Çin dili (Sadələşdirilmiş)"
       }
     ],
     "bg": [
@@ -670,6 +706,10 @@
       {
         "code": "ko",
         "name": "корейски"
+      },
+      {
+        "code": "ckb",
+        "name": "кюрдски (сорани)"
       },
       {
         "code": "lv",
@@ -774,6 +814,14 @@
       {
         "code": "ja",
         "name": "японски"
+      },
+      {
+        "code": "he",
+        "name": "иврит"
+      },
+      {
+        "code": "zh-cn",
+        "name": "китайски (опростен)"
       }
     ],
     "ca": [
@@ -890,6 +938,10 @@
         "name": "japonès"
       },
       {
+        "code": "ckb",
+        "name": "kurd (sorani)"
+      },
+      {
         "code": "lv",
         "name": "letó"
       },
@@ -968,6 +1020,14 @@
       {
         "code": "zu",
         "name": "zulú"
+      },
+      {
+        "code": "he",
+        "name": "hebreu"
+      },
+      {
+        "code": "zh-cn",
+        "name": "xinès (simplificat)"
       }
     ],
     "cs": [
@@ -1068,6 +1128,10 @@
         "name": "korejština"
       },
       {
+        "code": "ckb",
+        "name": "kurdština (sorání)"
+      },
+      {
         "code": "lt",
         "name": "litevština"
       },
@@ -1162,6 +1226,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "hebrejština"
+      },
+      {
+        "code": "zh-cn",
+        "name": "čínština (zjednodušená)"
       }
     ],
     "cy": [
@@ -1171,7 +1243,7 @@
       },
       {
         "code": "am",
-        "name": "Amharic"
+        "name": "Amhareg"
       },
       {
         "code": "ar",
@@ -1187,7 +1259,7 @@
       },
       {
         "code": "bg",
-        "name": "Bwlgaraidd"
+        "name": "Bwlgareg"
       },
       {
         "code": "ca",
@@ -1196,6 +1268,10 @@
       {
         "code": "hr",
         "name": "Croateg"
+      },
+      {
+        "code": "ckb",
+        "name": "Cwrdeg (Sorani)"
       },
       {
         "code": "cy",
@@ -1235,7 +1311,7 @@
       },
       {
         "code": "gl",
-        "name": "Galisaidd"
+        "name": "Galiseg"
       },
       {
         "code": "el",
@@ -1264,10 +1340,6 @@
       {
         "code": "is",
         "name": "Islandeg"
-      },
-      {
-        "code": "uk",
-        "name": "Iwcraineg"
       },
       {
         "code": "ja",
@@ -1323,11 +1395,11 @@
       },
       {
         "code": "sk",
-        "name": "Slofac"
+        "name": "Slofaceg"
       },
       {
         "code": "sl",
-        "name": "Slofenia"
+        "name": "Slofeneg"
       },
       {
         "code": "sv",
@@ -1356,6 +1428,18 @@
       {
         "code": "tr",
         "name": "Twrceg"
+      },
+      {
+        "code": "uk",
+        "name": "Wcreineg"
+      },
+      {
+        "code": "he",
+        "name": "Hebraeg"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Tsieineeg (Wedi symleiddio)"
       }
     ],
     "da": [
@@ -1412,10 +1496,6 @@
         "name": "Hebraisk"
       },
       {
-        "code": "nl",
-        "name": "Hollandsk"
-      },
-      {
         "code": "id",
         "name": "Indonesisk"
       },
@@ -1456,6 +1536,10 @@
         "name": "Kroatisk"
       },
       {
+        "code": "ckb",
+        "name": "Kurdisk (sorani)"
+      },
+      {
         "code": "lv",
         "name": "Lettisk"
       },
@@ -1466,6 +1550,10 @@
       {
         "code": "mi",
         "name": "Maori"
+      },
+      {
+        "code": "nl",
+        "name": "Nederlandsk"
       },
       {
         "code": "nb",
@@ -1550,6 +1638,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Hebraisk"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Kinesisk (forenklet)"
       }
     ],
     "de": [
@@ -1650,6 +1746,10 @@
         "name": "Kroatisch"
       },
       {
+        "code": "ckb",
+        "name": "Kurdisch (Sorani)"
+      },
+      {
         "code": "lv",
         "name": "Lettisch"
       },
@@ -1744,6 +1844,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Hebräisch"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinesisch (vereinfacht)"
       }
     ],
     "el": [
@@ -1841,15 +1949,19 @@
       },
       {
         "code": "zh-cn",
-        "name": "Κινέζικα (Απλοποιημένα)"
+        "name": "Κινεζικά (Απλοποιημένα)"
       },
       {
         "code": "zh-tw",
-        "name": "Κινέζικα (Παραδοσιακά)"
+        "name": "Κινεζικά (Παραδοσιακά)"
       },
       {
         "code": "ko",
         "name": "Κορεατικά"
+      },
+      {
+        "code": "ckb",
+        "name": "Κουρδικά (Σορανί)"
       },
       {
         "code": "hr",
@@ -1929,7 +2041,7 @@
       },
       {
         "code": "tr",
-        "name": "Τούρκικα"
+        "name": "Τουρκικά"
       },
       {
         "code": "cs",
@@ -1938,6 +2050,14 @@
       {
         "code": "fi",
         "name": "Φινλανδικά"
+      },
+      {
+        "code": "he",
+        "name": "Εβραϊκά"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Κινεζικά (Απλοποιημένα)"
       }
     ],
     "en": [
@@ -2050,6 +2170,10 @@
         "name": "Korean"
       },
       {
+        "code": "ckb",
+        "name": "Kurdish (Sorani)"
+      },
+      {
         "code": "lv",
         "name": "Latvian"
       },
@@ -2132,6 +2256,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Hebrew"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Simplified)"
       }
     ],
     "es": [
@@ -2260,6 +2392,10 @@
         "name": "japonés"
       },
       {
+        "code": "ckb",
+        "name": "kurdo (sorani)"
+      },
+      {
         "code": "lv",
         "name": "letón"
       },
@@ -2326,6 +2462,14 @@
       {
         "code": "zu",
         "name": "zulú"
+      },
+      {
+        "code": "he",
+        "name": "hebreo"
+      },
+      {
+        "code": "zh-cn",
+        "name": "chino (simplificado)"
       }
     ],
     "es-419": [
@@ -2454,6 +2598,10 @@
         "name": "japonés"
       },
       {
+        "code": "ckb",
+        "name": "kurdo (sorani)"
+      },
+      {
         "code": "lv",
         "name": "letón"
       },
@@ -2520,6 +2668,14 @@
       {
         "code": "zu",
         "name": "zulú"
+      },
+      {
+        "code": "he",
+        "name": "hebreo"
+      },
+      {
+        "code": "zh-cn",
+        "name": "chino (simplificado)"
       }
     ],
     "et": [
@@ -2554,6 +2710,14 @@
       {
         "code": "he",
         "name": "heebrea"
+      },
+      {
+        "code": "zh-cn",
+        "name": "hiina (lihtsustatud)"
+      },
+      {
+        "code": "zh-tw",
+        "name": "hiina (traditsiooniline)"
       },
       {
         "code": "es",
@@ -2604,12 +2768,12 @@
         "name": "kreeka"
       },
       {
-        "code": "lt",
-        "name": "leedu"
+        "code": "ckb",
+        "name": "kurdi (sorani)"
       },
       {
-        "code": "zh-cn",
-        "name": "lihtsustatud hiina"
+        "code": "lt",
+        "name": "leedu"
       },
       {
         "code": "lv",
@@ -2684,10 +2848,6 @@
         "name": "tai"
       },
       {
-        "code": "zh-tw",
-        "name": "traditsiooniline hiina"
-      },
-      {
         "code": "cs",
         "name": "tšehhi"
       },
@@ -2714,6 +2874,14 @@
       {
         "code": "vi",
         "name": "vietnami"
+      },
+      {
+        "code": "he",
+        "name": "heebrea"
+      },
+      {
+        "code": "zh-cn",
+        "name": "hiina (lihtsustatud)"
       }
     ],
     "eu": [
@@ -2751,7 +2919,7 @@
       },
       {
         "code": "gd",
-        "name": "Eskoziako gaelera"
+        "name": "Eskoziako gaelikoa"
       },
       {
         "code": "sk",
@@ -2770,12 +2938,16 @@
         "name": "euskara"
       },
       {
+        "code": "fi",
+        "name": "finlandiera"
+      },
+      {
         "code": "fr",
         "name": "frantsesa"
       },
       {
         "code": "cy",
-        "name": "gaelera"
+        "name": "galesa"
       },
       {
         "code": "gl",
@@ -2834,6 +3006,10 @@
         "name": "kroaziera"
       },
       {
+        "code": "ckb",
+        "name": "kurduera (sorania)"
+      },
+      {
         "code": "lv",
         "name": "letoniera"
       },
@@ -2874,12 +3050,8 @@
         "name": "suediera"
       },
       {
-        "code": "fi",
-        "name": "suomiera"
-      },
-      {
         "code": "th",
-        "name": "thaiera"
+        "name": "thailandiera"
       },
       {
         "code": "tr",
@@ -2891,7 +3063,7 @@
       },
       {
         "code": "zh-cn",
-        "name": "txinera (soildua)"
+        "name": "txinera (sinplifikatua)"
       },
       {
         "code": "zh-tw",
@@ -2908,6 +3080,14 @@
       {
         "code": "zu",
         "name": "zuluera"
+      },
+      {
+        "code": "he",
+        "name": "hebreera"
+      },
+      {
+        "code": "zh-cn",
+        "name": "txinera (sinplifikatua)"
       }
     ],
     "fa": [
@@ -3048,6 +3228,10 @@
         "name": "کاتالان"
       },
       {
+        "code": "ckb",
+        "name": "کردی (سورانی)"
+      },
+      {
         "code": "hr",
         "name": "کرواتی"
       },
@@ -3102,6 +3286,14 @@
       {
         "code": "el",
         "name": "يونانی"
+      },
+      {
+        "code": "he",
+        "name": "عبری"
+      },
+      {
+        "code": "zh-cn",
+        "name": "چینی (ساده‌شده)"
       }
     ],
     "fi": [
@@ -3175,7 +3367,7 @@
       },
       {
         "code": "zh-cn",
-        "name": "kiina (yksinkert.)"
+        "name": "kiina (yksinkertaistettu)"
       },
       {
         "code": "ko",
@@ -3188,6 +3380,10 @@
       {
         "code": "hr",
         "name": "kroatia"
+      },
+      {
+        "code": "ckb",
+        "name": "kurdi (soranî)"
       },
       {
         "code": "cy",
@@ -3296,6 +3492,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "heprea"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kiina (yksinkertaistettu)"
       }
     ],
     "fr": [
@@ -3412,6 +3616,10 @@
         "name": "Japonais"
       },
       {
+        "code": "ckb",
+        "name": "Kurde (Sorani)"
+      },
+      {
         "code": "lv",
         "name": "Letton"
       },
@@ -3490,6 +3698,14 @@
       {
         "code": "zu",
         "name": "Zoulou"
+      },
+      {
+        "code": "he",
+        "name": "Hébreu"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinois (simplifié)"
       }
     ],
     "ga": [
@@ -3524,6 +3740,10 @@
       {
         "code": "ca",
         "name": "Catalóinis"
+      },
+      {
+        "code": "ckb",
+        "name": "Coirdis (Sorani)"
       },
       {
         "code": "ko",
@@ -3684,6 +3904,14 @@
       {
         "code": "vi",
         "name": "Vítneaimis"
+      },
+      {
+        "code": "he",
+        "name": "Eabhrais"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Sínis (Simplithe)"
       }
     ],
     "gd": [
@@ -3734,6 +3962,10 @@
       {
         "code": "cy",
         "name": "Cuimris"
+      },
+      {
+        "code": "ckb",
+        "name": "Cùrdais (Sorani)"
       },
       {
         "code": "da",
@@ -3878,6 +4110,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Eabhra"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Sìonais (sìmplichte)"
       }
     ],
     "gl": [
@@ -4002,6 +4242,10 @@
         "name": "italiano"
       },
       {
+        "code": "ckb",
+        "name": "kurdo (sorani)"
+      },
+      {
         "code": "lv",
         "name": "letón"
       },
@@ -4072,6 +4316,14 @@
       {
         "code": "zu",
         "name": "zulú"
+      },
+      {
+        "code": "he",
+        "name": "hebreo"
+      },
+      {
+        "code": "zh-cn",
+        "name": "chinés (simplificado)"
       }
     ],
     "he": [
@@ -4164,8 +4416,12 @@
         "name": "יפנית"
       },
       {
+        "code": "ckb",
+        "name": "כורדית (סורנית)"
+      },
+      {
         "code": "lv",
-        "name": "לטווית"
+        "name": "לטבית"
       },
       {
         "code": "lt",
@@ -4185,7 +4441,7 @@
       },
       {
         "code": "zh-cn",
-        "name": "סינית (פשוטה)"
+        "name": "‏סינית (פשוטה)"
       },
       {
         "code": "sl",
@@ -4265,7 +4521,15 @@
       },
       {
         "code": "th",
-        "name": "תאילנדית"
+        "name": "תאית"
+      },
+      {
+        "code": "he",
+        "name": "עברית"
+      },
+      {
+        "code": "zh-cn",
+        "name": "‏סינית (פשוטה)"
       }
     ],
     "hr": [
@@ -4351,7 +4615,7 @@
       },
       {
         "code": "zh-cn",
-        "name": "kineski (pojednost.)"
+        "name": "kineski (pojednostavljeni)"
       },
       {
         "code": "zh-tw",
@@ -4360,6 +4624,10 @@
       {
         "code": "ko",
         "name": "korejski"
+      },
+      {
+        "code": "ckb",
+        "name": "kurdski (soranski)"
       },
       {
         "code": "lv",
@@ -4460,6 +4728,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "hebrejski"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kineski (pojednostavljeni)"
       }
     ],
     "hu": [
@@ -4560,6 +4836,10 @@
         "name": "koreai"
       },
       {
+        "code": "ckb",
+        "name": "kurd (szoráni)"
+      },
+      {
         "code": "pl",
         "name": "lengyel"
       },
@@ -4654,6 +4934,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "héber"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kínai (egyszerűsített)"
       }
     ],
     "id": [
@@ -4683,7 +4971,7 @@
       },
       {
         "code": "cs",
-        "name": "Cek"
+        "name": "Ceko"
       },
       {
         "code": "zh-cn",
@@ -4760,6 +5048,10 @@
       {
         "code": "hr",
         "name": "Kroat"
+      },
+      {
+        "code": "ckb",
+        "name": "Kurdi (Sorani)"
       },
       {
         "code": "lv",
@@ -4848,12 +5140,20 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Ibrani"
+      },
+      {
+        "code": "zh-cn",
+        "name": "China (Aks. Sederhana)"
       }
     ],
     "is": [
       {
         "code": "am",
-        "name": "amharísku"
+        "name": "amharíska"
       },
       {
         "code": "ar",
@@ -4946,6 +5246,10 @@
       {
         "code": "hr",
         "name": "króatíska"
+      },
+      {
+        "code": "ckb",
+        "name": "kúrdíska (soraní)"
       },
       {
         "code": "lv",
@@ -5042,6 +5346,14 @@
       {
         "code": "de",
         "name": "þýska"
+      },
+      {
+        "code": "he",
+        "name": "hebreska"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kínverska (einfölduð)"
       }
     ],
     "it": [
@@ -5088,6 +5400,10 @@
       {
         "code": "hr",
         "name": "Croato"
+      },
+      {
+        "code": "ckb",
+        "name": "Curdo (Sorani)"
       },
       {
         "code": "da",
@@ -5210,12 +5526,12 @@
         "name": "Svedese"
       },
       {
-        "code": "th",
-        "name": "Tailandese"
-      },
-      {
         "code": "de",
         "name": "Tedesco"
+      },
+      {
+        "code": "th",
+        "name": "Thai"
       },
       {
         "code": "tr",
@@ -5236,6 +5552,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Ebraico"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Cinese (semplificato)"
       }
     ],
     "ja": [
@@ -5296,6 +5620,10 @@
         "name": "ギリシャ語"
       },
       {
+        "code": "ckb",
+        "name": "クルド語（ソラニー）"
+      },
+      {
         "code": "hr",
         "name": "クロアチア語"
       },
@@ -5421,15 +5749,23 @@
       },
       {
         "code": "zh-cn",
-        "name": "中国語(簡体)"
+        "name": "中国語（簡体）"
       },
       {
         "code": "zh-tw",
-        "name": "中国語(繁体)"
+        "name": "中国語（繁体）"
       },
       {
         "code": "ja",
         "name": "日本語"
+      },
+      {
+        "code": "he",
+        "name": "ヘブライ語"
+      },
+      {
+        "code": "zh-cn",
+        "name": "中国語（簡体）"
       }
     ],
     "ja-hira": [
@@ -5490,6 +5826,10 @@
         "name": "ギリシャ語"
       },
       {
+        "code": "ckb",
+        "name": "クルド語（ソラニー）"
+      },
+      {
         "code": "hr",
         "name": "クロアチア語"
       },
@@ -5615,15 +5955,23 @@
       },
       {
         "code": "zh-cn",
-        "name": "中国語(簡体)"
+        "name": "中国語（簡体）"
       },
       {
         "code": "zh-tw",
-        "name": "中国語(繁体)"
+        "name": "中国語（繁体）"
       },
       {
         "code": "ja",
         "name": "日本語"
+      },
+      {
+        "code": "he",
+        "name": "ヘブライ語"
+      },
+      {
+        "code": "zh-cn",
+        "name": "中国語（簡体）"
       }
     ],
     "ko": [
@@ -5776,6 +6124,10 @@
         "name": "카탈로니아어"
       },
       {
+        "code": "ckb",
+        "name": "쿠르드어(소라니)"
+      },
+      {
         "code": "hr",
         "name": "크로아티아어"
       },
@@ -5818,6 +6170,14 @@
       {
         "code": "he",
         "name": "히브리어"
+      },
+      {
+        "code": "he",
+        "name": "히브리어"
+      },
+      {
+        "code": "zh-cn",
+        "name": "중국어(간체)"
       }
     ],
     "lt": [
@@ -5839,7 +6199,7 @@
       },
       {
         "code": "az",
-        "name": "Azerbaidžaniečių"
+        "name": "azerbaidžaniečių"
       },
       {
         "code": "eu",
@@ -5914,6 +6274,10 @@
         "name": "kroatų"
       },
       {
+        "code": "ckb",
+        "name": "kurdų (soranių)"
+      },
+      {
         "code": "lv",
         "name": "latvių"
       },
@@ -5975,7 +6339,7 @@
       },
       {
         "code": "gd",
-        "name": "škotų (gėlų)"
+        "name": "škotų"
       },
       {
         "code": "sv",
@@ -6012,6 +6376,14 @@
       {
         "code": "zu",
         "name": "zulusų"
+      },
+      {
+        "code": "he",
+        "name": "hebrajų"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kinų (supaprastinta)"
       }
     ],
     "lv": [
@@ -6046,10 +6418,6 @@
       {
         "code": "da",
         "name": "dāņu"
-      },
-      {
-        "code": "he",
-        "name": "ebreju (ivrits)"
       },
       {
         "code": "fr",
@@ -6092,6 +6460,10 @@
         "name": "itāļu"
       },
       {
+        "code": "he",
+        "name": "ivrits"
+      },
+      {
         "code": "ja",
         "name": "japāņu"
       },
@@ -6106,6 +6478,10 @@
       {
         "code": "ru",
         "name": "krievu"
+      },
+      {
+        "code": "ckb",
+        "name": "kurdu (sorani)"
       },
       {
         "code": "zh-tw",
@@ -6206,6 +6582,14 @@
       {
         "code": "sv",
         "name": "zviedru"
+      },
+      {
+        "code": "he",
+        "name": "ivrits"
+      },
+      {
+        "code": "zh-cn",
+        "name": "ķīniešu (vienkāršotā)"
       }
     ],
     "mi": [
@@ -6310,6 +6694,10 @@
         "name": "Korukoru"
       },
       {
+        "code": "ckb",
+        "name": "Kūrihi (Horani)"
+      },
+      {
         "code": "mi",
         "name": "Māori"
       },
@@ -6400,6 +6788,14 @@
       {
         "code": "fr",
         "name": "Wīwī"
+      },
+      {
+        "code": "he",
+        "name": "Hiperu"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Hainamana (Kua whakamāmātia)"
       }
     ],
     "nb": [
@@ -6500,6 +6896,10 @@
         "name": "kroatisk"
       },
       {
+        "code": "ckb",
+        "name": "kurdisk (sorani)"
+      },
+      {
         "code": "lv",
         "name": "latvisk"
       },
@@ -6594,6 +6994,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "hebraisk"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kinesisk (forenklet)"
       }
     ],
     "nl": [
@@ -6688,6 +7096,10 @@
       {
         "code": "ja",
         "name": "Japans"
+      },
+      {
+        "code": "ckb",
+        "name": "Koerdisch (Sorani)"
       },
       {
         "code": "ko",
@@ -6788,6 +7200,14 @@
       {
         "code": "sv",
         "name": "Zweeds"
+      },
+      {
+        "code": "he",
+        "name": "Hebreeuws"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinees (vereenvoudigd)"
       }
     ],
     "pl": [
@@ -6888,6 +7308,10 @@
         "name": "koreański"
       },
       {
+        "code": "ckb",
+        "name": "kurdyjski (sorani)"
+      },
+      {
         "code": "lt",
         "name": "litewski"
       },
@@ -6982,6 +7406,14 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "hebrajski"
+      },
+      {
+        "code": "zh-cn",
+        "name": "chiński (uproszczony)"
       }
     ],
     "pt": [
@@ -7094,6 +7526,10 @@
         "name": "Korean"
       },
       {
+        "code": "ckb",
+        "name": "Kurdish (Sorani)"
+      },
+      {
         "code": "lv",
         "name": "Latvian"
       },
@@ -7176,6 +7612,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Hebrew"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Simplified)"
       }
     ],
     "pt-br": [
@@ -7222,6 +7666,10 @@
       {
         "code": "hr",
         "name": "Croata"
+      },
+      {
+        "code": "ckb",
+        "name": "Curdo (sorâni)"
       },
       {
         "code": "da",
@@ -7370,6 +7818,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Hebraico"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinês (simplificado)"
       }
     ],
     "ro": [
@@ -7482,6 +7938,10 @@
         "name": "Japoneză"
       },
       {
+        "code": "ckb",
+        "name": "Kurdă (Sorani)"
+      },
+      {
         "code": "lv",
         "name": "Letonă"
       },
@@ -7564,6 +8024,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Ebraică"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chineză (Simplificată)"
       }
     ],
     "ru": [
@@ -7658,6 +8126,10 @@
       {
         "code": "ko",
         "name": "корейский"
+      },
+      {
+        "code": "ckb",
+        "name": "курдский (сорани)"
       },
       {
         "code": "lv",
@@ -7758,6 +8230,14 @@
       {
         "code": "ja",
         "name": "японский"
+      },
+      {
+        "code": "he",
+        "name": "иврит"
+      },
+      {
+        "code": "zh-cn",
+        "name": "китайский (упрощенный)"
       }
     ],
     "sk": [
@@ -7858,6 +8338,10 @@
         "name": "kórejčina"
       },
       {
+        "code": "ckb",
+        "name": "kurdčina (sorání)"
+      },
+      {
         "code": "lt",
         "name": "litovčina"
       },
@@ -7952,6 +8436,14 @@
       {
         "code": "zu",
         "name": "zuluština"
+      },
+      {
+        "code": "he",
+        "name": "hebrejčina"
+      },
+      {
+        "code": "zh-cn",
+        "name": "čínština (zjednodušená)"
       }
     ],
     "sl": [
@@ -8052,6 +8544,10 @@
         "name": "korejščina"
       },
       {
+        "code": "ckb",
+        "name": "kurdščina (soranščina)"
+      },
+      {
         "code": "lv",
         "name": "latvijščina"
       },
@@ -8146,6 +8642,14 @@
       {
         "code": "zu",
         "name": "zulujščina"
+      },
+      {
+        "code": "he",
+        "name": "hebrejščina"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kitajščina (poenostavljena)"
       }
     ],
     "sr": [
@@ -8236,6 +8740,10 @@
       {
         "code": "ko",
         "name": "корејски"
+      },
+      {
+        "code": "ckb",
+        "name": "курдски (сорани)"
       },
       {
         "code": "lv",
@@ -8340,6 +8848,14 @@
       {
         "code": "es",
         "name": "шпански"
+      },
+      {
+        "code": "he",
+        "name": "хебрејски"
+      },
+      {
+        "code": "zh-cn",
+        "name": "кинески (поједностављени)"
       }
     ],
     "sv": [
@@ -8440,6 +8956,10 @@
         "name": "kroatiska"
       },
       {
+        "code": "ckb",
+        "name": "kurdiska (sorani)"
+      },
+      {
         "code": "lv",
         "name": "lettiska"
       },
@@ -8534,200 +9054,220 @@
       {
         "code": "zu",
         "name": "zulu"
+      },
+      {
+        "code": "he",
+        "name": "hebreiska"
+      },
+      {
+        "code": "zh-cn",
+        "name": "kinesiska (förenklad)"
       }
     ],
     "th": [
       {
         "code": "el",
-        "name": "ภาษากรีก"
+        "name": "กรีก"
       },
       {
         "code": "gl",
-        "name": "ภาษากาลิเชียน"
+        "name": "กาลิเชียน"
       },
       {
         "code": "gd",
-        "name": "ภาษาเกลิกในสก็อต"
+        "name": "เกลิกสกอต"
       },
       {
         "code": "ko",
-        "name": "ภาษาเกาหลี"
+        "name": "เกาหลี"
       },
       {
         "code": "ca",
-        "name": "ภาษาคาตาลัน"
+        "name": "คาตาลัน"
+      },
+      {
+        "code": "ckb",
+        "name": "เคิร์ด (โซรานี)"
       },
       {
         "code": "hr",
-        "name": "ภาษาโครเอเชีย"
+        "name": "โครเอเชีย"
       },
       {
         "code": "zh-tw",
-        "name": "ภาษาจีน (ดั้งเดิม)"
+        "name": "จีน (ตัวเต็ม)"
       },
       {
         "code": "zh-cn",
-        "name": "ภาษาจีน (แบบย่อ)"
+        "name": "จีน (ตัวย่อ)"
       },
       {
         "code": "cs",
-        "name": "ภาษาเช็ก"
+        "name": "เช็ก"
       },
       {
         "code": "zu",
-        "name": "ภาษาซูลู"
+        "name": "ซูลู"
       },
       {
         "code": "sr",
-        "name": "ภาษาเซอร์เบียน"
+        "name": "เซอร์เบียน"
       },
       {
         "code": "ja",
-        "name": "ภาษาญี่ปุ่น"
+        "name": "ญี่ปุ่น"
       },
       {
         "code": "nl",
-        "name": "ภาษาดัตช์"
+        "name": "ดัตช์"
       },
       {
         "code": "da",
-        "name": "ภาษาเดนมาร์ก"
+        "name": "เดนมาร์ก"
       },
       {
         "code": "tr",
-        "name": "ภาษาตุรกี"
+        "name": "ตุรกี"
       },
       {
         "code": "th",
-        "name": "ภาษาไทย"
+        "name": "ไทย"
       },
       {
         "code": "nb",
-        "name": "ภาษานอร์เวย์"
+        "name": "นอร์เวย์"
       },
       {
         "code": "bg",
-        "name": "ภาษาบัลกาเรีย"
+        "name": "บัลแกเรีย"
       },
       {
         "code": "eu",
-        "name": "ภาษาบาสก์"
+        "name": "บาสก์"
       },
       {
         "code": "fa",
-        "name": "ภาษาเปอร์เซีย"
+        "name": "เปอร์เซีย"
       },
       {
         "code": "pt",
-        "name": "ภาษาโปรตุเกส"
+        "name": "โปรตุเกส"
       },
       {
         "code": "pl",
-        "name": "ภาษาโปแลนด์"
+        "name": "โปแลนด์"
       },
       {
         "code": "fr",
-        "name": "ภาษาฝรั่งเศส"
+        "name": "ฝรั่งเศส"
       },
       {
         "code": "fi",
-        "name": "ภาษาฟินแลนด์"
+        "name": "ฟินแลนด์"
       },
       {
         "code": "mi",
-        "name": "ภาษาเมารี"
+        "name": "เมารี"
       },
       {
         "code": "uk",
-        "name": "ภาษายูเครน"
+        "name": "ยูเครน"
       },
       {
         "code": "de",
-        "name": "ภาษาเยอรมัน"
+        "name": "เยอรมัน"
       },
       {
         "code": "ru",
-        "name": "ภาษารัสเซีย"
+        "name": "รัสเซีย"
       },
       {
         "code": "ro",
-        "name": "ภาษาโรมาเนีย"
+        "name": "โรมาเนีย"
       },
       {
         "code": "lv",
-        "name": "ภาษาลัทเวีย"
+        "name": "ลัตเวีย"
       },
       {
         "code": "lt",
-        "name": "ภาษาลิทัวเนีย"
+        "name": "ลิทัวเนีย"
       },
       {
         "code": "cy",
-        "name": "ภาษาเวลส์"
+        "name": "เวลส์"
       },
       {
         "code": "vi",
-        "name": "ภาษาเวียดนาม"
+        "name": "เวียดนาม"
       },
       {
         "code": "es",
-        "name": "ภาษาสเปน"
+        "name": "สเปน"
       },
       {
         "code": "sk",
-        "name": "ภาษาสโลวัก"
+        "name": "สโลวัก"
       },
       {
         "code": "sl",
-        "name": "ภาษาสโลเวเนีย"
+        "name": "สโลวีเนีย"
       },
       {
         "code": "sv",
-        "name": "ภาษาสวีเดน"
+        "name": "สวีเดน"
       },
       {
         "code": "en",
-        "name": "ภาษาอังกฤษ"
+        "name": "อังกฤษ"
       },
       {
         "code": "am",
-        "name": "ภาษาอัมฮาริก"
+        "name": "อัมฮาริก"
       },
       {
         "code": "az",
-        "name": "ภาษาอาร์เซอร์ไบจัน"
+        "name": "อาร์เซอร์ไบจัน"
       },
       {
         "code": "ar",
-        "name": "ภาษาอาหรับ"
+        "name": "อาหรับ"
       },
       {
         "code": "it",
-        "name": "ภาษาอิตาลี"
+        "name": "อิตาลี"
       },
       {
         "code": "id",
-        "name": "ภาษาอินโดนีเซีย"
+        "name": "อินโดนีเซีย"
       },
       {
         "code": "et",
-        "name": "ภาษาเอสโทเนีย"
+        "name": "เอสโทเนีย"
       },
       {
         "code": "is",
-        "name": "ภาษาไอซ์แลนดิก"
+        "name": "ไอซ์แลนด์"
       },
       {
         "code": "ga",
-        "name": "ภาษาไอริช"
+        "name": "ไอร์แลนด์"
       },
       {
         "code": "hu",
-        "name": "ภาษาฮังการี"
+        "name": "ฮังการี"
       },
       {
         "code": "he",
-        "name": "ภาษาฮิบรู"
+        "name": "ฮีบรู"
+      },
+      {
+        "code": "he",
+        "name": "ฮีบรู"
+      },
+      {
+        "code": "zh-cn",
+        "name": "จีน (ตัวย่อ)"
       }
     ],
     "tr": [
@@ -8741,7 +9281,7 @@
       },
       {
         "code": "az",
-        "name": "Azerice"
+        "name": "Azerbaycan dili"
       },
       {
         "code": "eu",
@@ -8769,7 +9309,7 @@
       },
       {
         "code": "id",
-        "name": "Endonezya Dili"
+        "name": "Endonezce"
       },
       {
         "code": "et",
@@ -8820,6 +9360,10 @@
         "name": "İrlandaca"
       },
       {
+        "code": "gd",
+        "name": "İskoç Gaelcesi"
+      },
+      {
         "code": "es",
         "name": "İspanyolca"
       },
@@ -8848,8 +9392,8 @@
         "name": "Korece"
       },
       {
-        "code": "gd",
-        "name": "Kuzey İskoç Dili"
+        "code": "ckb",
+        "name": "Kürtçe (Sorani)"
       },
       {
         "code": "pl",
@@ -8869,7 +9413,7 @@
       },
       {
         "code": "mi",
-        "name": "Maori Dili"
+        "name": "Maori dili"
       },
       {
         "code": "nb",
@@ -8901,7 +9445,7 @@
       },
       {
         "code": "th",
-        "name": "Tay Dili"
+        "name": "Tayca"
       },
       {
         "code": "tr",
@@ -8922,6 +9466,14 @@
       {
         "code": "zu",
         "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "İbranice"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Çince (Basitleştirilmiş)"
       }
     ],
     "uk": [
@@ -9016,6 +9568,10 @@
       {
         "code": "ko",
         "name": "корейська"
+      },
+      {
+        "code": "ckb",
+        "name": "курдська (сорані)"
       },
       {
         "code": "lv",
@@ -9116,200 +9672,220 @@
       {
         "code": "ja",
         "name": "японська"
+      },
+      {
+        "code": "he",
+        "name": "іврит"
+      },
+      {
+        "code": "zh-cn",
+        "name": "китайська (спрощена)"
       }
     ],
     "vi": [
       {
         "code": "ar",
-        "name": "Tiếng Ả Rập"
+        "name": "Ả Rập"
       },
       {
         "code": "am",
-        "name": "Tiếng Amharic"
+        "name": "Amharic"
       },
       {
         "code": "en",
-        "name": "Tiếng Anh"
+        "name": "Anh"
       },
       {
         "code": "az",
-        "name": "Tiếng Azerbaijan"
+        "name": "Azerbaijan"
       },
       {
         "code": "pl",
-        "name": "Tiếng Ba Lan"
+        "name": "Ba Lan"
       },
       {
         "code": "fa",
-        "name": "Tiếng Ba Tư"
+        "name": "Ba Tư"
       },
       {
         "code": "eu",
-        "name": "Tiếng Basque"
+        "name": "Basque"
       },
       {
         "code": "pt",
-        "name": "Tiếng Bồ Đào Nha"
+        "name": "Bồ Đào Nha"
       },
       {
         "code": "bg",
-        "name": "Tiếng Bulgaria"
+        "name": "Bulgaria"
       },
       {
         "code": "ca",
-        "name": "Tiếng Catalan"
+        "name": "Catalan"
       },
       {
         "code": "hr",
-        "name": "Tiếng Croatia"
+        "name": "Croatia"
       },
       {
         "code": "he",
-        "name": "Tiếng Do Thái"
+        "name": "Do Thái"
       },
       {
         "code": "da",
-        "name": "Tiếng Đan Mạch"
+        "name": "Đan Mạch"
       },
       {
         "code": "de",
-        "name": "Tiếng Đức"
+        "name": "Đức"
       },
       {
         "code": "et",
-        "name": "Tiếng Estonia"
+        "name": "Estonia"
       },
       {
         "code": "gd",
-        "name": "Tiếng Gael Scotland"
+        "name": "Gael Scotland"
       },
       {
         "code": "gl",
-        "name": "Tiếng Galicia"
+        "name": "Galicia"
       },
       {
         "code": "nl",
-        "name": "Tiếng Hà Lan"
+        "name": "Hà Lan"
       },
       {
         "code": "ko",
-        "name": "Tiếng Hàn"
+        "name": "Hàn"
       },
       {
         "code": "hu",
-        "name": "Tiếng Hungary"
+        "name": "Hungary"
       },
       {
         "code": "el",
-        "name": "Tiếng Hy Lạp"
+        "name": "Hy Lạp"
       },
       {
         "code": "is",
-        "name": "Tiếng Iceland"
+        "name": "Iceland"
       },
       {
         "code": "id",
-        "name": "Tiếng Indonesia"
+        "name": "Indonesia"
       },
       {
         "code": "ga",
-        "name": "Tiếng Ireland"
+        "name": "Ireland"
+      },
+      {
+        "code": "ckb",
+        "name": "Kurd (Sorani)"
       },
       {
         "code": "lv",
-        "name": "Tiếng Latvia"
+        "name": "Latvia"
       },
       {
         "code": "lt",
-        "name": "Tiếng Litva"
+        "name": "Litva"
       },
       {
         "code": "mi",
-        "name": "Tiếng Maori"
+        "name": "Maori"
       },
       {
         "code": "nb",
-        "name": "Tiếng Na Uy"
+        "name": "Na Uy"
       },
       {
         "code": "ru",
-        "name": "Tiếng Nga"
+        "name": "Nga"
       },
       {
         "code": "ja",
-        "name": "Tiếng Nhật"
+        "name": "Nhật"
       },
       {
         "code": "fr",
-        "name": "Tiếng Pháp"
+        "name": "Pháp"
       },
       {
         "code": "fi",
-        "name": "Tiếng Phần Lan"
+        "name": "Phần Lan"
       },
       {
         "code": "ro",
-        "name": "Tiếng Rumani"
+        "name": "Rumani"
       },
       {
         "code": "cs",
-        "name": "Tiếng Séc"
+        "name": "Séc"
       },
       {
         "code": "sr",
-        "name": "Tiếng Serbia"
+        "name": "Serbia"
       },
       {
         "code": "sk",
-        "name": "Tiếng Slovak"
+        "name": "Slovak"
       },
       {
         "code": "sl",
-        "name": "Tiếng Slovenia"
+        "name": "Slovenia"
       },
       {
         "code": "es",
-        "name": "Tiếng Tây Ban Nha"
+        "name": "Tây Ban Nha"
       },
       {
         "code": "th",
-        "name": "Tiếng Thái"
+        "name": "Thái"
       },
       {
         "code": "tr",
-        "name": "Tiếng Thổ Nhĩ Kỳ"
+        "name": "Thổ Nhĩ Kỳ"
       },
       {
         "code": "sv",
-        "name": "Tiếng Thụy Điển"
+        "name": "Thụy Điển"
       },
       {
         "code": "zh-cn",
-        "name": "Tiếng Trung (Giản Thể)"
+        "name": "Trung (Giản thể)"
       },
       {
         "code": "zh-tw",
-        "name": "Tiếng Trung (Phồn thể)"
+        "name": "Trung (Phồn thể)"
       },
       {
         "code": "uk",
-        "name": "Tiếng Ukraina"
+        "name": "Ukraina"
       },
       {
         "code": "vi",
-        "name": "Tiếng Việt"
+        "name": "Việt"
       },
       {
         "code": "cy",
-        "name": "Tiếng Xứ Wales"
+        "name": "Xứ Wales"
       },
       {
         "code": "it",
-        "name": "Tiếng Ý"
+        "name": "Ý"
       },
       {
         "code": "zu",
-        "name": "Tiếng Zulu"
+        "name": "Zulu"
+      },
+      {
+        "code": "he",
+        "name": "Do Thái"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Trung (Giản thể)"
       }
     ],
     "zh-cn": [
@@ -9396,6 +9972,10 @@
       {
         "code": "hr",
         "name": "克罗地亚语"
+      },
+      {
+        "code": "ckb",
+        "name": "库尔德语（索拉尼）"
       },
       {
         "code": "lv",
@@ -9499,11 +10079,19 @@
       },
       {
         "code": "zh-tw",
-        "name": "中文(繁体)"
+        "name": "中文（繁体）"
       },
       {
         "code": "zh-cn",
-        "name": "中文(简体)"
+        "name": "中文（简体）"
+      },
+      {
+        "code": "he",
+        "name": "希伯来语"
+      },
+      {
+        "code": "zh-cn",
+        "name": "中文（简体）"
       }
     ],
     "zh-tw": [
@@ -9513,11 +10101,11 @@
       },
       {
         "code": "zh-tw",
-        "name": "中文(繁體)"
+        "name": "中文 (繁體)"
       },
       {
         "code": "zh-cn",
-        "name": "中文(簡體)"
+        "name": "中文 (簡體)"
       },
       {
         "code": "da",
@@ -9628,6 +10216,10 @@
         "name": "英文"
       },
       {
+        "code": "ckb",
+        "name": "庫德文 (索拉尼文)"
+      },
+      {
         "code": "nb",
         "name": "挪威文"
       },
@@ -9698,20 +10290,80 @@
       {
         "code": "gd",
         "name": "蘇格蘭的蓋爾文"
+      },
+      {
+        "code": "he",
+        "name": "希伯來文"
+      },
+      {
+        "code": "zh-cn",
+        "name": "中文 (簡體)"
       }
     ],
     "zu": [
       {
-        "code": "am",
-        "name": "isi-Amharic"
-      },
-      {
         "code": "ar",
-        "name": "isi-Arabic"
+        "name": "Arabic"
       },
       {
         "code": "az",
-        "name": "Isi-Azerbaijani"
+        "name": "Azerbaijani"
+      },
+      {
+        "code": "ca",
+        "name": "Catalan"
+      },
+      {
+        "code": "zh-tw",
+        "name": "Chinese (Esenziwe lula)"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Simplified)"
+      },
+      {
+        "code": "hr",
+        "name": "Croatian"
+      },
+      {
+        "code": "cs",
+        "name": "Czech"
+      },
+      {
+        "code": "da",
+        "name": "Danish"
+      },
+      {
+        "code": "fi",
+        "name": "Finnish"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "el",
+        "name": "Greek"
+      },
+      {
+        "code": "he",
+        "name": "Hebrew"
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian"
+      },
+      {
+        "code": "id",
+        "name": "Indonesia"
+      },
+      {
+        "code": "ga",
+        "name": "Irish"
+      },
+      {
+        "code": "am",
+        "name": "isi-Amharic"
       },
       {
         "code": "eu",
@@ -9720,30 +10372,6 @@
       {
         "code": "bg",
         "name": "isi-Bulgarian"
-      },
-      {
-        "code": "ca",
-        "name": "isi-Catalan"
-      },
-      {
-        "code": "zh-cn",
-        "name": "isi-Chinese (Simplified)"
-      },
-      {
-        "code": "zh-tw",
-        "name": "isi-Chinese (Traditional)"
-      },
-      {
-        "code": "hr",
-        "name": "isi-Croatian"
-      },
-      {
-        "code": "cs",
-        "name": "isi-Czech"
-      },
-      {
-        "code": "da",
-        "name": "isi-Danish"
       },
       {
         "code": "nl",
@@ -9758,14 +10386,6 @@
         "name": "isi-Estonian"
       },
       {
-        "code": "fi",
-        "name": "isi-Finnish"
-      },
-      {
-        "code": "fr",
-        "name": "isi-French"
-      },
-      {
         "code": "gl",
         "name": "isi-Galician"
       },
@@ -9774,28 +10394,8 @@
         "name": "isi-German"
       },
       {
-        "code": "el",
-        "name": "isi-Greek"
-      },
-      {
-        "code": "hu",
-        "name": "isi-Hangarian"
-      },
-      {
-        "code": "he",
-        "name": "isi-Hebrew"
-      },
-      {
         "code": "is",
         "name": "isi-Icelandic"
-      },
-      {
-        "code": "id",
-        "name": "isi-Indonesian"
-      },
-      {
-        "code": "ga",
-        "name": "isi-Irish"
       },
       {
         "code": "it",
@@ -9806,28 +10406,12 @@
         "name": "isi-Japanese"
       },
       {
-        "code": "ko",
-        "name": "isi-Korean"
-      },
-      {
         "code": "lv",
         "name": "isi-Latvian"
       },
       {
         "code": "lt",
         "name": "isi-Lithuanian"
-      },
-      {
-        "code": "mi",
-        "name": "isi-Maori"
-      },
-      {
-        "code": "nb",
-        "name": "isi-Norwegian"
-      },
-      {
-        "code": "fa",
-        "name": "isi-Persian"
       },
       {
         "code": "pl",
@@ -9838,28 +10422,12 @@
         "name": "isi-Portuguese"
       },
       {
-        "code": "ro",
-        "name": "isi-Romanian"
-      },
-      {
         "code": "ru",
         "name": "isi-Russian"
       },
       {
         "code": "gd",
         "name": "isi-Scots Gaelic"
-      },
-      {
-        "code": "sr",
-        "name": "isi-Serbian"
-      },
-      {
-        "code": "sk",
-        "name": "isi-Slovak"
-      },
-      {
-        "code": "sl",
-        "name": "isi-Slovenian"
       },
       {
         "code": "es",
@@ -9870,28 +10438,72 @@
         "name": "isi-Swedish"
       },
       {
-        "code": "th",
-        "name": "isi-Thai"
-      },
-      {
-        "code": "tr",
-        "name": "isi-Turkish"
-      },
-      {
-        "code": "uk",
-        "name": "isi-Ukrainian"
-      },
-      {
-        "code": "vi",
-        "name": "isi-Vietnamese"
-      },
-      {
         "code": "cy",
         "name": "isi-Welsh"
       },
       {
         "code": "zu",
         "name": "isiZulu"
+      },
+      {
+        "code": "ko",
+        "name": "Korean"
+      },
+      {
+        "code": "ckb",
+        "name": "Kurdish (Sorani)"
+      },
+      {
+        "code": "mi",
+        "name": "Maori"
+      },
+      {
+        "code": "nb",
+        "name": "Norwegian"
+      },
+      {
+        "code": "fa",
+        "name": "Persian"
+      },
+      {
+        "code": "ro",
+        "name": "Romanian"
+      },
+      {
+        "code": "sr",
+        "name": "Serbian"
+      },
+      {
+        "code": "sk",
+        "name": "Slovak"
+      },
+      {
+        "code": "sl",
+        "name": "Slovenian"
+      },
+      {
+        "code": "th",
+        "name": "Thai"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish"
+      },
+      {
+        "code": "uk",
+        "name": "Ukrainian"
+      },
+      {
+        "code": "vi",
+        "name": "Vietnamese"
+      },
+      {
+        "code": "he",
+        "name": "Hebrew"
+      },
+      {
+        "code": "zh-cn",
+        "name": "Chinese (Simplified)"
       }
     ]
   },
@@ -9938,13 +10550,16 @@
     "almaeneg": "de",
     "alman": "de",
     "almanca": "de",
+    "almanî": "de",
     "amarico": "am",
-    "amarikcə": "am",
+    "amarik": "am",
     "amariki": "am",
     "amarikisht": "am",
+    "ambarîkî": "am",
     "amenyen": "hy",
     "amhaari": "am",
     "amhara": "am",
+    "amhareg": "am",
     "amharera": "am",
     "amharic": "am",
     "amharică": "am",
@@ -9955,7 +10570,7 @@
     "amhariska": "am",
     "amharski": "am",
     "amharu": "am",
-    "amharísku": "am",
+    "amharíska": "am",
     "amharčina": "am",
     "amharština": "am",
     "amharščina": "am",
@@ -9978,6 +10593,7 @@
     "anglų": "en",
     "angol": "en",
     "angļu": "en",
+    "anh": "en",
     "araabia": "ar",
     "arab": "ar",
     "arabais": "ar",
@@ -10013,7 +10629,6 @@
     "armenia": "hy",
     "armenian": "hy",
     "armeniera": "hy",
-    "armenijski": "hy",
     "armenio": "hy",
     "armenisch": "hy",
     "armenisht": "hy",
@@ -10021,6 +10636,7 @@
     "armeno": "hy",
     "armensk": "hy",
     "armenska": "hy",
+    "armenski": "hy",
     "armenščina": "hy",
     "arménien": "hy",
     "arménčina": "hy",
@@ -10029,6 +10645,7 @@
     "armēņu": "hy",
     "armėnų": "hy",
     "arnavutça": "sq",
+    "arnawudî": "sq",
     "arābu": "ar",
     "asarbaideànais": "az",
     "asarbaiseáinis": "az",
@@ -10048,9 +10665,10 @@
     "azerbajdžanski": "az",
     "azerbajdžančina": "az",
     "azerbajdžanščina": "az",
+    "azerbaycan dili": "az",
+    "azerbaycanî": "az",
     "azerbeidzjaans": "az",
     "azeri": "az",
-    "azerice": "az",
     "azerisht": "az",
     "azero": "az",
     "azerski": "az",
@@ -10059,6 +10677,9 @@
     "azéri": "az",
     "azərbaycan dili": "az",
     "ażerbajġani": "az",
+    "ba lan": "pl",
+    "ba tư": "fa",
+    "bahasa melayu": "ms",
     "baltarusių": "be",
     "baltkrievu": "be",
     "barmčina": "my",
@@ -10081,6 +10702,7 @@
     "baskovščina": "eu",
     "basku": "eu",
     "baskça": "eu",
+    "baskî": "eu",
     "baskų": "eu",
     "basque": "eu",
     "baszk": "eu",
@@ -10092,17 +10714,19 @@
     "belarusca": "be",
     "belarusian": "be",
     "belarussia": "be",
+    "belarussisch": "be",
     "belarussu": "be",
     "belarusça": "be",
     "belarwseg": "be",
+    "belarûsî": "be",
     "belorusz": "be",
     "beloruščina": "be",
     "beurla": "en",
     "bhiet-namais": "vi",
     "białoruski": "be",
-    "bielo-russo": "be",
     "bielorrusiera": "be",
     "bielorruso": "be",
+    "bielorrusso": "be",
     "bielorusso": "be",
     "bielorusă": "be",
     "bieloruština": "be",
@@ -10158,13 +10782,15 @@
     "burmesisk": "my",
     "burmesiska": "my",
     "bułgarski": "bg",
-    "bwlgaraidd": "bg",
+    "bwlgareg": "bg",
     "béarla": "en",
     "búlgar": "bg",
     "búlgaro": "bg",
     "búlgarska": "bg",
     "búrmíska": "my",
+    "bûlgarî": "bg",
     "běloruština": "be",
+    "bồ đào nha": "pt",
     "canarés": "kn",
     "canarês": "kn",
     "cannadais": "kn",
@@ -10181,13 +10807,14 @@
     "catalóinis": "ca",
     "ceco": "cs",
     "cehă": "cs",
-    "cek": "cs",
+    "ceko": "cs",
     "checo": "cs",
     "chex": "cs",
     "china (aks. sederhana)": "zh-cn",
     "china (aks. tradisional)": "zh-tw",
     "chinees (traditioneel)": "zh-tw",
     "chinees (vereenvoudigd)": "zh-cn",
+    "chinese (esenziwe lula)": "zh-tw",
     "chinese (simplified)": "zh-cn",
     "chinese (traditional)": "zh-tw",
     "chinesisch (traditionell)": "zh-tw",
@@ -10214,12 +10841,14 @@
     "cinese (semplificato)": "zh-cn",
     "cinese (tradizionale)": "zh-tw",
     "coirdis (curmainsis)": "ku",
+    "coirdis (sorani)": "ckb",
     "coirèanais": "ko",
     "coreano": "ko",
     "coreeană": "ko",
     "coreà": "ko",
     "coréen": "ko",
     "creol haiti": "ht",
+    "creole (haiti)": "ht",
     "creole haiti": "ht",
     "creolo haitiano": "ht",
     "creolă haitiană": "ht",
@@ -10241,15 +10870,19 @@
     "cróitis": "hr",
     "cseh": "cs",
     "cuimris": "cy",
-    "curdo": "ku",
     "curdo (kurmanji)": "ku",
+    "curdo (sorani)": "ckb",
+    "curdo (sorâni)": "ckb",
+    "cwrdeg (kurmandji)": "ku",
+    "cwrdeg (sorani)": "ckb",
     "cymraeg": "cy",
-    "cyrdeg (kurmandji)": "ku",
     "czech": "cs",
     "czeski": "cs",
     "cànan nan tàidh": "th",
     "cóiréis": "ko",
     "cùrdais (kurmanji)": "ku",
+    "cùrdais (sorani)": "ckb",
+    "dan": "da",
     "danca": "da",
     "daneg": "da",
     "danese": "da",
@@ -10269,12 +10902,12 @@
     "danés": "da",
     "danščina": "da",
     "danų": "da",
-    "dat": "da",
     "deens": "da",
     "denmark": "da",
     "deutsch": "de",
     "dinamarqués": "da",
     "dinamarquês": "da",
+    "do thái": "he",
     "duits": "de",
     "duitsis": "nl",
     "dutch": "nl",
@@ -10293,11 +10926,11 @@
     "ebraică": "he",
     "ebrajk": "he",
     "ebre": "he",
-    "ebreju (ivrits)": "he",
     "eesti": "et",
     "eidaleg": "it",
     "eistneska": "et",
-    "endonezya dili": "id",
+    "endonezce": "id",
+    "endonezyayî": "id",
     "endonezyen": "id",
     "endou": "hi",
     "engels": "en",
@@ -10310,11 +10943,12 @@
     "english": "en",
     "enska": "en",
     "eperānato": "eo",
+    "erebî": "ar",
     "ermenice": "hy",
     "erməni": "hy",
     "errumaniera": "ro",
     "errusiera": "ru",
-    "eskoziako gaelera": "gd",
+    "eskoziako gaelikoa": "gd",
     "eslovac": "sk",
     "eslovaco": "sk",
     "eslovakiera": "sk",
@@ -10327,7 +10961,7 @@
     "español": "es",
     "esperanto": "eo",
     "esperantoa": "eo",
-    "esperantoca": "eo",
+    "esperantoyî": "eo",
     "esperantó": "eo",
     "espéranto": "eo",
     "estisk": "et",
@@ -10348,6 +10982,7 @@
     "estonski": "et",
     "estonyaca": "et",
     "estonyen": "et",
+    "estonî": "et",
     "estonă": "et",
     "estonština": "et",
     "estonščina": "et",
@@ -10362,6 +10997,7 @@
     "fars dili": "fa",
     "farsi": "fa",
     "farsça": "fa",
+    "farsî": "fa",
     "felemenkçe": "nl",
     "fenlandè": "fi",
     "ffineg": "fi",
@@ -10374,6 +11010,7 @@
     "finlandese": "fi",
     "finlandeză": "fi",
     "finlandia": "fi",
+    "finlandiera": "fi",
     "finlandisht": "fi",
     "finlandiż": "fi",
     "finlandés": "fi",
@@ -10412,6 +11049,7 @@
     "fransk": "fr",
     "franska": "fr",
     "fransuz": "fr",
+    "fransî": "fr",
     "fransız": "fr",
     "fransızca": "fr",
     "frantsesa": "fr",
@@ -10422,10 +11060,11 @@
     "french": "fr",
     "frëngjisht": "fr",
     "fínčina": "fi",
+    "fînlandî": "fi",
     "gaeilge": "ga",
     "gaeilge na halban": "gd",
+    "gael scotland": "gd",
     "gaeleg yr alban": "gd",
-    "gaelera": "cy",
     "gaelic scotland": "gd",
     "gaelic tal-iskoċċiżi": "gd",
     "gaelico scozzese": "gd",
@@ -10439,6 +11078,7 @@
     "galce": "cy",
     "galeegi": "gl",
     "galego": "gl",
+    "galesa": "cy",
     "galeză": "cy",
     "galica scoțiană": "gd",
     "galicia": "gl",
@@ -10452,7 +11092,7 @@
     "galicisk": "gl",
     "galiciska": "gl",
     "galicyjski": "gl",
-    "galisaidd": "gl",
+    "galiseg": "gl",
     "galishte skoceze": "gd",
     "galisia": "gl",
     "galisiešu": "gl",
@@ -10476,11 +11116,13 @@
     "galês": "cy",
     "galíciai": "gl",
     "galícijčina": "gl",
+    "galîsî": "gl",
     "gaztelania": "es",
     "gaèlic escocès": "gd",
     "gaélico escocés": "gd",
     "gaélico escocês": "gd",
     "gaélique (écosse)": "gd",
+    "gaêlîkî sikotlandî": "gd",
     "gearmailtis": "de",
     "gearmáinis": "de",
     "german": "de",
@@ -10521,9 +11163,9 @@
     "habeşçe": "am",
     "haina (onamata)": "zh-tw",
     "hainamana (kua whakamāmātia)": "zh-cn",
-    "haiti creole dili": "ht",
     "haiti kreol": "ht",
     "haiti kreol dili": "ht",
+    "haiti kreyolu": "ht",
     "haitian creole": "ht",
     "haitianisch": "ht",
     "haitijska kreolščina": "ht",
@@ -10560,6 +11202,8 @@
     "heebrea": "he",
     "heprea": "he",
     "herepia": "sr",
+    "hiina (lihtsustatud)": "zh-cn",
+    "hiina (traditsiooniline)": "zh-tw",
     "hind": "hi",
     "hindi": "hi",
     "hindia": "hi",
@@ -10574,6 +11218,7 @@
     "hintçe": "hi",
     "hiondúis": "hi",
     "hiperu": "he",
+    "hirwatî": "hr",
     "hispaania": "es",
     "hiszpański": "es",
     "holandiešu": "nl",
@@ -10581,9 +11226,9 @@
     "holandês": "nl",
     "holandčina": "nl",
     "holandština": "nl",
+    "holendî": "nl",
     "holland": "nl",
     "hollandi": "nl",
-    "hollandsk": "nl",
     "hollanti": "nl",
     "hollenska": "nl",
     "hongaars": "hu",
@@ -10606,14 +11251,17 @@
     "hviterussisk": "be",
     "hvítrússneska": "be",
     "hwngareg": "hu",
+    "hy lạp": "el",
+    "hà lan": "nl",
+    "hàn": "ko",
     "héber": "he",
     "hébreu": "he",
     "húngaro": "hu",
+    "hûngarî (macarî)": "hu",
     "hīni": "hi",
     "hırvatça": "hr",
     "iaith corea": "ko",
     "ibrani": "he",
-    "ibroniy": "he",
     "iceland": "is",
     "icelandic": "is",
     "iers": "ga",
@@ -10653,6 +11301,7 @@
     "ingelesa": "en",
     "inggeris": "en",
     "inggris": "en",
+    "ingilis": "en",
     "inglese": "en",
     "inglise": "en",
     "ingliz": "en",
@@ -10685,68 +11334,33 @@
     "irščina": "ga",
     "isi-albania": "sq",
     "isi-amharic": "am",
-    "isi-arabic": "ar",
-    "isi-armenian": "hy",
-    "isi-azerbaijani": "az",
     "isi-basque": "eu",
     "isi-belarusian": "be",
     "isi-bulgarian": "bg",
-    "isi-burmese": "my",
-    "isi-catalan": "ca",
-    "isi-chinese (simplified)": "zh-cn",
-    "isi-chinese (traditional)": "zh-tw",
-    "isi-croatian": "hr",
-    "isi-czech": "cs",
-    "isi-danish": "da",
     "isi-dutch": "nl",
     "isi-english": "en",
-    "isi-esperanto": "eo",
     "isi-estonian": "et",
-    "isi-finnish": "fi",
-    "isi-french": "fr",
     "isi-galician": "gl",
     "isi-german": "de",
-    "isi-greek": "el",
-    "isi-haitian creole": "ht",
-    "isi-hangarian": "hu",
-    "isi-hebrew": "he",
-    "isi-hindi": "hi",
     "isi-icelandic": "is",
-    "isi-indonesian": "id",
-    "isi-irish": "ga",
     "isi-italian": "it",
     "isi-japanese": "ja",
-    "isi-kannada": "kn",
-    "isi-korean": "ko",
-    "isi-kurdish": "ku",
-    "isi-latin": "la",
     "isi-latvian": "lv",
     "isi-lithuanian": "lt",
     "isi-macedonian": "mk",
     "isi-malay": "ms",
     "isi-malayalam": "ml",
     "isi-maltese": "mt",
-    "isi-maori": "mi",
     "isi-marathi": "mr",
     "isi-mongolian": "mn",
-    "isi-norwegian": "nb",
-    "isi-persian": "fa",
     "isi-polish": "pl",
     "isi-portuguese": "pt",
-    "isi-romanian": "ro",
     "isi-russian": "ru",
     "isi-scots gaelic": "gd",
-    "isi-serbian": "sr",
-    "isi-slovak": "sk",
-    "isi-slovenian": "sl",
     "isi-spanish": "es",
     "isi-swedish": "sv",
     "isi-telugu": "te",
-    "isi-thai": "th",
-    "isi-turkish": "tr",
-    "isi-ukrainian": "uk",
     "isi-uzbek": "uz",
-    "isi-vietnamese": "vi",
     "isi-welsh": "cy",
     "isizulu": "zu",
     "islan": "is",
@@ -10796,15 +11410,16 @@
     "italų": "it",
     "itāriana": "it",
     "itāļu": "it",
-    "iwcraineg": "uk",
+    "ivrit": "he",
+    "ivrits": "he",
     "izbèk": "uz",
     "izlandi": "is",
     "i̇branice": "he",
     "i̇ndoneziya": "id",
-    "i̇ngilis": "en",
     "i̇ngilizce": "en",
     "i̇rland": "ga",
     "i̇rlandaca": "ga",
+    "i̇skoç gaelcesi": "gd",
     "i̇sland": "is",
     "i̇spanyolca": "es",
     "i̇sveç": "sv",
@@ -10831,6 +11446,7 @@
     "japonès": "ja",
     "japonés": "ja",
     "japonês": "ja",
+    "japonî": "ja",
     "japončina": "ja",
     "japonština": "ja",
     "japonščina": "ja",
@@ -10842,11 +11458,12 @@
     "jepun": "ja",
     "jerman": "de",
     "kanada": "kn",
+    "kanadaisht": "kn",
     "kanadų": "kn",
     "kanaresiska": "kn",
     "kanareščina": "kn",
-    "kanata": "kn",
     "kannada": "kn",
+    "kannadayî": "kn",
     "kannadčina": "kn",
     "kannadština": "kn",
     "karihia": "gl",
@@ -10858,6 +11475,7 @@
     "katalanisch": "ca",
     "katalansk": "ca",
     "katalanska": "ca",
+    "katalanî": "ca",
     "kataloniečių": "ca",
     "katalonisht": "ca",
     "katalonski": "ca",
@@ -10871,13 +11489,13 @@
     "katarāna": "ca",
     "kereore haiti": "ht",
     "kiina (perinteinen)": "zh-tw",
-    "kiina (yksinkert.)": "zh-cn",
+    "kiina (yksinkertaistettu)": "zh-cn",
     "kinesisk (forenklet)": "zh-cn",
     "kinesisk (tradisjonell)": "zh-tw",
     "kinesisk (traditionelt)": "zh-tw",
     "kinesiska (förenklad)": "zh-cn",
     "kinesiska (traditionell)": "zh-tw",
-    "kineski (pojednost.)": "zh-cn",
+    "kineski (pojednostavljeni)": "zh-cn",
     "kineski (tradicionalni)": "zh-tw",
     "kinezisht (e thjeshtuar)": "zh-cn",
     "kinezisht (tradicionale)": "zh-tw",
@@ -10886,7 +11504,8 @@
     "kiriki": "el",
     "kitajščina (poenostavljena)": "zh-cn",
     "kitajščina (tradicionalna)": "zh-tw",
-    "koerdisch": "ku",
+    "koerdisch (kurmanji)": "ku",
+    "koerdisch (sorani)": "ckb",
     "korea": "ko",
     "koreaans": "ko",
     "koreai": "ko",
@@ -10905,6 +11524,7 @@
     "koreya": "ko",
     "koreyen": "ko",
     "koreys": "ko",
+    "koreyî": "ko",
     "koroātiana": "hr",
     "korukoru": "tr",
     "korėjiečių": "ko",
@@ -10916,6 +11536,7 @@
     "kreolishte haitiane": "ht",
     "kreolski (haiti)": "ht",
     "kreolu (haiti)": "ht",
+    "kreolê haîtî": "ht",
     "kreyòl ayisyen": "ht",
     "krievu": "ru",
     "kroat": "hr",
@@ -10927,28 +11548,52 @@
     "kroatų": "hr",
     "kroaziera": "hr",
     "króatíska": "hr",
-    "kurd": "ku",
+    "kurd (kurmandji)": "ku",
     "kurd (kurmanji)": "ku",
     "kurd (kurmonji)": "ku",
-    "kurde": "ku",
+    "kurd (sorani)": "ckb",
+    "kurd (szoráni)": "ckb",
     "kurde (kurmandji)": "ku",
-    "kurdi": "ku",
+    "kurde (sorani)": "ckb",
+    "kurdi (kurmandži)": "ku",
+    "kurdi (kurmanji)": "ku",
+    "kurdi (sorani)": "ckb",
+    "kurdi (soranî)": "ckb",
     "kurdisch (kurmandschi)": "ku",
+    "kurdisch (sorani)": "ckb",
     "kurdish (kurmanji)": "ku",
-    "kurdisk": "ku",
-    "kurdiska": "ku",
-    "kurdistan": "ku",
-    "kurdo": "ku",
-    "kurdski": "ku",
-    "kurdu": "ku",
-    "kurduera": "ku",
-    "kurdyjski": "ku",
-    "kurdă": "ku",
-    "kurdčina": "ku",
+    "kurdish (sorani)": "ckb",
+    "kurdisht (kurmanjisht)": "ku",
+    "kurdisht (sorani)": "ckb",
+    "kurdisk (kurmanji)": "ku",
+    "kurdisk (sorani)": "ckb",
+    "kurdiska (kurmanji)": "ku",
+    "kurdiska (sorani)": "ckb",
+    "kurdistan (kurmanji)": "ku",
+    "kurdistan (sorani)": "ckb",
+    "kurdo (kurmanji)": "ku",
+    "kurdo (kurmanyi)": "ku",
+    "kurdo (sorani)": "ckb",
+    "kurdski (kurmanji)": "ku",
+    "kurdski (soranski)": "ckb",
+    "kurdu (kurmandži)": "ku",
+    "kurdu (sorani)": "ckb",
+    "kurduera (kurmanji)": "ku",
+    "kurduera (sorania)": "ckb",
+    "kurdyjski (kurmandżi)": "ku",
+    "kurdyjski (sorani)": "ckb",
+    "kurdî (kurmancî)": "ku",
+    "kurdî (soranî)": "ckb",
+    "kurdă (kurmanji)": "ku",
+    "kurdă (sorani)": "ckb",
+    "kurdčina (kurmándží)": "ku",
+    "kurdčina (sorání)": "ckb",
     "kurdština": "ku",
-    "kurdščina": "ku",
-    "kurdų": "ku",
-    "kuzey i̇skoç dili": "gd",
+    "kurdština (sorání)": "ckb",
+    "kurdščina (kurmandži)": "ku",
+    "kurdščina (soranščina)": "ckb",
+    "kurdų (kurmandžių)": "ku",
+    "kurdų (soranių)": "ckb",
     "kwoasyen": "hr",
     "kymri": "cy",
     "kínai (egyszerűsített)": "zh-cn",
@@ -10957,11 +11602,15 @@
     "kínverska (hefðbundin)": "zh-tw",
     "kórejčina": "ko",
     "kóreska": "ko",
-    "kúrdíska": "ku",
+    "kúrdíska (kurmanji)": "ku",
+    "kúrdíska (soraní)": "ckb",
     "kürd dili (kurmanci)": "ku",
-    "kürtçe": "ku",
+    "kürd dili (sorani)": "ckb",
+    "kürtçe (kurmançça)": "ku",
+    "kürtçe (sorani)": "ckb",
     "kōreana": "ko",
-    "kūrihi": "ku",
+    "kūrihi (horani)": "ckb",
+    "kūrihi (kurumanihi)": "ku",
     "ladina": "la",
     "laideann": "la",
     "laidin": "la",
@@ -10975,6 +11624,7 @@
     "latin": "la",
     "latina": "la",
     "latince": "la",
+    "latinh": "la",
     "latinisht": "la",
     "latino": "la",
     "latinski": "la",
@@ -10992,6 +11642,7 @@
     "latvjan": "lv",
     "latín": "la",
     "latína": "la",
+    "latînî": "la",
     "latīņu": "la",
     "latın": "la",
     "latış": "lv",
@@ -11003,6 +11654,7 @@
     "letoniera": "lv",
     "letonisht": "lv",
     "letonyen": "lv",
+    "letonî": "lv",
     "letonă": "lv",
     "lets": "lv",
     "lett": "lv",
@@ -11018,7 +11670,6 @@
     "liettua": "lt",
     "lietuviešu": "lt",
     "lietuvių": "lt",
-    "lihtsustatud hiina": "zh-cn",
     "liotuainis": "lt",
     "liotuáinis": "lt",
     "litauisch": "lt",
@@ -11052,6 +11703,7 @@
     "lotynų": "la",
     "lotyština": "lv",
     "läti": "lv",
+    "lîtvanî": "lt",
     "macadóinis": "mk",
     "macar": "hu",
     "macarca": "hu",
@@ -11081,6 +11733,7 @@
     "makedonsk": "mk",
     "makedonska": "mk",
     "makedonski": "mk",
+    "makedonî": "mk",
     "makedonština": "mk",
     "makedonščina": "mk",
     "makedoonia": "mk",
@@ -11118,19 +11771,22 @@
     "malasjan": "ms",
     "malay": "ms",
     "malayalam": "ml",
+    "malayalamî": "ml",
+    "malayca": "ms",
     "malayisk": "ms",
     "malayo": "ms",
     "malaysiera": "ms",
     "malaysisch": "ms",
     "malaysiska": "ms",
+    "malayî": "ms",
     "maleis": "ms",
     "malese": "ms",
     "malezijski": "ms",
-    "malezya dili": "ms",
     "malt": "mt",
     "malta": "mt",
-    "malta dili": "mt",
+    "maltaca": "mt",
     "maltais": "mt",
+    "maltayî": "mt",
     "maltański": "mt",
     "maltees": "mt",
     "maltera": "mt",
@@ -11166,6 +11822,7 @@
     "maorių": "mi",
     "maorí": "mi",
     "maoríska": "mi",
+    "maorîyî": "mi",
     "maorština": "mi",
     "maorščina": "mi",
     "maqedonisht": "mk",
@@ -11178,6 +11835,7 @@
     "maratu": "mr",
     "maratxi": "mr",
     "maratí": "mr",
+    "maratî": "mr",
     "maratčina": "mr",
     "maratščina": "mr",
     "maratų": "mr",
@@ -11223,17 +11881,22 @@
     "mongólska": "mn",
     "mongōriana": "mn",
     "monqolca": "mn",
+    "moxolî": "mn",
     "moğolca": "mn",
-    "mo‘g‘ul": "mn",
     "myanma (birma) dili": "my",
     "myanma (burmese)": "my",
     "myanmar": "my",
+    "myanmar (burma)": "my",
     "myanmar (burmese)": "my",
     "myanmar (byrma)": "my",
+    "myanmarî (burmese)": "my",
     "máltai": "mt",
     "máltais": "mt",
+    "mã lai": "ms",
+    "mông cổ": "mn",
     "māori": "mi",
     "māratihi": "mt",
+    "na uy": "nb",
     "nederlandera": "nl",
     "nederlands": "nl",
     "nederlandsk": "nl",
@@ -11244,6 +11907,8 @@
     "nemis": "de",
     "nemčina": "de",
     "nemščina": "de",
+    "nga": "ru",
+    "nhật": "ja",
     "niderlandzki": "nl",
     "niederländisch": "nl",
     "niemiecki": "de",
@@ -11279,6 +11944,7 @@
     "norwegisch": "nb",
     "norweski": "nb",
     "norwyeg": "nb",
+    "norwêcî": "nb",
     "norština": "nb",
     "néerlandais": "nl",
     "német": "de",
@@ -11299,6 +11965,7 @@
     "orosz": "ru",
     "ouzbek": "uz",
     "ozarbayjon": "az",
+    "ozbekî": "uz",
     "o‘zbek": "uz",
     "panyòl": "es",
     "parsi": "fa",
@@ -11329,11 +11996,14 @@
     "perzština": "fa",
     "perēhia": "fa",
     "perština": "fa",
+    "pháp": "fr",
+    "phần lan": "fi",
     "polacco": "pl",
     "polaco": "pl",
     "polainnis": "pl",
     "poland": "pl",
     "polandia": "pl",
+    "polandî (lehîstanî)": "pl",
     "polish": "pl",
     "poljski": "pl",
     "poljščina": "pl",
@@ -11356,6 +12026,7 @@
     "portagailis": "pt",
     "portaingéilis": "pt",
     "portekizce": "pt",
+    "portekîzî": "pt",
     "portiwgaleg": "pt",
     "portoghese": "pt",
     "portugais": "pt",
@@ -11412,6 +12083,7 @@
     "romanyen": "ro",
     "romanès": "ro",
     "romanés": "ro",
+    "romanî": "ro",
     "romence": "ro",
     "romeno": "ro",
     "romunščina": "ro",
@@ -11423,6 +12095,7 @@
     "rosyjski": "ru",
     "roumain": "ro",
     "ruisis": "ru",
+    "rumani": "ro",
     "rumania": "ro",
     "rumanisht": "ro",
     "rumano": "ro",
@@ -11465,6 +12138,7 @@
     "rúisis": "ru",
     "rúmenska": "ro",
     "rússneska": "ru",
+    "rûsî": "ru",
     "rātini": "la",
     "rāwhiana": "lv",
     "rūhia": "ru",
@@ -11502,6 +12176,7 @@
     "shotland-gel": "gd",
     "shqip": "sq",
     "shved": "sv",
+    "sirbî": "sr",
     "skosk-gelíska": "gd",
     "skotsk gælisk": "gd",
     "skotská gaelština": "gd",
@@ -11510,8 +12185,8 @@
     "skót-gael": "gd",
     "sllovakisht": "sk",
     "sllovenisht": "sl",
-    "slofac": "sk",
-    "slofenia": "sl",
+    "slofaceg": "sk",
+    "slofeneg": "sl",
     "slovaaks": "sk",
     "slovacco": "sk",
     "slovacă": "sk",
@@ -11522,6 +12197,7 @@
     "slovakiska": "sk",
     "slovakk": "sk",
     "slovakça": "sk",
+    "slovakî": "sk",
     "slovakų": "sk",
     "slovaque": "sk",
     "slovački": "sk",
@@ -11536,6 +12212,7 @@
     "slovensk": "sl",
     "slovenska": "sl",
     "slovenski": "sl",
+    "slovenyayî": "sl",
     "slovenyen": "sl",
     "slovenă": "sl",
     "slovenčina": "sk",
@@ -11583,7 +12260,6 @@
     "suediera": "sv",
     "suedisht": "sv",
     "suomi": "fi",
-    "suomiera": "fi",
     "suomių": "fi",
     "suulu": "zu",
     "suédois": "sv",
@@ -11597,6 +12273,7 @@
     "swedish": "sv",
     "swensk": "sv",
     "swlw": "zu",
+    "swêdî": "sv",
     "syedwa": "sv",
     "szerb": "sr",
     "szkocki gaelicki": "gd",
@@ -11607,6 +12284,7 @@
     "sænska": "sv",
     "sèb": "sr",
     "sèirbis": "sr",
+    "séc": "cs",
     "sérvio": "sr",
     "sìonais (seann-nòsach)": "zh-tw",
     "sìonais (sìmplichte)": "zh-cn",
@@ -11619,7 +12297,6 @@
     "słoweński": "sl",
     "taani": "da",
     "tai": "th",
-    "tailandese": "th",
     "tailandés": "th",
     "tailandês": "th",
     "tajlandisht": "th",
@@ -11635,13 +12312,14 @@
     "tanska": "da",
     "tati": "nl",
     "tay": "th",
-    "tay dili": "th",
     "tayca": "th",
+    "tayî": "th",
     "taílenska": "th",
     "tcheco": "cs",
     "tchèque": "cs",
     "tedesco": "de",
     "teileagúis": "te",
+    "teleguyî": "te",
     "telugisht": "te",
     "telugo": "te",
     "telugu": "te",
@@ -11653,89 +12331,30 @@
     "teluqu": "te",
     "teluščina": "te",
     "telužština": "te",
+    "telwgw": "te",
     "tenemāka": "da",
     "teruku": "te",
     "thai": "th",
-    "thaiera": "th",
     "thailandeză": "th",
+    "thailandiera": "th",
     "thailandsk": "th",
     "thailändisch": "th",
     "thailändska": "th",
     "thajčina": "th",
     "thajština": "th",
     "thaï": "th",
+    "thái": "th",
+    "thổ nhĩ kỳ": "tr",
+    "thụy điển": "sv",
     "tiamana": "de",
     "tieke": "cs",
     "tiorangi": "is",
-    "tiếng albania": "sq",
-    "tiếng amharic": "am",
-    "tiếng anh": "en",
-    "tiếng armenia": "hy",
-    "tiếng azerbaijan": "az",
-    "tiếng ba lan": "pl",
-    "tiếng ba tư": "fa",
-    "tiếng basque": "eu",
-    "tiếng belarus": "be",
-    "tiếng bulgaria": "bg",
-    "tiếng bồ đào nha": "pt",
-    "tiếng catalan": "ca",
-    "tiếng creole ở haiti": "ht",
-    "tiếng croatia": "hr",
-    "tiếng do thái": "he",
-    "tiếng estonia": "et",
-    "tiếng gael scotland": "gd",
-    "tiếng galicia": "gl",
-    "tiếng hindi": "hi",
-    "tiếng hungary": "hu",
-    "tiếng hy lạp": "el",
-    "tiếng hà lan": "nl",
-    "tiếng hàn": "ko",
-    "tiếng iceland": "is",
-    "tiếng indonesia": "id",
-    "tiếng ireland": "ga",
-    "tiếng kannada": "kn",
-    "tiếng kurd": "ku",
-    "tiếng latinh": "la",
-    "tiếng latvia": "lv",
-    "tiếng litva": "lt",
-    "tiếng macedonia": "mk",
-    "tiếng malayalam": "ml",
-    "tiếng malta": "mt",
-    "tiếng maori": "mi",
-    "tiếng marathi": "mr",
-    "tiếng myanmar": "my",
-    "tiếng mã lai": "ms",
-    "tiếng mông cổ": "mn",
-    "tiếng na uy": "nb",
-    "tiếng nga": "ru",
-    "tiếng nhật": "ja",
-    "tiếng pháp": "fr",
-    "tiếng phần lan": "fi",
-    "tiếng rumani": "ro",
-    "tiếng serbia": "sr",
-    "tiếng slovak": "sk",
-    "tiếng slovenia": "sl",
-    "tiếng séc": "cs",
-    "tiếng telugu": "te",
-    "tiếng thái": "th",
-    "tiếng thổ nhĩ kỳ": "tr",
-    "tiếng thụy điển": "sv",
-    "tiếng trung (giản thể)": "zh-cn",
-    "tiếng trung (phồn thể)": "zh-tw",
-    "tiếng tây ban nha": "es",
-    "tiếng ukraina": "uk",
-    "tiếng uzbek": "uz",
-    "tiếng việt": "vi",
-    "tiếng xứ wales": "cy",
-    "tiếng zulu": "zu",
-    "tiếng ý": "it",
-    "tiếng đan mạch": "da",
-    "tiếng đức": "de",
-    "tiếng ả rập": "ar",
+    "tirkî": "tr",
     "tjeckiska": "cs",
     "tjekkisk": "cs",
     "tork": "tr",
-    "traditsiooniline hiina": "zh-tw",
+    "trung (giản thể)": "zh-cn",
+    "trung (phồn thể)": "zh-tw",
     "tschechisch": "cs",
     "tsekki": "cs",
     "tsieceg": "cs",
@@ -11767,13 +12386,14 @@
     "twrceg": "tr",
     "txec": "cs",
     "txekiera": "cs",
-    "txinera (soildua)": "zh-cn",
+    "txinera (sinplifikatua)": "zh-cn",
     "txinera (tradizionala)": "zh-tw",
     "tyrkisk": "tr",
     "tyrkneska": "tr",
     "tysk": "de",
     "tyska": "de",
     "tyèk": "cs",
+    "tây ban nha": "es",
     "téalainnis": "th",
     "tékkneska": "cs",
     "török": "tr",
@@ -11826,7 +12446,6 @@
     "unkari": "hu",
     "usbagais": "uz",
     "usbec": "uz",
-    "usbeco": "uz",
     "usbeki": "uz",
     "usbekisch": "uz",
     "usbekisk": "uz",
@@ -11839,6 +12458,7 @@
     "uzbekiska": "uz",
     "uzbekistanski": "uz",
     "uzbekki": "uz",
+    "uzbeko": "uz",
     "uzbeku": "uz",
     "uzbekų": "uz",
     "uzbeque": "uz",
@@ -11878,6 +12498,7 @@
     "vijetnamski": "vi",
     "viro": "et",
     "vitryska": "be",
+    "việt": "vi",
     "vjetnamiešu": "vi",
     "vjetnamiż": "vi",
     "vokiečių": "de",
@@ -11885,6 +12506,7 @@
     "vyetnamyen": "vi",
     "víetnamska": "vi",
     "vítneaimis": "vi",
+    "vîetnamî": "vi",
     "vācu": "de",
     "wales": "cy",
     "walesi": "cy",
@@ -11893,12 +12515,12 @@
     "walijski": "cy",
     "walisisch": "cy",
     "walisisk": "cy",
-    "weißrussisch": "be",
+    "wcreineg": "uk",
     "wels": "cy",
     "welsh": "cy",
+    "welşî": "cy",
     "whitināmu": "vi",
     "wietnamski": "vi",
-    "wit-russisch": "be",
     "wēra": "cy",
     "węgierski": "hu",
     "wīwī": "fr",
@@ -11906,13 +12528,15 @@
     "xaponés": "ja",
     "xinès (simplificat)": "zh-cn",
     "xinès (tradicional)": "zh-tw",
-    "xitoy (an’anaviy)": "zh-tw",
+    "xitoy (odatiy)": "zh-tw",
     "xitoy (soddalashgan)": "zh-cn",
     "xorvat": "hr",
+    "xứ wales": "cy",
     "yapon": "ja",
     "yunan": "el",
     "yunanca": "el",
     "yunani": "el",
+    "yûnanî": "el",
     "zoeloe": "zu",
     "zoulou": "zu",
     "zulu": "zu",
@@ -11924,6 +12548,8 @@
     "zulú": "zu",
     "zviedru": "sv",
     "zweeds": "sv",
+    "zûlûyî": "zu",
+    " دانماركی": "da",
     "àrab": "ar",
     "àzeri": "az",
     "árabe": "ar",
@@ -11931,10 +12557,12 @@
     "çekisht": "cs",
     "çekçe": "cs",
     "çex": "cs",
-    "çin (sadələşdirilmiş)": "zh-cn",
     "çin (ən'ənəvi)": "zh-tw",
+    "çin dili (sadələşdirilmiş)": "zh-cn",
     "çince (basitleştirilmiş)": "zh-cn",
     "çince (geleneksel)": "zh-tw",
+    "çînî (kevneşopî)": "zh-tw",
+    "çînî (hêsankirî)": "zh-cn",
     "észt": "et",
     "éuscaro": "eu",
     "íoslainnis": "is",
@@ -11943,6 +12571,11 @@
     "írčina": "ga",
     "íslenska": "is",
     "ítalska": "it",
+    "îbranî": "he",
+    "îngilîzî": "en",
+    "îrlandî": "ga",
+    "îspanyolî": "es",
+    "îzlandî": "is",
     "örmény": "hy",
     "özbekçe": "uz",
     "özbək": "uz",
@@ -11951,9 +12584,10 @@
     "úkraínska": "uk",
     "úsbekíska": "uz",
     "üzbég": "uz",
+    "ý": "it",
     "þýska": "de",
     "ċek": "cs",
-    "ċiniż (semplifikat)": "zh-cn",
+    "ċiniż (simplifikat)": "zh-cn",
     "ċiniż (tradizzjonali)": "zh-tw",
     "čehu": "cs",
     "čekų": "cs",
@@ -11963,6 +12597,8 @@
     "čínština (tradičná)": "zh-tw",
     "čínština (tradiční)": "zh-tw",
     "čínština (zjednodušená)": "zh-cn",
+    "đan mạch": "da",
+    "đức": "de",
     "ġappuniż": "ja",
     "ġermaniż": "de",
     "ħindi": "hi",
@@ -11976,7 +12612,7 @@
     "şotland (kelt)": "gd",
     "škotska gelščina": "gd",
     "škotski keltski": "gd",
-    "škotų (gėlų)": "gd",
+    "škotų": "gd",
     "škótska gaelčina": "gd",
     "šoti": "gd",
     "španielčina": "es",
@@ -12019,10 +12655,11 @@
     "ιταλικά": "it",
     "κανάντα": "kn",
     "καταλανικά": "ca",
-    "κινέζικα (απλοποιημένα)": "zh-cn",
-    "κινέζικα (παραδοσιακά)": "zh-tw",
+    "κινεζικά (απλοποιημένα)": "zh-cn",
+    "κινεζικά (παραδοσιακά)": "zh-tw",
     "κορεατικά": "ko",
-    "κουρδικά": "ku",
+    "κουρδικά (κουρμαντζί)": "ku",
+    "κουρδικά (σορανί)": "ckb",
     "κρεόλ αϊτής": "ht",
     "κροατικά": "hr",
     "λατινικά": "la",
@@ -12053,7 +12690,7 @@
     "σουηδικά": "sv",
     "ταϊλανδεζικά": "th",
     "τελούγκου": "te",
-    "τούρκικα": "tr",
+    "τουρκικά": "tr",
     "τσεχικά": "cs",
     "φινλανδικά": "fi",
     "χίντι": "hi",
@@ -12126,7 +12763,6 @@
     "вьетнамский": "vi",
     "вірменська": "hy",
     "в’єтнамська": "vi",
-    "гаити креол": "ht",
     "галандская": "nl",
     "галик": "gl",
     "галисийски": "gl",
@@ -12161,7 +12797,7 @@
     "зулу": "zu",
     "иврит": "he",
     "индонежански": "id",
-    "индонези": "id",
+    "индонез": "id",
     "индонезийски": "id",
     "индонезийский": "id",
     "индонезиски": "id",
@@ -12202,14 +12838,20 @@
     "корейский": "ko",
     "корейська": "ko",
     "корејски": "ko",
-    "креолски (хаити)": "ht",
     "креольский (гаити)": "ht",
-    "курд": "ku",
+    "курд (курманжи)": "ku",
+    "курд (сорани)": "ckb",
     "курдская (курманджы)": "ku",
-    "курдски": "ku",
-    "курдська": "ku",
-    "курманджи": "ku",
-    "кюрдски": "ku",
+    "курдская (сарані)": "ckb",
+    "курдски (курманџи)": "ku",
+    "курдски (курмањи)": "ku",
+    "курдски (сорани)": "ckb",
+    "курдский (курманджи)": "ku",
+    "курдский (сорани)": "ckb",
+    "курдська (курманджі)": "ku",
+    "курдська (сорані)": "ckb",
+    "кюрдски (курманджи)": "ku",
+    "кюрдски (сорани)": "ckb",
     "кітайская (спрошчаная)": "zh-cn",
     "кітайская (традыцыйная)": "zh-tw",
     "латви": "lv",
@@ -12245,6 +12887,7 @@
     "малайська": "ms",
     "малаялам": "ml",
     "малајалам": "ml",
+    "малајалски": "ml",
     "малајски": "ms",
     "малтешки": "mt",
     "малти": "mt",
@@ -12264,13 +12907,14 @@
     "монголски": "mn",
     "монгольский": "mn",
     "монгольська": "mn",
+    "мјанмарски (бурмански)": "my",
     "нарвежская": "nb",
     "немачки": "de",
     "немецкий": "de",
     "немски": "de",
     "нидерландски": "nl",
     "нидерландский": "nl",
-    "норвеги": "nb",
+    "норвег": "nb",
     "норвежки": "nb",
     "норвежский": "nb",
     "норвезька": "nb",
@@ -12361,8 +13005,8 @@
     "унгар": "hu",
     "унгарски": "hu",
     "уэльс": "cy",
+    "финланд": "fi",
     "финландски": "fi",
-    "финлянд": "fi",
     "фински": "fi",
     "финский": "fi",
     "франц": "fr",
@@ -12373,20 +13017,21 @@
     "френски": "fr",
     "фінская": "fi",
     "фінська": "fi",
+    "хаити креол": "ht",
     "хаитски креолски": "ht",
     "хаитянски креолски": "ht",
+    "хаићански креолски": "ht",
     "харвацкая": "hr",
     "хебрејски": "he",
     "хинди": "hi",
-    "хиндиски": "hi",
     "холандски": "nl",
     "хорват": "hr",
     "хорватский": "hr",
     "хорватська": "hr",
     "хрватски": "hr",
     "хърватски": "hr",
-    "хятад (ердийн)": "zh-cn",
     "хятад (уламжлалт)": "zh-tw",
+    "хятад хэл (хялбаршуулсан)": "zh-cn",
     "хіндзі": "hi",
     "чеська": "cs",
     "чех": "cs",
@@ -12440,6 +13085,7 @@
     "բիրմաներեն": "my",
     "բուլղարերեն": "bg",
     "գալիսերեն": "gl",
+    "գելական շոտլանդերեն": "gd",
     "գերմաներեն": "de",
     "դանիերեն": "da",
     "եբրայերեն": "he",
@@ -12460,9 +13106,7 @@
     "խորվաթերեն": "hr",
     "կաննադա": "kn",
     "կատալաներեն": "ca",
-    "կելտական շոտլանդերեն": "gd",
     "կորեերեն": "ko",
-    "կրեոլերեն (հայիթի)": "ht",
     "հայերեն": "hy",
     "հինդի": "hi",
     "հոլանդերեն": "nl",
@@ -12471,7 +13115,7 @@
     "ճապոներեն": "ja",
     "մալայալամ": "ml",
     "մալայերեն": "ms",
-    "մալթերեն": "mt",
+    "մալթայերեն": "mt",
     "մակեդոներեն": "mk",
     "մաորի": "mi",
     "մարաթի": "mr",
@@ -12490,10 +13134,12 @@
     "սերբերեն": "sr",
     "սլովակերեն": "sk",
     "սլովեներեն": "sl",
-    "վալերեն": "cy",
+    "վալլերեն": "cy",
     "վիետնամերեն": "vi",
     "տելուգու": "te",
+    "քրդերեն (սորանի)": "ckb",
     "քրդերեն (քուրմանջի)": "ku",
+    "քրեոլերեն (հաիթի)": "ht",
     "ֆիններեն": "fi",
     "ֆրանսերեն": "fr",
     "אוזבקית": "uz",
@@ -12526,20 +13172,20 @@
     "טלוגו": "te",
     "יוונית": "el",
     "יפנית": "ja",
-    "כורדית": "ku",
-    "לטווית": "lv",
+    "כורדית (כורמנג'ית)": "ku",
+    "כורדית (סורנית)": "ckb",
+    "לטבית": "lv",
     "לטינית": "la",
     "ליטאית": "lt",
     "מאורית": "mi",
-    "מאלאיאלם": "ml",
-    "מאלזית": "ms",
-    "מאראתי": "mr",
     "מונגולית": "mn",
+    "מלאיאלאם": "ml",
+    "מלאית": "ms",
     "מלטית": "mt",
     "מקדונית": "mk",
+    "מראטהית": "mr",
     "נורווגית": "nb",
     "סינית (מסורתית)": "zh-tw",
-    "סינית (פשוטה)": "zh-cn",
     "סלובנית": "sl",
     "סלובקית": "sk",
     "ספרדית": "es",
@@ -12561,10 +13207,13 @@
     "רומנית": "ro",
     "רוסית": "ru",
     "שוודית": "sv",
-    "תאילנדית": "th",
+    "תאית": "th",
     "آذرباﻳﺠﺎﻧﻰ": "az",
     "آلبانیایی": "sq",
     "آلمانی": "de",
+    "ئه رمه نی": "hy",
+    "ئۆکرانی": "uk",
+    "ئیتالی": "it",
     "ارمنی": "hy",
     "ازبکی": "uz",
     "استونيايی": "et",
@@ -12574,6 +13223,7 @@
     "اسپرانتو": "eo",
     "الآيسلندية": "is",
     "الأذرية": "az",
+    "الأرمنية": "hy",
     "الألبانية": "sq",
     "الألمانية": "de",
     "الأمهرية": "am",
@@ -12581,13 +13231,11 @@
     "الأوكرانية": "uk",
     "الأيرلندية": "ga",
     "الإسبانية": "es",
+    "الإسبرانتو": "eo",
     "الإستونية": "et",
     "الإنجليزية": "en",
     "الإندونيسية": "id",
     "الإيطالية": "it",
-    "الارمنية": "hy",
-    "الاسبرانتو": "eo",
-    "الاسكتلندية الغالية": "gd",
     "الباسكية": "eu",
     "البرتغالية": "pt",
     "البلغارية": "bg",
@@ -12597,12 +13245,12 @@
     "التايلاندية": "th",
     "التركية": "tr",
     "التشيكية": "cs",
-    "التيلوجو": "te",
+    "التيلوغوية": "te",
     "الجاليكية": "gl",
-    "الدانماركية": "da",
+    "الدانمركية": "da",
     "الروسية": "ru",
     "الرومانية": "ro",
-    "الزولوية": "zu",
+    "الزولو": "zu",
     "السلوفاكية": "sk",
     "السلوفينية": "sl",
     "السويدية": "sv",
@@ -12611,26 +13259,28 @@
     "الصينية (المبسطة)": "zh-cn",
     "العبرية": "he",
     "العربية": "ar",
+    "الغيلية الأسكتلندية": "gd",
     "الفارسية": "fa",
     "الفرنسية": "fr",
     "الفنلندية": "fi",
     "الفيتنامية": "vi",
     "القطلونية": "ca",
-    "الكانادا": "kn",
-    "الكردية": "ku",
+    "الكردية (السورانية)": "ckb",
+    "الكردية (الكرمانجية)": "ku",
     "الكرواتية": "hr",
+    "الكنادية": "kn",
     "الكورية": "ko",
     "اللاتفية": "lv",
     "اللاتينية": "la",
     "اللغة الكريولية الهايتية": "ht",
     "الليتوانية": "lt",
+    "الماراثية": "mr",
     "المالايالامية": "ml",
     "المالطيّة": "mt",
     "الماورية": "mi",
     "المقدونية": "mk",
     "الملايو": "ms",
     "المنغولية": "mn",
-    "المهراتية": "mr",
     "النرويجية": "nb",
     "الهندية": "hi",
     "الهنغارية": "hu",
@@ -12678,10 +13328,12 @@
     "نروژی": "nb",
     "هلندی": "nl",
     "هندی": "hi",
+    "هیندی": "hi",
     "ولزی": "cy",
     "ويتنامی": "vi",
     "يونانی": "el",
     "پرتغالی": "pt",
+    "چه‌كی": "cs",
     "چک": "cs",
     "چینی (ساده‌شده)": "zh-cn",
     "چینی (سنتی)": "zh-tw",
@@ -12689,7 +13341,8 @@
     "کاتالان": "ca",
     "کانارا": "kn",
     "کرئول هائیتی": "ht",
-    "کردی": "ku",
+    "کردی (سورانی)": "ckb",
+    "کردی (کرمانجی)": "ku",
     "کره‌ای": "ko",
     "کرواتی": "hr",
     "گاليک اسکاتلندی": "gd",
@@ -12719,8 +13372,8 @@
     "ऐम्हेरिक": "am",
     "कन्नड": "kn",
     "कन्नड़": "kn",
-    "कुर्दिश (करमंजी)": "ku",
     "कुर्दिश (कुर्मांजी)": "ku",
+    "कुर्दिश (सोरानी)": "ckb",
     "कॅटलान": "ca",
     "कैटेलन": "ca",
     "कोरियन": "ko",
@@ -12728,8 +13381,9 @@
     "गॅलिशियन": "gl",
     "गैलिशियन": "gl",
     "ग्रीक": "el",
-    "चीनी (परंपरागत)": "zh-tw",
+    "चीनी (पारंपरिक)": "zh-tw",
     "चीनी (पारंपारिक)": "zh-tw",
+    "चीनी (सरल)": "zh-cn",
     "चीनी (सरलीकृत)": "zh-cn",
     "चेक": "cs",
     "जपानी": "ja",
@@ -12743,7 +13397,6 @@
     "डैनिश": "da",
     "तुर्क": "tr",
     "तुर्की": "tr",
-    "तेलगू": "te",
     "तेलुगु": "te",
     "थाई": "th",
     "नॉर्वेजियन": "nb",
@@ -12819,7 +13472,8 @@
     "ఐరిష్": "ga",
     "ఐస్ లాండిక్": "is",
     "కన్నడ": "kn",
-    "కర్డిష్": "ku",
+    "కుర్దిష్ (కుర్మాంజి)": "ku",
+    "కుర్దిష్ (సొరని)": "ckb",
     "కొరియన్": "ko",
     "క్యాటలాన్": "ca",
     "క్రొయేషియన్": "hr",
@@ -12827,7 +13481,7 @@
     "గ్రీక్": "el",
     "చెక్": "cs",
     "చైనీస్ (సరళమైన)": "zh-cn",
-    "చైనీస్ (సామ్ప్రదాయమైన)": "zh-tw",
+    "చైనీస్ (సాంప్రదాయమైన)": "zh-tw",
     "జపనీస్": "ja",
     "జర్మన్": "de",
     "జులు": "zu",
@@ -12845,7 +13499,7 @@
     "బర్మీస్": "my",
     "బల్గేరియన్": "bg",
     "బాస్క్": "eu",
-    "బెలారుషియన్": "be",
+    "బెలారష్యన్": "be",
     "మంగోలియన్": "mn",
     "మయోరి": "mi",
     "మరాఠీ": "mr",
@@ -12864,7 +13518,7 @@
     "సెర్బియన్": "sr",
     "స్కాట్స్ గేలిక్": "gd",
     "స్పానిష్": "es",
-    "స్లోవక్": "sk",
+    "స్లోవాక్": "sk",
     "స్లోవేనియన్": "sl",
     "స్వీడిష్": "sv",
     "హంగేరియన్": "hu",
@@ -12885,7 +13539,8 @@
     "ಐರಿಷ್": "ga",
     "ಐಸ್‌ಲ್ಯಾಂಡಿಕ್‌": "is",
     "ಕನ್ನಡ": "kn",
-    "ಕುರ್ದಿಶ್": "ku",
+    "ಕುರ್ದಿಶ್ (ಕುರ್ಮಾಂಜಿ)": "ku",
+    "ಕುರ್ದಿಶ್ (ಸೊರಾನಿ)": "ckb",
     "ಕೊರಿಯನ್": "ko",
     "ಕ್ಯಾಟಲನ್": "ca",
     "ಕ್ರೊಯೇಷಿಯನ್": "hr",
@@ -12953,7 +13608,8 @@
     "ഐസ്‌ലാൻഡിക്": "is",
     "കന്നട": "kn",
     "കാറ്റലൻ": "ca",
-    "കുർദ്ദിഷ്": "ku",
+    "കുർദ്ദിഷ് (കുർമാൻജി)": "ku",
+    "കുർദ്ദിഷ് (സൊറാനി)": "ckb",
     "കൊറിയൻ": "ko",
     "ക്രൊയേഷ്യൻ": "hr",
     "ഗലീഷ്യൻ": "gl",
@@ -13003,75 +13659,77 @@
     "ഹിന്ദി": "hi",
     "ഹീബ്രു": "he",
     "ഹെയ്തിയൻ ക്രയോൾ": "ht",
-    "ภาษากรีก": "el",
-    "ภาษากันนาดา": "kn",
-    "ภาษากาลิเชียน": "gl",
-    "ภาษาคาตาลัน": "ca",
-    "ภาษาจีน (ดั้งเดิม)": "zh-tw",
-    "ภาษาจีน (แบบย่อ)": "zh-cn",
-    "ภาษาซูลู": "zu",
-    "ภาษาญี่ปุ่น": "ja",
-    "ภาษาดัตช์": "nl",
-    "ภาษาตุรกี": "tr",
-    "ภาษานอร์เวย์": "nb",
-    "ภาษาบัลกาเรีย": "bg",
-    "ภาษาบาสก์": "eu",
-    "ภาษาฝรั่งเศส": "fr",
-    "ภาษาฟินแลนด์": "fi",
-    "ภาษามองโกเลีย": "mn",
-    "ภาษามัลทีส": "mt",
-    "ภาษามาซีโดเนีย": "mk",
-    "ภาษามาราฐี": "mr",
-    "ภาษามาลายาลัม": "ml",
-    "ภาษามาเลย์": "ms",
-    "ภาษายูเครน": "uk",
-    "ภาษารัสเซีย": "ru",
-    "ภาษาละติน": "la",
-    "ภาษาลัทเวีย": "lv",
-    "ภาษาลิทัวเนีย": "lt",
-    "ภาษาสวีเดน": "sv",
-    "ภาษาสเปน": "es",
-    "ภาษาสโลวัก": "sk",
-    "ภาษาสโลเวเนีย": "sl",
-    "ภาษาอังกฤษ": "en",
-    "ภาษาอัมฮาริก": "am",
-    "ภาษาอัลบาเนีย": "sq",
-    "ภาษาอาร์เซอร์ไบจัน": "az",
-    "ภาษาอาร์เมเนีย": "hy",
-    "ภาษาอาหรับ": "ar",
-    "ภาษาอิตาลี": "it",
-    "ภาษาอินโดนีเซีย": "id",
-    "ภาษาอุสเบกิสถาน": "uz",
-    "ภาษาฮังการี": "hu",
-    "ภาษาฮินดี": "hi",
-    "ภาษาฮิบรู": "he",
-    "ภาษาเกลิกในสก็อต": "gd",
-    "ภาษาเกาหลี": "ko",
-    "ภาษาเคิร์ด": "ku",
-    "ภาษาเช็ก": "cs",
-    "ภาษาเซอร์เบียน": "sr",
-    "ภาษาเดนมาร์ก": "da",
-    "ภาษาเตลูกู": "te",
-    "ภาษาเบลารูเชียน": "be",
-    "ภาษาเปอร์เซีย": "fa",
-    "ภาษาเมารี": "mi",
-    "ภาษาเมียนมา (พม่า)": "my",
-    "ภาษาเยอรมัน": "de",
-    "ภาษาเวลส์": "cy",
-    "ภาษาเวียดนาม": "vi",
-    "ภาษาเอสเปอแรนโต": "eo",
-    "ภาษาเอสโทเนีย": "et",
-    "ภาษาเฮติครีโอล": "ht",
-    "ภาษาโครเอเชีย": "hr",
-    "ภาษาโปรตุเกส": "pt",
-    "ภาษาโปแลนด์": "pl",
-    "ภาษาโรมาเนีย": "ro",
-    "ภาษาไทย": "th",
-    "ภาษาไอซ์แลนดิก": "is",
-    "ภาษาไอริช": "ga",
+    "กรีก": "el",
+    "กันนาดา": "kn",
+    "กาลิเชียน": "gl",
+    "คาตาลัน": "ca",
+    "จีน (ตัวย่อ)": "zh-cn",
+    "จีน (ตัวเต็ม)": "zh-tw",
+    "ซูลู": "zu",
+    "ญี่ปุ่น": "ja",
+    "ดัตช์": "nl",
+    "ตุรกี": "tr",
+    "นอร์เวย์": "nb",
+    "บัลแกเรีย": "bg",
+    "บาสก์": "eu",
+    "ฝรั่งเศส": "fr",
+    "ฟินแลนด์": "fi",
+    "มองโกเลีย": "mn",
+    "มัลทีส": "mt",
+    "มาซีโดเนีย": "mk",
+    "มาราฐี": "mr",
+    "มาลายาลัม": "ml",
+    "มาเลย์": "ms",
+    "ยูเครน": "uk",
+    "รัสเซีย": "ru",
+    "ละติน": "la",
+    "ลัตเวีย": "lv",
+    "ลิทัวเนีย": "lt",
+    "สวีเดน": "sv",
+    "สเปน": "es",
+    "สโลวัก": "sk",
+    "สโลวีเนีย": "sl",
+    "อังกฤษ": "en",
+    "อัมฮาริก": "am",
+    "อาร์เซอร์ไบจัน": "az",
+    "อาร์เมเนีย": "hy",
+    "อาหรับ": "ar",
+    "อิตาลี": "it",
+    "อินโดนีเซีย": "id",
+    "อุสเบกิสถาน": "uz",
+    "ฮังการี": "hu",
+    "ฮินดี": "hi",
+    "ฮีบรู": "he",
+    "เกลิกสกอต": "gd",
+    "เกาหลี": "ko",
+    "เคิร์ด (กุรมันชี)": "ku",
+    "เคิร์ด (โซรานี)": "ckb",
+    "เช็ก": "cs",
+    "เซอร์เบียน": "sr",
+    "เดนมาร์ก": "da",
+    "เตลูกู": "te",
+    "เบลารุส": "be",
+    "เปอร์เซีย": "fa",
+    "เมารี": "mi",
+    "เมียนมา (พม่า)": "my",
+    "เยอรมัน": "de",
+    "เวลส์": "cy",
+    "เวียดนาม": "vi",
+    "เอสเปอแรนโต": "eo",
+    "เอสโทเนีย": "et",
+    "เฮติครีโอล": "ht",
+    "แอลเบเนีย": "sq",
+    "โครเอเชีย": "hr",
+    "โปรตุเกส": "pt",
+    "โปแลนด์": "pl",
+    "โรมาเนีย": "ro",
+    "ไทย": "th",
+    "ไอซ์แลนด์": "is",
+    "ไอร์แลนด์": "ga",
     "ကက်တလန်": "ca",
+    "ကဒ် (ကာမန်ဂျီ)": "ku",
+    "ကဒ် (ဆိုရာနီ)": "ckb",
     "ကနာဒါ": "kn",
-    "ကာ့ဒ် (ကာမန်ဂျီ)": "ku",
     "ကိုရီးယား": "ko",
     "ခရိုအေးရှား": "hr",
     "ချက်": "cs",
@@ -13088,7 +13746,7 @@
     "ဇူးလူး": "zu",
     "တယ်လူဂူ": "te",
     "တရုတ် (ရိုးရာ)": "zh-tw",
-    "တရုတ် (အလွယ်)": "zh-cn",
+    "တရုတ် (ရိုးရှင်း)": "zh-cn",
     "တူ​ရ​ကီ": "tr",
     "ထိုင်း": "th",
     "ဒတ်ချ်": "nl",
@@ -13100,8 +13758,8 @@
     "ပြင်သစ်": "fr",
     "ဖင်လန်": "fi",
     "ဗီယက်နမ်": "vi",
-    "ဘယ်လာရုစ်": "be",
-    "ဘာ့စ်": "eu",
+    "ဘာစ်ခ်": "eu",
+    "ဘီလာရစ်": "be",
     "ဘူဂေးရီးယား": "bg",
     "မက်ဆီဒိုးနီးယား": "mk",
     "မလေယာလမ်": "ml",
@@ -13109,17 +13767,17 @@
     "မာရာသီ": "mr",
     "မော်ရီ": "mi",
     "မော်လတာ": "mt",
-    "မြန်မာ (မြန်မာ)": "my",
+    "မြန်မာ": "my",
     "မွန်ဂိုလီးယား": "mn",
     "ယူ​က​ရိန်း​": "uk",
     "ရိုမေးနီးယား": "ro",
     "ရုရှား": "ru",
     "လက်တင်": "la",
-    "လစ်သူယေးနီးယား": "lt",
+    "လစ်သူဝေးနီးယား": "lt",
     "လတ်ဗီယာ": "lv",
     "ဝေလ": "cy",
-    "ဟင်ဒီ": "hi",
     "ဟန်ဂေရီ": "hu",
+    "ဟိန္ဒူ": "hi",
     "ဟီဘရူး": "he",
     "ဟေတီ ခရီအိုး": "ht",
     "အက်စတိုးနီးယား": "et",
@@ -13162,8 +13820,8 @@
     "ቱርክኛ": "tr",
     "ታይኛ": "th",
     "ቴሉጉኛ": "te",
-    "ቻይንኛ   (ቀላሉ)": "zh-cn",
-    "ቻይንኛ  (ባሕላዊው)": "zh-tw",
+    "ቻይንኛ (ቀላሉ)": "zh-cn",
+    "ቻይንኛ (ባሕላዊው)": "zh-tw",
     "ቼክኛ": "cs",
     "ኖርዌጅያንኛ": "nb",
     "አልባንያኛ": "sq",
@@ -13177,7 +13835,8 @@
     "ኤስፐራንቶ": "eo",
     "እንዶኔዢያኛ": "id",
     "እንግሊዝኛ": "en",
-    "ኩርድሽኛ": "ku",
+    "ኩርድሽኛ (ሶራኒ)": "ckb",
+    "ኩርድሽኛ (ኩርማንጂ)": "ku",
     "ካታላንኛ": "ca",
     "ካናዳኛ": "kn",
     "ክሮኤሽያኛ": "hr",
@@ -13201,6 +13860,8 @@
     "ፐርሺያኛ": "fa",
     "ፖሊሽኛ": "pl",
     "ፖርቱጋሊኛ": "pt",
+    "ả rập": "ar",
+    "‏סינית (פשוטה)": "zh-cn",
     "にほんご": "ja",
     "アイスランド語": "is",
     "アイルランド語": "ga",
@@ -13221,7 +13882,8 @@
     "カンナダ語": "kn",
     "ガリシア語": "gl",
     "ギリシャ語": "el",
-    "クルド語": "ku",
+    "クルド語（クルマンジー）": "ku",
+    "クルド語（ソラニー）": "ckb",
     "クロアチア語": "hr",
     "スウェーデン語": "sv",
     "スコットランド ゲール語": "gd",
@@ -13256,7 +13918,7 @@
     "マラーティー語": "mr",
     "マルタ語": "mt",
     "マレー語": "ms",
-    "ミャンマー語": "my",
+    "ミャンマー語（ビルマ語）": "my",
     "モンゴル語": "mn",
     "ラテン語": "la",
     "ラトビア語": "lv",
@@ -13265,12 +13927,12 @@
     "ロシア語": "ru",
     "世界語": "eo",
     "世界语": "eo",
-    "中国語(簡体)": "zh-cn",
-    "中国語(繁体)": "zh-tw",
-    "中文(简体)": "zh-cn",
-    "中文(簡體)": "zh-cn",
-    "中文(繁体)": "zh-tw",
-    "中文(繁體)": "zh-tw",
+    "中国語（簡体）": "zh-cn",
+    "中国語（繁体）": "zh-tw",
+    "中文 (簡體)": "zh-cn",
+    "中文 (繁體)": "zh-tw",
+    "中文（简体）": "zh-cn",
+    "中文（繁体）": "zh-tw",
     "丹麥文": "da",
     "丹麦语": "da",
     "乌克兰语": "uk",
@@ -13312,8 +13974,10 @@
     "希伯来语": "he",
     "希腊语": "el",
     "希臘文": "el",
-    "库尔德语": "ku",
-    "庫德文": "ku",
+    "库尔德语（库尔曼吉语）": "ku",
+    "库尔德语（索拉尼）": "ckb",
+    "庫德文 (庫爾曼吉文)": "ku",
+    "庫德文 (索拉尼文)": "ckb",
     "德文": "de",
     "德语": "de",
     "意大利语": "it",
@@ -13418,7 +14082,7 @@
     "말레이어": "ms",
     "몰타어": "mt",
     "몽골어": "mn",
-    "미얀마어 (버마어)": "my",
+    "미얀마어(버마어)": "my",
     "바스크어": "eu",
     "베트남어": "vi",
     "벨라루스어": "be",
@@ -13452,7 +14116,8 @@
     "체코어": "cs",
     "카탈로니아어": "ca",
     "칸나다어": "kn",
-    "쿠르드어": "ku",
+    "쿠르드어(소라니)": "ckb",
+    "쿠르드어(쿠르만지)": "ku",
     "크로아티아어": "hr",
     "태국어": "th",
     "터키어": "tr",
@@ -13509,7 +14174,7 @@
       },
       {
         "code": "pt-br",
-        "name": "ፖርቱጋልኛ (ብራዚላዊ)"
+        "name": "ፖርቱጋልኛ (ብራዚል)"
       },
       {
         "code": "es-419",
@@ -13523,7 +14188,7 @@
       },
       {
         "code": "hi",
-        "name": "الهندية"
+        "name": "هندي"
       },
       {
         "code": "pt-br",
@@ -13541,7 +14206,7 @@
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "hind"
       },
       {
         "code": "pt-br",
@@ -13555,7 +14220,7 @@
     "be": [
       {
         "code": "zh-cn",
-        "name": "Кітайская (мандарын)"
+        "name": "кітайская (мандарын)"
       },
       {
         "code": "hi",
@@ -13563,17 +14228,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Партугальская (бразільскі)"
+        "name": "партугальская (бразільская)"
       },
       {
         "code": "es-419",
-        "name": "Іспанская (лацінаамерыканская)"
+        "name": "іспанская (лацінаамерыканская)"
       }
     ],
     "bg": [
       {
         "code": "zh-cn",
-        "name": "Китайски (мандарин)"
+        "name": "китайски (мандарин)"
       },
       {
         "code": "hi",
@@ -13581,11 +14246,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Португалски (бразилски)"
+        "name": "португалски (бразилски)"
       },
       {
         "code": "es-419",
-        "name": "Испански (латиноамерикански)"
+        "name": "испански (латиноамерикански)"
       }
     ],
     "ca": [
@@ -13595,21 +14260,39 @@
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portuguès (brasiler)"
+        "name": "portuguès (brasiler)"
       },
       {
         "code": "es-419",
-        "name": "Espanyol (llatinoamericà)"
+        "name": "espanyol (llatinoamericà)"
+      }
+    ],
+    "ckb": [
+      {
+        "code": "zh-cn",
+        "name": "چینی (ماندارین)"
+      },
+      {
+        "code": "hi",
+        "name": "هیندی"
+      },
+      {
+        "code": "pt-br",
+        "name": "پورتوگالی (بەڕازیلی)"
+      },
+      {
+        "code": "es-419",
+        "name": "ئیسپانی (ئەمریکی لاتین)"
       }
     ],
     "cs": [
       {
         "code": "zh-cn",
-        "name": "Čínština (mandarinka)"
+        "name": "čínština (mandarínština)"
       },
       {
         "code": "hi",
@@ -13617,17 +14300,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugalština (brazilská)"
+        "name": "portugalština (brazilská)"
       },
       {
         "code": "es-419",
-        "name": "Španělština (latinskoamerická)"
+        "name": "španělština (latinskoamerická)"
       }
     ],
     "cy": [
       {
         "code": "zh-cn",
-        "name": "Tsieineaidd (Mandarin)"
+        "name": "Tsieinëeg (Mandarin)"
       },
       {
         "code": "hi",
@@ -13639,25 +14322,25 @@
       },
       {
         "code": "es-419",
-        "name": "Sbaeneg (America Ladin)"
+        "name": "Sbaeneg (America Lladin)"
       }
     ],
     "da": [
       {
         "code": "zh-cn",
-        "name": "Kinesisk (mandarin)"
+        "name": "kinesisk (mandarin)"
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portugisisk (brasiliansk)"
+        "name": "portugisisk (brasiliansk)"
       },
       {
         "code": "es-419",
-        "name": "Spansk (latinamerikansk)"
+        "name": "spansk (latinamerikansk)"
       }
     ],
     "de": [
@@ -13671,17 +14354,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugiesisch (brasilianisch)"
+        "name": "Portugiesisch (Brasilianisch)"
       },
       {
         "code": "es-419",
-        "name": "Spanisch (Lateinamerikanisch)"
+        "name": "Spanisch (Lateinamerika)"
       }
     ],
     "el": [
       {
         "code": "zh-cn",
-        "name": "Κινέζικα (μανταρινικά)"
+        "name": "κινέζικα (μανταρίνια)"
       },
       {
         "code": "hi",
@@ -13689,7 +14372,7 @@
       },
       {
         "code": "pt-br",
-        "name": "Πορτογαλικά (Βραζιλίας)"
+        "name": "Πορτογαλικά (Βραζιλιάνικα)"
       },
       {
         "code": "es-419",
@@ -13705,11 +14388,11 @@
     "eo": [
       {
         "code": "zh-cn",
-        "name": "Ĉina (mandarena)"
+        "name": "Ĉina (mandarina)"
       },
       {
         "code": "hi",
-        "name": "Hinda"
+        "name": "Hindia"
       },
       {
         "code": "pt-br",
@@ -13717,7 +14400,7 @@
       },
       {
         "code": "es-419",
-        "name": "Hispana (latina)"
+        "name": "hispana (latin-amerika)"
       }
     ],
     "es": [
@@ -13731,11 +14414,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugués (brasileño)"
+        "name": "portugués (brasileño)"
       },
       {
         "code": "es-419",
-        "name": "Español (latinoamericano)"
+        "name": "español (latinoamericano)"
       }
     ],
     "es-419": [
@@ -13749,47 +14432,47 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugués (brasileño)"
+        "name": "portugués (brasileño)"
       },
       {
         "code": "es-419",
-        "name": "Español (latinoamericano)"
+        "name": "español (latinoamericano)"
       }
     ],
     "et": [
       {
         "code": "zh-cn",
-        "name": "Hiina (mandariini)"
+        "name": "hiina (mandariini)"
       },
       {
         "code": "hi",
-        "name": "Hindi keel"
+        "name": "hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portugali (Brasiilia)"
+        "name": "portugali (Brasiilia)"
       },
       {
         "code": "es-419",
-        "name": "Hispaania keel (Ladina-Ameerika)"
+        "name": "hispaania (Ladina-Ameerika)"
       }
     ],
     "eu": [
       {
         "code": "zh-cn",
-        "name": "Txinera (mandarina)"
+        "name": "txinera (mandariarra)"
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "Hindia"
       },
       {
         "code": "pt-br",
-        "name": "Portugesa (brasildarra)"
+        "name": "portugesa (brasildarra)"
       },
       {
         "code": "es-419",
-        "name": "Espainiera (latinoamerikarra)"
+        "name": "Gaztelania (Latinoamerika)"
       }
     ],
     "fa": [
@@ -13813,7 +14496,7 @@
     "fi": [
       {
         "code": "zh-cn",
-        "name": "Kiina (mandariini)"
+        "name": "kiina (mandariini)"
       },
       {
         "code": "hi",
@@ -13821,11 +14504,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugali (brasilia)"
+        "name": "portugali (Brasilia)"
       },
       {
         "code": "es-419",
-        "name": "Espanja (Latinalainen Amerikka)"
+        "name": "espanja (latinalainen Amerikka)"
       }
     ],
     "fr": [
@@ -13839,11 +14522,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugais (brésilien)"
+        "name": "portugais (brésilien)"
       },
       {
         "code": "es-419",
-        "name": "Espagnol (latino-américain)"
+        "name": "Espagnol (Amérique latine)"
       }
     ],
     "ga": [
@@ -13857,17 +14540,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portaingéilis (Brasaíle)"
+        "name": "Portaingéilis (An Bhrasaíl)"
       },
       {
         "code": "es-419",
-        "name": "Spáinnis (Meiriceá Laidineach)"
+        "name": "Spáinnis (Mheiriceá Laidineach)"
       }
     ],
     "gd": [
       {
         "code": "zh-cn",
-        "name": "Sìneach (Mandarin)"
+        "name": "Sìonais (Mandarin)"
       },
       {
         "code": "hi",
@@ -13875,7 +14558,7 @@
       },
       {
         "code": "pt-br",
-        "name": "Portuguese (Brazilian)"
+        "name": "Portagailis (Braisil)"
       },
       {
         "code": "es-419",
@@ -13885,7 +14568,7 @@
     "gl": [
       {
         "code": "zh-cn",
-        "name": "Chinés (mandarín)"
+        "name": "chinés (mandarín)"
       },
       {
         "code": "hi",
@@ -13893,11 +14576,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugués (brasileiro)"
+        "name": "portugués (brasileiro)"
       },
       {
         "code": "es-419",
-        "name": "Español (latinoamericano)"
+        "name": "español (latinoamericano)"
       }
     ],
     "he": [
@@ -13939,7 +14622,7 @@
     "hr": [
       {
         "code": "zh-cn",
-        "name": "Kineski (mandarinski)"
+        "name": "kineski (mandarinski)"
       },
       {
         "code": "hi",
@@ -13947,17 +14630,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugalski (brazilski)"
+        "name": "portugalski (brazilski)"
       },
       {
         "code": "es-419",
-        "name": "Španjolski (latinoamerički)"
+        "name": "španjolski (latinoamerički)"
       }
     ],
     "ht": [
       {
         "code": "zh-cn",
-        "name": "Chinwa (Mandaren)"
+        "name": "Chinwa (Mandarin)"
       },
       {
         "code": "hi",
@@ -13965,17 +14648,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Pòtigè (brezilyen)"
+        "name": "Pòtigè (Brezilyen)"
       },
       {
         "code": "es-419",
-        "name": "Panyòl (Amerik Latin)"
+        "name": "Panyòl (Ameriken Latin)"
       }
     ],
     "hu": [
       {
         "code": "zh-cn",
-        "name": "Kínai (mandarin)"
+        "name": "kínai (mandarin)"
       },
       {
         "code": "hi",
@@ -13983,35 +14666,35 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugál (brazil)"
+        "name": "portugál (brazil)"
       },
       {
         "code": "es-419",
-        "name": "Spanyol (latin-amerikai)"
+        "name": "spanyol (latin-amerikai)"
       }
     ],
     "hy": [
       {
         "code": "zh-cn",
-        "name": "Չինարեն (մանդարին)"
+        "name": "չինարեն (մանդարին)"
       },
       {
         "code": "hi",
-        "name": "Հինդի"
+        "name": "հինդի"
       },
       {
         "code": "pt-br",
-        "name": "Պորտուգալերեն (բրազիլական)"
+        "name": "պորտուգալերեն (բրազիլերեն)"
       },
       {
         "code": "es-419",
-        "name": "Իսպաներեն (լատինաամերիկյան)"
+        "name": "իսպաներեն (լատինամերիկյան)"
       }
     ],
     "id": [
       {
         "code": "zh-cn",
-        "name": "Mandarin (Mandarin)"
+        "name": "Cina (Mandarin)"
       },
       {
         "code": "hi",
@@ -14029,19 +14712,19 @@
     "is": [
       {
         "code": "zh-cn",
-        "name": "Kínverska (Mandarin)"
+        "name": "kínverska (mandarín)"
       },
       {
         "code": "hi",
-        "name": "Hindí"
+        "name": "hindí"
       },
       {
         "code": "pt-br",
-        "name": "Portúgalska (brasilíska)"
+        "name": "Portúgalska (Brasilíska)"
       },
       {
         "code": "es-419",
-        "name": "Spænska (rómönsku-ameríska)"
+        "name": "spænska (latínameríska)"
       }
     ],
     "it": [
@@ -14055,17 +14738,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portoghese (brasiliano)"
+        "name": "portoghese (brasiliano)"
       },
       {
         "code": "es-419",
-        "name": "Spagnolo (latino-americano)"
+        "name": "spagnolo (latinoamericano)"
       }
     ],
     "ja": [
       {
         "code": "zh-cn",
-        "name": "中国語（標準語）"
+        "name": "中国語 (北京語)"
       },
       {
         "code": "hi",
@@ -14073,17 +14756,17 @@
       },
       {
         "code": "pt-br",
-        "name": "ポルトガル語（ブラジル）"
+        "name": "ポルトガル語 (ブラジル)"
       },
       {
         "code": "es-419",
-        "name": "スペイン語（ラテンアメリカ）"
+        "name": "スペイン語 (ラテンアメリカ)"
       }
     ],
     "ja-hira": [
       {
         "code": "zh-cn",
-        "name": "中国語（標準語）"
+        "name": "中国語 (北京語)"
       },
       {
         "code": "hi",
@@ -14091,11 +14774,11 @@
       },
       {
         "code": "pt-br",
-        "name": "ポルトガル語（ブラジル）"
+        "name": "ポルトガル語 (ブラジル)"
       },
       {
         "code": "es-419",
-        "name": "スペイン語（ラテンアメリカ）"
+        "name": "スペイン語 (ラテンアメリカ)"
       }
     ],
     "kn": [
@@ -14119,7 +14802,7 @@
     "ko": [
       {
         "code": "zh-cn",
-        "name": "중국어 (북경어)"
+        "name": "중국어(북경어)"
       },
       {
         "code": "hi",
@@ -14127,17 +14810,17 @@
       },
       {
         "code": "pt-br",
-        "name": "포르투갈어 (브라질)"
+        "name": "포르투갈어(브라질)"
       },
       {
         "code": "es-419",
-        "name": "스페인어 (라틴 아메리카)"
+        "name": "스페인어(라틴 아메리카)"
       }
     ],
     "ku": [
       {
         "code": "zh-cn",
-        "name": "Chinese (Mandarin)"
+        "name": "Çînî (Mandarîn)"
       },
       {
         "code": "hi",
@@ -14145,35 +14828,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portekîz (Brazilian)"
+        "name": "Portekîzî (Brazîlya)"
       },
       {
         "code": "es-419",
-        "name": "Spanish (Amerîkaya Latîn)"
+        "name": "Spanî (Amerîkaya Latîn)"
       }
     ],
     "la": [
       {
         "code": "zh-cn",
-        "name": "Seres (Latin)"
-      },
-      {
-        "code": "hi",
-        "name": "Hibernica"
-      },
-      {
-        "code": "pt-br",
-        "name": "Portuguese (Spanish)"
-      },
-      {
-        "code": "es-419",
-        "name": "Hispanica (Latin American)"
-      }
-    ],
-    "lt": [
-      {
-        "code": "zh-cn",
-        "name": "Kinų (mandarinų)"
+        "name": "Seres (Mandarin)"
       },
       {
         "code": "hi",
@@ -14181,7 +14846,25 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugalų (Brazilijos)"
+        "name": "Portuguese (Brazilian)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanish"
+      }
+    ],
+    "lt": [
+      {
+        "code": "zh-cn",
+        "name": "kinų (mandarinų)"
+      },
+      {
+        "code": "hi",
+        "name": "hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "portugalų (Brazilijos)"
       },
       {
         "code": "es-419",
@@ -14191,25 +14874,25 @@
     "lv": [
       {
         "code": "zh-cn",
-        "name": "Ķīniešu (mandarīnu)"
+        "name": "ķīniešu (mandarīnu)"
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portugāļu (Brazīlijas)"
+        "name": "portugāļu (Brazīlijas)"
       },
       {
         "code": "es-419",
-        "name": "Spāņu (latīņamerikāņu)"
+        "name": "spāņu (latīņamerikāņu)"
       }
     ],
     "mi": [
       {
         "code": "zh-cn",
-        "name": "Hainamana (Mandarin)"
+        "name": "Hainamana (Māriki)"
       },
       {
         "code": "hi",
@@ -14217,35 +14900,35 @@
       },
       {
         "code": "pt-br",
-        "name": "Potukua (Brazil)"
+        "name": "Potiti (Brazilian)"
       },
       {
         "code": "es-419",
-        "name": "Pāniora (Latin American)"
+        "name": "Paniora (Amerika Raina)"
       }
     ],
     "mk": [
       {
         "code": "zh-cn",
-        "name": "Кинески (мандарински)"
+        "name": "кинески (мандарински)"
       },
       {
         "code": "hi",
-        "name": "Хинди"
+        "name": "хинди"
       },
       {
         "code": "pt-br",
-        "name": "Португалски (бразилски)"
+        "name": "португалски (бразилски)"
       },
       {
         "code": "es-419",
-        "name": "Шпански (Латинска Америка)"
+        "name": "шпански (латиноамерикански)"
       }
     ],
     "ml": [
       {
         "code": "zh-cn",
-        "name": "ചൈനീസ് (മന്ദാരിൻ)"
+        "name": "ചൈനീസ് (മാൻഡറിൻ)"
       },
       {
         "code": "hi",
@@ -14253,7 +14936,7 @@
       },
       {
         "code": "pt-br",
-        "name": "പോർച്ചുഗീസ് (ബ്രസീൽ)"
+        "name": "പോർച്ചുഗീസ് (ബ്രസീലിയൻ)"
       },
       {
         "code": "es-419",
@@ -14263,25 +14946,25 @@
     "mn": [
       {
         "code": "zh-cn",
-        "name": "Хятад хэл (Мандарин)"
+        "name": "Хятад (Мандарин)"
       },
       {
         "code": "hi",
-        "name": "Хинди хэл"
+        "name": "Хинди"
       },
       {
         "code": "pt-br",
-        "name": "Португал хэл (Бразил)"
+        "name": "Португали (Бразил)"
       },
       {
         "code": "es-419",
-        "name": "Испани хэл (Латин Америк)"
+        "name": "Испани (Латин Америк)"
       }
     ],
     "mr": [
       {
         "code": "zh-cn",
-        "name": "चीनी (मंदारिन)"
+        "name": "चीनी (मंडारीन)"
       },
       {
         "code": "hi",
@@ -14329,13 +15012,13 @@
       },
       {
         "code": "es-419",
-        "name": "Spanjol (Latin-Amerikan)"
+        "name": "Spanjol (Amerika Latina)"
       }
     ],
     "my": [
       {
         "code": "zh-cn",
-        "name": "တရုတ် (တရုတ်)"
+        "name": "တရုတ် (မန်ဒရင်း)"
       },
       {
         "code": "hi",
@@ -14347,25 +15030,25 @@
       },
       {
         "code": "es-419",
-        "name": "စပိန်ဘာသာစကား (လက်တင်အမေရိက)"
+        "name": "စပိန် (လက်တင်အမေရိက)"
       }
     ],
     "nb": [
       {
         "code": "zh-cn",
-        "name": "Kinesisk (mandarin)"
+        "name": "kinesisk (mandarin)"
       },
       {
         "code": "hi",
-        "name": "hindi"
+        "name": "Hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portugisisk (brasiliansk)"
+        "name": "portugisisk (brasiliansk)"
       },
       {
         "code": "es-419",
-        "name": "Spansk (latinamerikansk)"
+        "name": "spansk (latinamerikansk)"
       }
     ],
     "nl": [
@@ -14386,28 +15069,10 @@
         "name": "Spaans (Latijns-Amerikaans)"
       }
     ],
-    "nn": [
-      {
-        "code": "zh-cn",
-        "name": "Kinesisk (mandarin)"
-      },
-      {
-        "code": "hi",
-        "name": "hindi"
-      },
-      {
-        "code": "pt-br",
-        "name": "Portugisisk (brasiliansk)"
-      },
-      {
-        "code": "es-419",
-        "name": "Spansk (latinamerikansk)"
-      }
-    ],
     "pl": [
       {
         "code": "zh-cn",
-        "name": "Chiński (mandaryński)"
+        "name": "chiński (mandaryński)"
       },
       {
         "code": "hi",
@@ -14415,11 +15080,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugalski (brazylijski)"
+        "name": "portugalski (brazylijski)"
       },
       {
         "code": "es-419",
-        "name": "Hiszpański (latynoamerykański)"
+        "name": "hiszpański (latynoamerykański)"
       }
     ],
     "pt": [
@@ -14433,7 +15098,7 @@
       },
       {
         "code": "pt-br",
-        "name": "Português (brasileiro)"
+        "name": "português (brasileiro)"
       },
       {
         "code": "es-419",
@@ -14451,7 +15116,7 @@
       },
       {
         "code": "pt-br",
-        "name": "Português (brasileiro)"
+        "name": "português (brasileiro)"
       },
       {
         "code": "es-419",
@@ -14469,11 +15134,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugheză (braziliană)"
+        "name": "portugheză (braziliană)"
       },
       {
         "code": "es-419",
-        "name": "Spaniolă (latino-americană)"
+        "name": "Spaniolă (America Latină)"
       }
     ],
     "ru": [
@@ -14491,13 +15156,13 @@
       },
       {
         "code": "es-419",
-        "name": "Испанский (латиноамериканский)"
+        "name": "испанский (латиноамериканский)"
       }
     ],
     "sk": [
       {
         "code": "zh-cn",
-        "name": "Čínština (mandarínska)"
+        "name": "čínština (mandarínčina)"
       },
       {
         "code": "hi",
@@ -14505,35 +15170,17 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugalčina (brazílska)"
+        "name": "portugalčina (brazílska)"
       },
       {
         "code": "es-419",
-        "name": "Španielčina (latinskoamerická)"
+        "name": "španielčina (latinskoamerická)"
       }
     ],
     "sl": [
       {
         "code": "zh-cn",
-        "name": "Kitajščina (mandarina)"
-      },
-      {
-        "code": "hi",
-        "name": "Hindujščina"
-      },
-      {
-        "code": "pt-br",
-        "name": "Portugalščina (brazilska)"
-      },
-      {
-        "code": "es-419",
-        "name": "Španščina (latinskoameriška)"
-      }
-    ],
-    "sq": [
-      {
-        "code": "zh-cn",
-        "name": "Kinezisht (Mandarin)"
+        "name": "kitajščina (mandarinščina)"
       },
       {
         "code": "hi",
@@ -14541,29 +15188,47 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugeze (Braziliane)"
+        "name": "portugalščina (brazilščina)"
       },
       {
         "code": "es-419",
-        "name": "Spanjisht (Amerika Latine)"
+        "name": "španščina (latinskoameriška)"
+      }
+    ],
+    "sq": [
+      {
+        "code": "zh-cn",
+        "name": "Kinezisht (mandarinisht)"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "pt-br",
+        "name": "portugeze (braziliane)"
+      },
+      {
+        "code": "es-419",
+        "name": "Spanjisht (Amerikan Latine)"
       }
     ],
     "sr": [
       {
         "code": "zh-cn",
-        "name": "Кинески (мандарински)"
+        "name": "кинески (мандарински)"
       },
       {
         "code": "hi",
-        "name": "Хиндски"
+        "name": "Хинди"
       },
       {
         "code": "pt-br",
-        "name": "Португалски (бразилски)"
+        "name": "португалски (бразилски)"
       },
       {
         "code": "es-419",
-        "name": "Шпански (латиноамерички)"
+        "name": "шпански (латиноамерички)"
       }
     ],
     "sv": [
@@ -14573,15 +15238,15 @@
       },
       {
         "code": "hi",
-        "name": "Hindi"
+        "name": "hindi"
       },
       {
         "code": "pt-br",
-        "name": "Portugisiska (brasilianska)"
+        "name": "portugisiska (brasilianska)"
       },
       {
         "code": "es-419",
-        "name": "Spanska (latinamerikanska)"
+        "name": "spanska (latinamerikansk)"
       }
     ],
     "te": [
@@ -14641,7 +15306,7 @@
     "uk": [
       {
         "code": "zh-cn",
-        "name": "Китайська (мандарин)"
+        "name": "китайська (мандарин)"
       },
       {
         "code": "hi",
@@ -14649,21 +15314,21 @@
       },
       {
         "code": "pt-br",
-        "name": "Португальська (бразильська)"
+        "name": "португальська (бразильська)"
       },
       {
         "code": "es-419",
-        "name": "Іспанська (латиноамериканська)"
+        "name": "Іспанська (Латинська Америка)"
       }
     ],
     "uz": [
       {
         "code": "zh-cn",
-        "name": "Xitoy (Mandarin)"
+        "name": "Xitoy (mandarin)"
       },
       {
         "code": "hi",
-        "name": "Hindcha"
+        "name": "hind"
       },
       {
         "code": "pt-br",
@@ -14677,7 +15342,7 @@
     "vi": [
       {
         "code": "zh-cn",
-        "name": "Tiếng trung quốc"
+        "name": "Tiếng Trung (Quan thoại)"
       },
       {
         "code": "hi",
@@ -14685,11 +15350,11 @@
       },
       {
         "code": "pt-br",
-        "name": "Bồ Đào Nha (Brazil)"
+        "name": "Tiếng Bồ Đào Nha (Brazil)"
       },
       {
         "code": "es-419",
-        "name": "Tây Ban Nha (Mỹ Latinh)"
+        "name": "Tiếng Tây Ban Nha (Mỹ Latinh)"
       }
     ],
     "zh-cn": [
@@ -14731,7 +15396,7 @@
     "zu": [
       {
         "code": "zh-cn",
-        "name": "IsiShayina (isiMandarin)"
+        "name": "IsiShayina (Mandarin)"
       },
       {
         "code": "hi",
@@ -14739,11 +15404,11 @@
       },
       {
         "code": "pt-br",
-        "name": "IsiPutukezi (saseBrazil)"
+        "name": "Isi-Portuguese (Brazilian)"
       },
       {
         "code": "es-419",
-        "name": "ISpanishi (Latin American)"
+        "name": "Isi-Spanish (Latin American)"
       }
     ]
   }

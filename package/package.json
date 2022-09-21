@@ -1,6 +1,6 @@
 {
   "name": "scratch-translate-extension-languages",
-  "version": "0.0.20191118205314",
+  "version": "0.0.0-development",
   "description": "Languages used by the Scratch 3.0 Translate extension",
   "main": "languages.json",
   "scripts": {
