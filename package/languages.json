@@ -2155,7 +2155,7 @@
       },
       {
         "code": "ga",
-        "name": "Irish"
+        "name": "Irish Gaelic"
       },
       {
         "code": "it",
@@ -7418,124 +7418,140 @@
     ],
     "pt": [
       {
+        "code": "de",
+        "name": "Alemão"
+      },
+      {
         "code": "am",
-        "name": "Amharic"
+        "name": "Amárico"
       },
       {
         "code": "ar",
-        "name": "Arabic"
+        "name": "Árabe"
       },
       {
         "code": "az",
-        "name": "Azerbaijani"
+        "name": "Azerbaijano"
       },
       {
         "code": "eu",
-        "name": "Basque"
+        "name": "Basco"
       },
       {
         "code": "bg",
-        "name": "Bulgarian"
+        "name": "Búlgaro"
       },
       {
         "code": "ca",
-        "name": "Catalan"
+        "name": "Catalão"
       },
       {
         "code": "zh-cn",
-        "name": "Chinese (Simplified)"
+        "name": "Chinês (simplificado)"
       },
       {
         "code": "zh-tw",
-        "name": "Chinese (Traditional)"
-      },
-      {
-        "code": "hr",
-        "name": "Croatian"
-      },
-      {
-        "code": "cs",
-        "name": "Czech"
-      },
-      {
-        "code": "da",
-        "name": "Danish"
-      },
-      {
-        "code": "nl",
-        "name": "Dutch"
-      },
-      {
-        "code": "en",
-        "name": "English"
-      },
-      {
-        "code": "et",
-        "name": "Estonian"
-      },
-      {
-        "code": "fi",
-        "name": "Finnish"
-      },
-      {
-        "code": "fr",
-        "name": "French"
-      },
-      {
-        "code": "gl",
-        "name": "Galician"
-      },
-      {
-        "code": "de",
-        "name": "German"
-      },
-      {
-        "code": "el",
-        "name": "Greek"
-      },
-      {
-        "code": "he",
-        "name": "Hebrew"
-      },
-      {
-        "code": "hu",
-        "name": "Hungarian"
-      },
-      {
-        "code": "is",
-        "name": "Icelandic"
-      },
-      {
-        "code": "id",
-        "name": "Indonesian"
-      },
-      {
-        "code": "ga",
-        "name": "Irish"
-      },
-      {
-        "code": "it",
-        "name": "Italian"
-      },
-      {
-        "code": "ja",
-        "name": "Japanese"
+        "name": "Chinês (tradicional)"
       },
       {
         "code": "ko",
-        "name": "Korean"
+        "name": "Coreano"
+      },
+      {
+        "code": "hr",
+        "name": "Croata"
       },
       {
         "code": "ckb",
-        "name": "Kurdish (Sorani)"
+        "name": "Curdo (sorâni)"
+      },
+      {
+        "code": "da",
+        "name": "Dinamarquês"
+      },
+      {
+        "code": "sk",
+        "name": "Eslovaco"
+      },
+      {
+        "code": "sl",
+        "name": "Esloveno"
+      },
+      {
+        "code": "es",
+        "name": "Espanhol"
+      },
+      {
+        "code": "et",
+        "name": "Estoniano"
+      },
+      {
+        "code": "fi",
+        "name": "Finlandês"
+      },
+      {
+        "code": "fr",
+        "name": "Francês"
+      },
+      {
+        "code": "gd",
+        "name": "Gaélico escocês"
+      },
+      {
+        "code": "gl",
+        "name": "Galego"
+      },
+      {
+        "code": "cy",
+        "name": "Galês"
+      },
+      {
+        "code": "el",
+        "name": "Grego"
+      },
+      {
+        "code": "he",
+        "name": "Hebraico"
+      },
+      {
+        "code": "nl",
+        "name": "Holandês"
+      },
+      {
+        "code": "hu",
+        "name": "Húngaro"
+      },
+      {
+        "code": "id",
+        "name": "Indonésio"
+      },
+      {
+        "code": "en",
+        "name": "Inglês"
+      },
+      {
+        "code": "ga",
+        "name": "Irlandês"
+      },
+      {
+        "code": "is",
+        "name": "Islandês"
+      },
+      {
+        "code": "it",
+        "name": "Italiano"
+      },
+      {
+        "code": "ja",
+        "name": "Japonês"
       },
       {
         "code": "lv",
-        "name": "Latvian"
+        "name": "Letão"
       },
       {
         "code": "lt",
-        "name": "Lithuanian"
+        "name": "Lituano"
       },
       {
         "code": "mi",
@@ -7543,71 +7559,55 @@
       },
       {
         "code": "nb",
-        "name": "Norwegian"
+        "name": "Norueguês"
       },
       {
         "code": "fa",
-        "name": "Persian"
+        "name": "Persa"
       },
       {
         "code": "pl",
-        "name": "Polish"
+        "name": "Polonês"
       },
       {
         "code": "pt",
-        "name": "Portuguese"
+        "name": "Português"
       },
       {
         "code": "ro",
-        "name": "Romanian"
+        "name": "Romeno"
       },
       {
         "code": "ru",
-        "name": "Russian"
-      },
-      {
-        "code": "gd",
-        "name": "Scots Gaelic"
+        "name": "Russo"
       },
       {
         "code": "sr",
-        "name": "Serbian"
-      },
-      {
-        "code": "sk",
-        "name": "Slovak"
-      },
-      {
-        "code": "sl",
-        "name": "Slovenian"
-      },
-      {
-        "code": "es",
-        "name": "Spanish"
+        "name": "Sérvio"
       },
       {
         "code": "sv",
-        "name": "Swedish"
+        "name": "Sueco"
       },
       {
         "code": "th",
-        "name": "Thai"
+        "name": "Tailandês"
+      },
+      {
+        "code": "cs",
+        "name": "Tcheco"
       },
       {
         "code": "tr",
-        "name": "Turkish"
+        "name": "Turco"
       },
       {
         "code": "uk",
-        "name": "Ukrainian"
+        "name": "Ucraniano"
       },
       {
         "code": "vi",
-        "name": "Vietnamese"
-      },
-      {
-        "code": "cy",
-        "name": "Welsh"
+        "name": "Vietnamita"
       },
       {
         "code": "zu",
@@ -7615,11 +7615,11 @@
       },
       {
         "code": "he",
-        "name": "Hebrew"
+        "name": "Hebraico"
       },
       {
         "code": "zh-cn",
-        "name": "Chinese (Simplified)"
+        "name": "Chinês (simplificado)"
       }
     ],
     "pt-br": [
@@ -11316,6 +11316,7 @@
     "ireland": "ga",
     "irisch": "ga",
     "irish": "ga",
+    "irish gaelic": "ga",
     "irland": "ga",
     "irlandais": "ga",
     "irlandera": "ga",
@@ -11616,7 +11617,7 @@
     "laidin": "la",
     "laitbheis": "lv",
     "laitvis": "lv",
-    "lateinisch": "la",
+    "latein": "la",
     "laten": "la",
     "latfieg": "lv",
     "latijn": "la",
@@ -12749,6 +12750,7 @@
     "бурмански": "my",
     "български": "bg",
     "білоруська": "be",
+    "бірманская (м'янма)": "my",
     "бірманська": "my",
     "в'етнамская": "vi",
     "валлийский": "cy",
@@ -12819,9 +12821,9 @@
     "каннада": "kn",
     "карэйская": "ko",
     "каталан": "ca",
+    "каталанская": "ca",
     "каталанский": "ca",
     "каталанська": "ca",
-    "каталонская": "ca",
     "каталонски": "ca",
     "кинески (поедноставен)": "zh-cn",
     "кинески (поједностављени)": "zh-cn",
@@ -12872,7 +12874,6 @@
     "литовский": "lt",
     "литовська": "lt",
     "літоўская": "lt",
-    "м'янманская (бірманская)": "my",
     "маары": "mi",
     "македон": "mk",
     "македонская": "mk",
@@ -13751,7 +13752,7 @@
     "ထိုင်း": "th",
     "ဒတ်ချ်": "nl",
     "ဒိန်းမတ်": "da",
-    "နော်ဝေ": "nb",
+    "နော်ဝေး": "nb",
     "ပါရှန်": "fa",
     "ပိုလန်": "pl",
     "ပေါ်တူဂီ": "pt",
@@ -14188,7 +14189,7 @@
       },
       {
         "code": "hi",
-        "name": "هندي"
+        "name": "الهندية"
       },
       {
         "code": "pt-br",
@@ -14224,7 +14225,7 @@
       },
       {
         "code": "hi",
-        "name": "Хіндзі"
+        "name": "хіндзі"
       },
       {
         "code": "pt-br",
@@ -14282,7 +14283,7 @@
       },
       {
         "code": "pt-br",
-        "name": "پورتوگالی (بەڕازیلی)"
+        "name": "زمانی پورتوگالی (بەرازیلی)"
       },
       {
         "code": "es-419",
@@ -14358,7 +14359,7 @@
       },
       {
         "code": "es-419",
-        "name": "Spanisch (Lateinamerika)"
+        "name": "Spanisch (Lateinamerikanisch)"
       }
     ],
     "el": [
@@ -14414,11 +14415,11 @@
       },
       {
         "code": "pt-br",
-        "name": "portugués (brasileño)"
+        "name": "Portugués (brasileño)"
       },
       {
         "code": "es-419",
-        "name": "español (latinoamericano)"
+        "name": "Español (latinoamericano)"
       }
     ],
     "es-419": [
@@ -14432,11 +14433,11 @@
       },
       {
         "code": "pt-br",
-        "name": "portugués (brasileño)"
+        "name": "Portugués (brasileño)"
       },
       {
         "code": "es-419",
-        "name": "español (latinoamericano)"
+        "name": "Español (latinoamericano)"
       }
     ],
     "et": [
@@ -14508,7 +14509,7 @@
       },
       {
         "code": "es-419",
-        "name": "espanja (latinalainen Amerikka)"
+        "name": "espanja (latinalainen amerikka)"
       }
     ],
     "fr": [
@@ -14522,11 +14523,11 @@
       },
       {
         "code": "pt-br",
-        "name": "portugais (brésilien)"
+        "name": "Portugais (brésilien)"
       },
       {
         "code": "es-419",
-        "name": "Espagnol (Amérique latine)"
+        "name": "Espagnol (latino-américain)"
       }
     ],
     "ga": [
@@ -14608,15 +14609,15 @@
       },
       {
         "code": "hi",
-        "name": "हिन्दी"
+        "name": "हिंदी"
       },
       {
         "code": "pt-br",
-        "name": "पुर्तगाली (ब्राजील)"
+        "name": "पुर्तगाली (ब्राज़ीलियाई)"
       },
       {
         "code": "es-419",
-        "name": "स्पेनिश (लैटिन अमेरिकी)"
+        "name": "स्पैनिश (लैटिन अमेरिकी)"
       }
     ],
     "hr": [
@@ -14724,7 +14725,7 @@
       },
       {
         "code": "es-419",
-        "name": "spænska (latínameríska)"
+        "name": "Spænska (latínameríska)"
       }
     ],
     "it": [
@@ -14738,17 +14739,17 @@
       },
       {
         "code": "pt-br",
-        "name": "portoghese (brasiliano)"
+        "name": "Portoghese (brasiliano)"
       },
       {
         "code": "es-419",
-        "name": "spagnolo (latinoamericano)"
+        "name": "Spagnolo (latinoamericano)"
       }
     ],
     "ja": [
       {
         "code": "zh-cn",
-        "name": "中国語 (北京語)"
+        "name": "中国語（北京語）"
       },
       {
         "code": "hi",
@@ -14766,7 +14767,7 @@
     "ja-hira": [
       {
         "code": "zh-cn",
-        "name": "中国語 (北京語)"
+        "name": "中国語（北京語）"
       },
       {
         "code": "hi",
@@ -14904,7 +14905,7 @@
       },
       {
         "code": "es-419",
-        "name": "Paniora (Amerika Raina)"
+        "name": "Paniora (Rinaina Amerika)"
       }
     ],
     "mk": [
@@ -15084,7 +15085,7 @@
       },
       {
         "code": "es-419",
-        "name": "hiszpański (latynoamerykański)"
+        "name": "Hiszpański (Ameryka Łacińska)"
       }
     ],
     "pt": [
@@ -15098,11 +15099,11 @@
       },
       {
         "code": "pt-br",
-        "name": "português (brasileiro)"
+        "name": "Português (Brasileiro)"
       },
       {
         "code": "es-419",
-        "name": "Espanhol (latino-americano)"
+        "name": "Espanhol (Latino-Americano)"
       }
     ],
     "pt-br": [
@@ -15116,11 +15117,11 @@
       },
       {
         "code": "pt-br",
-        "name": "português (brasileiro)"
+        "name": "Português (Brasileiro)"
       },
       {
         "code": "es-419",
-        "name": "Espanhol (latino-americano)"
+        "name": "Espanhol (Latino-Americano)"
       }
     ],
     "ro": [
@@ -15156,7 +15157,7 @@
       },
       {
         "code": "es-419",
-        "name": "испанский (латиноамериканский)"
+        "name": "Испанский (Латиноамериканский)"
       }
     ],
     "sk": [
@@ -15198,7 +15199,7 @@
     "sq": [
       {
         "code": "zh-cn",
-        "name": "Kinezisht (mandarinisht)"
+        "name": "kineze (mandarinisht)"
       },
       {
         "code": "hi",
@@ -15270,11 +15271,11 @@
     "th": [
       {
         "code": "zh-cn",
-        "name": "จีน (แมนดาริน)"
+        "name": "จีน (กลาง)"
       },
       {
         "code": "hi",
-        "name": "ภาษาฮินดี"
+        "name": "ฮินดี"
       },
       {
         "code": "pt-br",
@@ -15342,7 +15343,7 @@
     "vi": [
       {
         "code": "zh-cn",
-        "name": "Tiếng Trung (Quan thoại)"
+        "name": "Tiếng Trung (Quan Thoại)"
       },
       {
         "code": "hi",
