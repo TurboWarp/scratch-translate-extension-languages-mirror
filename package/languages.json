@@ -13340,12 +13340,12 @@
     "چینی (سنتی)": "zh-tw",
     "ژاپنی": "ja",
     "کاتالان": "ca",
-    "کانارا": "kn",
     "کرئول هائیتی": "ht",
     "کردی (سورانی)": "ckb",
     "کردی (کرمانجی)": "ku",
     "کره‌ای": "ko",
     "کرواتی": "hr",
+    "کنادا": "kn",
     "گاليک اسکاتلندی": "gd",
     "گالیسی": "gl",
     "अंग्रेज़ी": "en",
@@ -14225,7 +14225,7 @@
       },
       {
         "code": "hi",
-        "name": "хіндзі"
+        "name": "Хіндзі"
       },
       {
         "code": "pt-br",
@@ -14397,7 +14397,7 @@
       },
       {
         "code": "pt-br",
-        "name": "Portugala (brazila)"
+        "name": "portugala (brazila)"
       },
       {
         "code": "es-419",
@@ -14725,7 +14725,7 @@
       },
       {
         "code": "es-419",
-        "name": "Spænska (latínameríska)"
+        "name": "spænska (latínameríska)"
       }
     ],
     "it": [
@@ -14905,7 +14905,7 @@
       },
       {
         "code": "es-419",
-        "name": "Paniora (Rinaina Amerika)"
+        "name": "Paniora (Amerika Raina)"
       }
     ],
     "mk": [
