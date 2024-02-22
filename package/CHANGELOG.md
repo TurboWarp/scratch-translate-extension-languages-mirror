@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/scratchfoundation/scratch-translate-extension-languages/compare/v1.0.3...v1.0.4) (2024-02-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-scratch to v9.0.6 ([bbf9adf](https://github.com/scratchfoundation/scratch-translate-extension-languages/commit/bbf9adfe3ee1924c83cf80774ca6446fc8fa269d))
+
 ## [1.0.3](https://github.com/scratchfoundation/scratch-translate-extension-languages/compare/v1.0.2...v1.0.3) (2024-02-22)
 
 
