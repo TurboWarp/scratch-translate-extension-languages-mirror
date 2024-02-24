@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/scratchfoundation/scratch-translate-extension-languages/compare/v1.0.5...v1.0.6) (2024-02-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-semantic-release-config to v1.0.14 ([9aaba66](https://github.com/scratchfoundation/scratch-translate-extension-languages/commit/9aaba66509679c61f70b874a72764f7e7920a675))
+
 ## [1.0.5](https://github.com/scratchfoundation/scratch-translate-extension-languages/compare/v1.0.4...v1.0.5) (2024-02-22)
 
 
